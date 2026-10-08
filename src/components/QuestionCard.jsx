@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bookmark, ChevronLeft, ChevronRight, CheckCircle2, XCircle, Grid, Send, Sparkles } from 'lucide-react';
+import { Bookmark, ChevronLeft, ChevronRight, CheckCircle2, XCircle, Grid, Send, Sparkles, Award } from 'lucide-react';
 
 export default function QuestionCard({
   question,
@@ -21,6 +21,7 @@ export default function QuestionCard({
   const isAnswered = selectedAnswer !== undefined && selectedAnswer !== null;
   const isPractice = mode === 'practice';
   const isCorrect = isAnswered && selectedAnswer === question.correctAnswer;
+  const isLastQuestion = questionIndex === totalQuestions - 1;
   const optionLetters = ['A', 'B', 'C', 'D', 'E', 'F'];
 
   return (
@@ -168,7 +169,7 @@ export default function QuestionCard({
             <span>Câu trước</span>
           </button>
 
-          {/* Center Info / Grid toggle */}
+          {/* Center Info / Grid toggle / View Result */}
           <div className="flex items-center gap-2">
             <button
               onClick={onOpenGrid}
@@ -178,32 +179,38 @@ export default function QuestionCard({
               <span className="hidden sm:inline">Danh sách</span>
             </button>
 
-            {mode === 'exam' && (
-              <button
-                type="button"
-                onClick={onSubmitExam}
-                className="px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-sm font-bold flex items-center gap-1.5 shadow-xs transition cursor-pointer"
-              >
-                <Send className="w-4 h-4" />
-                <span>Nộp Bài</span>
-              </button>
-            )}
+            {/* Always available Submit / View Result button */}
+            <button
+              type="button"
+              onClick={onSubmitExam}
+              className="px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-sm font-bold flex items-center gap-1.5 shadow-xs transition cursor-pointer"
+              title="Hoàn thành bài và xem bảng điểm"
+            >
+              <Award className="w-4 h-4" />
+              <span>{isPractice ? 'Xem Điểm' : 'Nộp Bài'}</span>
+            </button>
           </div>
 
-          {/* Next Button */}
-          <button
-            type="button"
-            onClick={onNext}
-            disabled={questionIndex === totalQuestions - 1}
-            className={`px-4 py-2.5 rounded-xl text-sm font-bold flex items-center gap-1.5 transition cursor-pointer ${
-              questionIndex === totalQuestions - 1
-                ? 'border border-slate-200 text-slate-300 bg-slate-100 cursor-not-allowed'
-                : 'bg-blue-600 hover:bg-blue-700 text-white shadow-xs'
-            }`}
-          >
-            <span>Câu tiếp</span>
-            <ChevronRight className="w-4 h-4" />
-          </button>
+          {/* Next Button or Final Finish Button */}
+          {isLastQuestion ? (
+            <button
+              type="button"
+              onClick={onSubmitExam}
+              className="px-5 py-2.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white rounded-xl text-sm font-bold flex items-center gap-2 shadow-md transition cursor-pointer"
+            >
+              <span>Xem Kết Quả</span>
+              <Award className="w-4 h-4" />
+            </button>
+          ) : (
+            <button
+              type="button"
+              onClick={onNext}
+              className="px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-sm font-bold flex items-center gap-1.5 shadow-xs transition cursor-pointer"
+            >
+              <span>Câu tiếp</span>
+              <ChevronRight className="w-4 h-4" />
+            </button>
+          )}
 
         </div>
 
