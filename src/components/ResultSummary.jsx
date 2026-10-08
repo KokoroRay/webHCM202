@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import confetti from 'canvas-confetti';
-import { Trophy, CheckCircle2, XCircle, HelpCircle, Clock, RotateCcw, Filter, Bookmark, ChevronDown, ChevronUp } from 'lucide-react';
+import { Trophy, CheckCircle2, XCircle, HelpCircle, Clock, RotateCcw, Filter, Bookmark, Home, BarChart2, Check, Sparkles } from 'lucide-react';
 
 export default function ResultSummary({
   questions,
@@ -9,10 +9,11 @@ export default function ResultSummary({
   mode,
   bookmarks,
   onToggleBookmark,
-  onRestart
+  onRestart,
+  onGoHome,
+  onOpenHistory
 }) {
-  const [filter, setFilter] = useState('all'); // 'all' | 'wrong' | 'correct' | 'bookmarked'
-  const [expandedIndex, setExpandedIndex] = useState(null);
+  const [filter, setFilter] = React.useState('all'); // 'all' | 'wrong' | 'correct' | 'bookmarked'
 
   const total = questions.length;
   let correctCount = 0;
@@ -30,8 +31,10 @@ export default function ResultSummary({
     }
   });
 
-  const score10 = total > 0 ? ((correctCount / total) * 10).toFixed(1) : 0;
+  const score10 = total > 0 ? ((correctCount / total) * 10).toFixed(1) : '0.0';
   const scorePercent = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+  const wrongPercent = total > 0 ? Math.round((wrongCount / total) * 100) : 0;
+  const skippedPercent = total > 0 ? Math.round((skippedCount / total) * 100) : 0;
 
   // Trigger confetti for good scores
   useEffect(() => {
@@ -79,15 +82,23 @@ export default function ResultSummary({
       <div className="bg-white rounded-3xl border border-slate-200 shadow-md p-6 sm:p-10 mb-8 text-center relative overflow-hidden">
         <div className="absolute top-0 left-0 right-0 h-3 bg-gradient-to-r from-blue-500 via-indigo-500 to-blue-600"></div>
 
-        <div className="inline-flex items-center justify-center w-20 h-20 bg-blue-50 text-blue-600 rounded-3xl mb-4 border border-blue-100 shadow-inner">
-          <Trophy className="w-10 h-10" />
+        {/* Auto-saved badge */}
+        <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full text-xs font-bold mb-4">
+          <Check className="w-3.5 h-3.5 text-emerald-600" />
+          <span>Đã tự động lưu kết quả vào Lịch sử!</span>
+        </div>
+
+        <div>
+          <div className="inline-flex items-center justify-center w-20 h-20 bg-blue-50 text-blue-600 rounded-3xl mb-4 border border-blue-100 shadow-inner">
+            <Trophy className="w-10 h-10" />
+          </div>
         </div>
 
         <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
           Kết Quả Làm Bài {mode === 'exam' ? 'Thi Thử' : 'Luyện Đề'}
         </h1>
 
-        <div className="mt-2 inline-block px-4 py-1.5 rounded-full border font-bold text-sm mb-6 ${gradeBadge.color}">
+        <div className={`mt-2 inline-block px-4 py-1.5 rounded-full border font-bold text-sm mb-6 ${gradeBadge.color}`}>
           {gradeBadge.label}
         </div>
 
@@ -96,6 +107,21 @@ export default function ResultSummary({
           <span className="text-5xl sm:text-6xl font-black text-blue-700 tracking-tight">{score10}</span>
           <span className="text-xl sm:text-2xl font-bold text-slate-400">/ 10 điểm</span>
           <span className="text-base font-semibold text-slate-500 ml-2">({scorePercent}%)</span>
+        </div>
+
+        {/* Accuracy Bar & Detailed Stats */}
+        <div className="max-w-xl mx-auto mb-6">
+          <div className="flex items-center justify-between text-xs font-bold mb-1.5">
+            <span className="text-emerald-700">Đúng: {correctCount} ({scorePercent}%)</span>
+            <span className="text-red-600">Sai: {wrongCount} ({wrongPercent}%)</span>
+            {skippedCount > 0 && <span className="text-slate-500">Bỏ qua: {skippedCount} ({skippedPercent}%)</span>}
+          </div>
+          
+          <div className="w-full bg-slate-100 h-3 rounded-full overflow-hidden flex">
+            <div style={{ width: `${scorePercent}%` }} className="bg-emerald-500 h-full transition-all duration-500" title={`Đúng ${scorePercent}%`} />
+            <div style={{ width: `${wrongPercent}%` }} className="bg-red-500 h-full transition-all duration-500" title={`Sai ${wrongPercent}%`} />
+            <div style={{ width: `${skippedPercent}%` }} className="bg-slate-300 h-full transition-all duration-500" title={`Bỏ qua ${skippedPercent}%`} />
+          </div>
         </div>
 
         {/* Stats Grid */}
@@ -125,14 +151,30 @@ export default function ResultSummary({
           </div>
         </div>
 
-        {/* Action button */}
-        <div className="mt-8 flex justify-center">
+        {/* Action Buttons Bar */}
+        <div className="mt-8 flex flex-wrap justify-center gap-3">
+          <button
+            onClick={onGoHome}
+            className="px-5 py-3 border border-slate-300 bg-white hover:bg-slate-100 text-slate-700 font-bold rounded-xl shadow-xs flex items-center gap-2 transition cursor-pointer text-sm"
+          >
+            <Home className="w-4 h-4 text-slate-600" />
+            <span>Trang Chủ</span>
+          </button>
+
           <button
             onClick={onRestart}
-            className="px-6 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg shadow-blue-500/25 flex items-center gap-2 transition cursor-pointer"
+            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg shadow-blue-500/25 flex items-center gap-2 transition cursor-pointer text-sm"
           >
-            <RotateCcw className="w-5 h-5" />
+            <RotateCcw className="w-4 h-4" />
             <span>Làm Bài Đề Khác</span>
+          </button>
+
+          <button
+            onClick={onOpenHistory}
+            className="px-5 py-3 border border-blue-200 bg-blue-50 hover:bg-blue-100 text-blue-800 font-bold rounded-xl shadow-xs flex items-center gap-2 transition cursor-pointer text-sm"
+          >
+            <BarChart2 className="w-4 h-4 text-blue-600" />
+            <span>Xem Lịch Sử</span>
           </button>
         </div>
 
@@ -145,7 +187,7 @@ export default function ResultSummary({
         <div className="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-slate-200">
           <div className="flex items-center gap-2">
             <Filter className="w-5 h-5 text-blue-600" />
-            <h2 className="font-bold text-slate-900 text-lg">Xem Chi Tiết Đáp Án</h2>
+            <h2 className="font-bold text-slate-900 text-lg">Danh Sách Chi Tiết Các Câu Đã Làm</h2>
           </div>
 
           <div className="flex flex-wrap gap-2">
@@ -181,7 +223,6 @@ export default function ResultSummary({
               const isUserRight = q.userAns === q.correctAnswer;
               const isSkipped = q.userAns === undefined || q.userAns === null;
               const isBookmarked = bookmarks.includes(q.id);
-              const isExpanded = expandedIndex === q.id;
 
               return (
                 <div 
@@ -202,15 +243,15 @@ export default function ResultSummary({
                       </span>
                       {isSkipped ? (
                         <span className="text-xs font-semibold text-slate-500 bg-slate-200 px-2 py-0.5 rounded">
-                          Bỏ qua
+                          Chưa trả lời (Bỏ qua)
                         </span>
                       ) : isUserRight ? (
                         <span className="text-xs font-semibold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded flex items-center gap-1">
-                          <CheckCircle2 className="w-3.5 h-3.5" /> Đúng
+                          <CheckCircle2 className="w-3.5 h-3.5" /> Trả lời Đúng
                         </span>
                       ) : (
                         <span className="text-xs font-semibold text-red-700 bg-red-100 px-2 py-0.5 rounded flex items-center gap-1">
-                          <XCircle className="w-3.5 h-3.5" /> Sai
+                          <XCircle className="w-3.5 h-3.5" /> Trả lời Sai
                         </span>
                       )}
                     </div>
@@ -249,13 +290,18 @@ export default function ResultSummary({
                           <span className="font-bold shrink-0">{optionLetters[optIdx]}.</span>
                           <span className="flex-1">{opt}</span>
                           {isCorrectOpt && (
-                            <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0">
-                              Đáp án đúng
+                            <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
+                              ✓ Đáp án đúng
                             </span>
                           )}
                           {isUserOpt && !isCorrectOpt && (
-                            <span className="text-[11px] font-bold text-red-700 bg-white px-2 py-0.5 rounded shrink-0">
-                              Đã chọn
+                            <span className="text-[11px] font-bold text-red-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
+                              ✗ Lựa chọn của bạn
+                            </span>
+                          )}
+                          {isUserOpt && isCorrectOpt && (
+                            <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
+                              ✓ Lựa chọn chính xác
                             </span>
                           )}
                         </div>

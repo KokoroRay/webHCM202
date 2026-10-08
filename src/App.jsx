@@ -320,6 +320,8 @@ export default function App() {
             bookmarks={bookmarks}
             onToggleBookmark={handleToggleBookmark}
             onRestart={() => setView('setup')}
+            onGoHome={() => setView('setup')}
+            onOpenHistory={() => setView('history')}
           />
         )}
 
