@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Clock, Grid, RotateCcw, Bookmark, Sparkles, CheckCircle2, Trophy } from 'lucide-react';
+import { BookOpen, Clock, Grid, RotateCcw, Bookmark, Sparkles, Trophy, CheckCircle2, BarChart2 } from 'lucide-react';
 
 export default function Header({ 
   mode, 
@@ -12,6 +12,8 @@ export default function Header({
   onResetTest, 
   onToggleBookmarks,
   bookmarkedCount,
+  onOpenHistory,
+  historyCount,
   fontSize,
   setFontSize
 }) {
@@ -69,7 +71,7 @@ export default function Header({
           </div>
 
           {/* Stats & Actions */}
-          <div className="flex items-center gap-2 sm:gap-4 text-sm">
+          <div className="flex items-center gap-2 sm:gap-3 text-sm">
             
             {/* Timer if in Exam mode */}
             {mode === 'exam' && timerSeconds !== null && (
@@ -85,7 +87,7 @@ export default function Header({
 
             {/* Answered Progress */}
             {totalQuestions > 0 && (
-              <div className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 bg-blue-50/80 border border-blue-100 rounded-lg text-blue-800 text-xs font-medium">
+              <div className="hidden lg:flex items-center gap-1.5 px-3 py-1.5 bg-blue-50/80 border border-blue-100 rounded-lg text-blue-800 text-xs font-medium">
                 <CheckCircle2 className="w-3.5 h-3.5 text-blue-600" />
                 <span>Đã làm: <strong className="text-blue-900">{answeredCount}/{totalQuestions}</strong></span>
               </div>
@@ -109,6 +111,21 @@ export default function Header({
               </button>
             </div>
 
+            {/* History & Analytics Button */}
+            <button
+              onClick={onOpenHistory}
+              className="relative flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-200 text-slate-700 hover:bg-slate-50 font-medium transition cursor-pointer text-xs sm:text-sm"
+              title="Lịch sử bài thi & Thống kê"
+            >
+              <BarChart2 className="w-4 h-4 text-blue-600" />
+              <span className="hidden sm:inline">Lịch sử</span>
+              {historyCount > 0 && (
+                <span className="bg-blue-600 text-white text-[10px] font-bold rounded-full px-1.5 py-0.2">
+                  {historyCount}
+                </span>
+              )}
+            </button>
+
             {/* Bookmarks */}
             <button
               onClick={onToggleBookmarks}
@@ -131,7 +148,7 @@ export default function Header({
                 className="flex items-center gap-1.5 px-3 py-1.5 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium shadow-xs transition cursor-pointer text-xs sm:text-sm"
               >
                 <Grid className="w-4 h-4" />
-                <span>Danh sách câu</span>
+                <span className="hidden sm:inline">Danh sách</span>
               </button>
             )}
 

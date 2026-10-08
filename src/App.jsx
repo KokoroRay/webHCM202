@@ -7,9 +7,10 @@ import QuestionCard from './components/QuestionCard';
 import QuestionGrid from './components/QuestionGrid';
 import ResultSummary from './components/ResultSummary';
 import BookmarkView from './components/BookmarkView';
+import HistoryAnalytics from './components/HistoryAnalytics';
 
 export default function App() {
-  // App views: 'setup' | 'quiz' | 'result' | 'bookmarks'
+  // App views: 'setup' | 'quiz' | 'result' | 'bookmarks' | 'history'
   const [view, setView] = useState('setup');
   
   // Config state
@@ -33,6 +34,8 @@ export default function App() {
 
   // UI preferences & bookmarks
   const [fontSize, setFontSize] = useState(16);
+  
+  // LocalStorage state
   const [bookmarks, setBookmarks] = useState(() => {
     try {
       const saved = localStorage.getItem('hcm202_bookmarks');
@@ -42,16 +45,50 @@ export default function App() {
     }
   });
 
-  // Save bookmarks to localStorage
+  const [examHistory, setExamHistory] = useState(() => {
+    try {
+      const saved = localStorage.getItem('hcm202_exam_history');
+      return saved ? JSON.parse(saved) : [];
+    } catch {
+      return [];
+    }
+  });
+
+  const [questionStats, setQuestionStats] = useState(() => {
+    try {
+      const saved = localStorage.getItem('hcm202_question_stats');
+      return saved ? JSON.parse(saved) : {};
+    } catch {
+      return {};
+    }
+  });
+
+  // Save to localStorage
   useEffect(() => {
     try {
       localStorage.setItem('hcm202_bookmarks', JSON.stringify(bookmarks));
     } catch (e) {
-      console.error('Failed to save bookmarks:', e);
+      console.error(e);
     }
   }, [bookmarks]);
 
-  // Timer interval for Exam mode
+  useEffect(() => {
+    try {
+      localStorage.setItem('hcm202_exam_history', JSON.stringify(examHistory));
+    } catch (e) {
+      console.error(e);
+    }
+  }, [examHistory]);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('hcm202_question_stats', JSON.stringify(questionStats));
+    } catch (e) {
+      console.error(e);
+    }
+  }, [questionStats]);
+
+  // Timer interval
   useEffect(() => {
     let interval = null;
     if (view === 'quiz' && isTimerRunning) {
@@ -61,7 +98,7 @@ export default function App() {
           setTimerSeconds((prev) => {
             if (prev <= 1) {
               clearInterval(interval);
-              handleSubmitExam(); // Auto submit on timer timeout
+              finishAndRecordTest(answers);
               return 0;
             }
             return prev - 1;
@@ -70,25 +107,22 @@ export default function App() {
       }, 1000);
     }
     return () => clearInterval(interval);
-  }, [view, isTimerRunning, config.mode, timerSeconds]);
+  }, [view, isTimerRunning, config.mode, timerSeconds, answers]);
 
   // Start quiz handler
   const handleStartQuiz = (newConfig) => {
     setConfig(newConfig);
 
-    // 1. Filter by range if selected
     let list = [...questionsData];
     if (newConfig.rangeFilter !== 'all') {
       const [start, end] = newConfig.rangeFilter.split('-').map(Number);
       list = list.slice(start - 1, end);
     }
 
-    // 2. Order: Default vs Random
     if (newConfig.order === 'random') {
       list = [...list].sort(() => Math.random() - 0.5);
     }
 
-    // 3. Count
     const selectedList = list.slice(0, Math.min(newConfig.count, list.length));
 
     setActiveQuestions(selectedList);
@@ -97,14 +131,32 @@ export default function App() {
     setTimeSpentSeconds(0);
 
     if (newConfig.mode === 'exam') {
-      // 1 minute per question for Exam mode timer
       setTimerSeconds(selectedList.length * 60);
-      setIsTimerRunning(true);
     } else {
       setTimerSeconds(null);
-      setIsTimerRunning(true);
     }
+    setIsTimerRunning(true);
+    setView('quiz');
+  };
 
+  // Start custom practice with specific question IDs (e.g. Most Mistakes)
+  const handleStartCustomPractice = (questionIds) => {
+    const list = questionsData.filter((q) => questionIds.includes(q.id));
+    if (list.length === 0) return;
+
+    setConfig({
+      mode: 'practice',
+      order: 'random',
+      count: list.length,
+      rangeFilter: 'all'
+    });
+
+    setActiveQuestions(list);
+    setCurrentIndex(0);
+    setAnswers({});
+    setTimeSpentSeconds(0);
+    setTimerSeconds(null);
+    setIsTimerRunning(true);
     setView('quiz');
   };
 
@@ -116,17 +168,66 @@ export default function App() {
     }));
   };
 
-  // Navigation handlers
-  const handlePrev = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex((prev) => prev - 1);
-    }
+  // Finish test & Save History & Question Stats
+  const finishAndRecordTest = (currentAnswers = answers) => {
+    setIsTimerRunning(false);
+
+    let correctCount = 0;
+    let wrongCount = 0;
+    let skippedCount = 0;
+
+    const newStats = { ...questionStats };
+
+    activeQuestions.forEach((q, idx) => {
+      const userAns = currentAnswers[idx];
+      const qKey = `q_${q.id}`;
+      if (!newStats[qKey]) {
+        newStats[qKey] = { wrong: 0, correct: 0, total: 0 };
+      }
+
+      if (userAns === undefined || userAns === null) {
+        skippedCount++;
+      } else if (userAns === q.correctAnswer) {
+        correctCount++;
+        newStats[qKey].correct += 1;
+        newStats[qKey].total += 1;
+      } else {
+        wrongCount++;
+        newStats[qKey].wrong += 1;
+        newStats[qKey].total += 1;
+      }
+    });
+
+    const total = activeQuestions.length;
+    const score10 = total > 0 ? parseFloat(((correctCount / total) * 10).toFixed(1)) : 0;
+    const scorePercent = total > 0 ? Math.round((correctCount / total) * 100) : 0;
+
+    const attempt = {
+      id: `attempt-${Date.now()}`,
+      date: new Date().toLocaleString('vi-VN', { dateStyle: 'short', timeStyle: 'short' }),
+      mode: config.mode,
+      score10,
+      scorePercent,
+      correctCount,
+      wrongCount,
+      skippedCount,
+      totalQuestions: total,
+      timeSpentSeconds
+    };
+
+    setExamHistory((prev) => [attempt, ...prev]);
+    setQuestionStats(newStats);
+    setView('result');
   };
 
-  const handleNext = () => {
-    if (currentIndex < activeQuestions.length - 1) {
-      setCurrentIndex((prev) => prev + 1);
+  const handleSubmitExam = () => {
+    const unansweredCount = activeQuestions.length - Object.keys(answers).length;
+    if (unansweredCount > 0) {
+      if (!window.confirm(`Bạn còn ${unansweredCount} câu chưa trả lời. Bạn có chắc chắn muốn nộp bài?`)) {
+        return;
+      }
     }
+    finishAndRecordTest();
   };
 
   // Toggle bookmark handler
@@ -144,19 +245,13 @@ export default function App() {
     }
   };
 
-  // Submit Exam handler
-  const handleSubmitExam = () => {
-    const unansweredCount = activeQuestions.length - Object.keys(answers).length;
-    if (unansweredCount > 0) {
-      if (!window.confirm(`Bạn còn ${unansweredCount} câu chưa trả lời. Bạn có chắc chắn muốn nộp bài?`)) {
-        return;
-      }
+  const handleClearHistory = () => {
+    if (window.confirm('Bạn có chắc chắn muốn xóa tất cả lịch sử và thống kê làm bài?')) {
+      setExamHistory([]);
+      setQuestionStats({});
     }
-    setIsTimerRunning(false);
-    setView('result');
   };
 
-  // Reset to setup screen
   const handleResetTest = () => {
     if (view === 'quiz') {
       if (!window.confirm('Bạn có muốn hủy bài làm hiện tại để quay về trang tạo đề?')) {
@@ -182,6 +277,8 @@ export default function App() {
         onResetTest={handleResetTest}
         onToggleBookmarks={() => setView('bookmarks')}
         bookmarkedCount={bookmarks.length}
+        onOpenHistory={() => setView('history')}
+        historyCount={examHistory.length}
         fontSize={fontSize}
         setFontSize={setFontSize}
       />
@@ -204,8 +301,8 @@ export default function App() {
             mode={config.mode}
             selectedAnswer={answers[currentIndex]}
             onSelectAnswer={handleSelectAnswer}
-            onPrev={handlePrev}
-            onNext={handleNext}
+            onPrev={() => setCurrentIndex((prev) => Math.max(0, prev - 1))}
+            onNext={() => setCurrentIndex((prev) => Math.min(activeQuestions.length - 1, prev + 1))}
             isBookmarked={bookmarks.includes(activeQuestions[currentIndex]?.id)}
             onToggleBookmark={handleToggleBookmark}
             onOpenGrid={() => setIsGridOpen(true)}
@@ -233,6 +330,17 @@ export default function App() {
             onToggleBookmark={handleToggleBookmark}
             onClearAllBookmarks={handleClearAllBookmarks}
             onBack={() => setView(activeQuestions.length > 0 ? 'quiz' : 'setup')}
+          />
+        )}
+
+        {view === 'history' && (
+          <HistoryAnalytics
+            history={examHistory}
+            questionStats={questionStats}
+            allQuestions={questionsData}
+            onClearHistory={handleClearHistory}
+            onBack={() => setView(activeQuestions.length > 0 ? 'quiz' : 'setup')}
+            onStartCustomPractice={handleStartCustomPractice}
           />
         )}
 
