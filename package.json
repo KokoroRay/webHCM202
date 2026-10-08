@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/webHCM202",
+  "homepage": "https://KokoroRay.github.io/webHCM202",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
