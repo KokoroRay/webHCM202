@@ -145,6 +145,11 @@ export default function QuestionCard({
                     Đáp án đúng là: <strong className="text-emerald-700 font-bold">{optionLetters[question.correctAnswer]}. {question.options[question.correctAnswer]}</strong>
                   </div>
                 )}
+                {question.note && (
+                  <div className="mt-2.5 pt-2 border-t border-slate-200/70 text-xs text-slate-700 font-normal leading-relaxed">
+                    💡 <strong>Lưu ý:</strong> {question.note}
+                  </div>
+                )}
               </div>
             </div>
           )}

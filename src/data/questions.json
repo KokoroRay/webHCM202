@@ -4592,12 +4592,10 @@
       "Mùa xuân của giai cấp",
       "Mùa xuân của đất nước",
       "Mùa xuân của Đảng",
-      "Mùa xuân của xã hội. Trường hợp nếu có câu hỏi dạng: Hồ Chí Minh đã ví tuổi trẻ như là: (Thì các em chọn)",
-      "Mùa xuân của giai cấp",
-      "Mùa xuân của đất nước",
-      "Mùa xuân của Đảng"
+      "Mùa xuân của xã hội."
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
+    "note": "Trường hợp nếu câu hỏi chỉ có 3 đáp án (không có \"Mùa xuân của xã hội\") thì chọn \"Mùa xuân của đất nước\".",
     "page": 61
   },
   {

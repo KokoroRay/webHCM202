@@ -309,6 +309,12 @@ export default function ResultSummary({
                     })}
                   </div>
 
+                  {q.note && (
+                    <div className="mt-2.5 p-2.5 bg-amber-50 border border-amber-200 rounded-lg text-xs text-amber-900 leading-relaxed">
+                      💡 <strong>Lưu ý:</strong> {q.note}
+                    </div>
+                  )}
+
                 </div>
               );
             })

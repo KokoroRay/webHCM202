@@ -1,24 +1,34 @@
 import React, { useState } from 'react';
-import { Sparkles, Trophy, Shuffle, ListOrdered, CheckCircle, BookOpen, ArrowRight, Target } from 'lucide-react';
+import { Sparkles, Trophy, Shuffle, ListOrdered, CheckCircle, BookOpen, ArrowRight, Target, Database, PlusCircle, Layers } from 'lucide-react';
 
-export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
+export default function SetupModal({ totalOriginal, totalSupplementary, totalCombined, onStartQuiz }) {
+  const [bank, setBank] = useState('combined'); // 'original' | 'supplementary' | 'combined'
   const [mode, setMode] = useState('practice'); // 'practice' | 'exam'
   const [order, setOrder] = useState('default'); // 'default' | 'random'
   const [quantityType, setQuantityType] = useState('60'); // 'all' | '10' | '20' | '40' | '60' | '100' | 'custom'
   const [customQty, setCustomQty] = useState(30);
-  const [rangeFilter, setRangeFilter] = useState('all'); // 'all' | '1-100' | '101-200' ...
+  const [rangeFilter, setRangeFilter] = useState('all');
+
+  const getBankTotal = () => {
+    if (bank === 'original') return totalOriginal;
+    if (bank === 'supplementary') return totalSupplementary;
+    return totalCombined;
+  };
+
+  const currentTotal = getBankTotal();
 
   const handleStart = () => {
-    let count = totalQuestionsInBank;
+    let count = currentTotal;
     if (quantityType === 'all') {
-      count = totalQuestionsInBank;
+      count = currentTotal;
     } else if (quantityType === 'custom') {
-      count = Math.min(Math.max(1, parseInt(customQty) || 10), totalQuestionsInBank);
+      count = Math.min(Math.max(1, parseInt(customQty) || 10), currentTotal);
     } else {
       count = parseInt(quantityType);
     }
 
     onStartQuiz({
+      bank,
       mode,
       order,
       count,
@@ -38,17 +48,76 @@ export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
           Ôn Thi Trắc Nghiệm HCM202
         </h1>
         <p className="text-slate-600 mt-2 text-sm sm:text-base max-w-md mx-auto">
-          Bộ ngân hàng câu hỏi tổng hợp <strong className="text-blue-700">{totalQuestionsInBank} câu trắc nghiệm</strong> môn Tư Tưởng Hồ Chí Minh.
+          Ngân hàng câu hỏi trắc nghiệm môn Tư Tưởng Hồ Chí Minh (<strong className="text-blue-700">{totalCombined} câu tổng hợp & bổ sung</strong>).
         </p>
       </div>
 
       {/* Main Options Card */}
       <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 sm:p-8 space-y-8">
         
+        {/* 0. Select Question Bank */}
+        <div>
+          <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
+            <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">1</span>
+            Chọn Bộ Ngân Hàng Câu Hỏi
+          </label>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            
+            <button
+              type="button"
+              onClick={() => setBank('combined')}
+              className={`p-3.5 rounded-xl border text-left transition relative cursor-pointer ${
+                bank === 'combined'
+                  ? 'border-blue-600 bg-blue-50/70 ring-2 ring-blue-500/20 text-blue-950 font-semibold'
+                  : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-700'
+              }`}
+            >
+              <div className="flex items-center gap-2 mb-1">
+                <Layers className="w-4 h-4 text-blue-600" />
+                <span className="font-bold text-sm">Toàn Bộ ({totalCombined})</span>
+              </div>
+              <p className="text-[11px] text-slate-500">Tất cả đề cương + câu hỏi bổ sung mới</p>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setBank('original')}
+              className={`p-3.5 rounded-xl border text-left transition relative cursor-pointer ${
+                bank === 'original'
+                  ? 'border-blue-600 bg-blue-50/70 ring-2 ring-blue-500/20 text-blue-950 font-semibold'
+                  : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-700'
+              }`}
+            >
+              <div className="flex items-center gap-2 mb-1">
+                <Database className="w-4 h-4 text-indigo-600" />
+                <span className="font-bold text-sm">Đề Cương ({totalOriginal})</span>
+              </div>
+              <p className="text-[11px] text-slate-500">614 câu chuẩn từ Đề cương tổng hợp gốc</p>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setBank('supplementary')}
+              className={`p-3.5 rounded-xl border text-left transition relative cursor-pointer ${
+                bank === 'supplementary'
+                  ? 'border-blue-600 bg-blue-50/70 ring-2 ring-blue-500/20 text-blue-950 font-semibold'
+                  : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50 text-slate-700'
+              }`}
+            >
+              <div className="flex items-center gap-2 mb-1">
+                <PlusCircle className="w-4 h-4 text-emerald-600" />
+                <span className="font-bold text-sm">Bổ Sung ({totalSupplementary})</span>
+              </div>
+              <p className="text-[11px] text-slate-500">Các câu hỏi mới đã lọc trùng lặp</p>
+            </button>
+
+          </div>
+        </div>
+
         {/* 1. Select Mode */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">1</span>
+            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">2</span>
             Chọn Chế Độ Học
           </label>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -102,7 +171,7 @@ export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
         {/* 2. Select Question Order */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">2</span>
+            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">3</span>
             Thứ Tự Câu Hỏi
           </label>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -118,7 +187,7 @@ export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
             >
               <ListOrdered className="w-5 h-5 text-blue-600 shrink-0" />
               <div>
-                <div className="text-sm font-bold">Mặc định (1 ➔ {totalQuestionsInBank})</div>
+                <div className="text-sm font-bold">Mặc định (1 ➔ {currentTotal})</div>
                 <div className="text-xs text-slate-500 font-normal">Theo thứ tự đề cương ôn tập</div>
               </div>
             </button>
@@ -144,13 +213,13 @@ export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
         {/* 3. Select Quantity */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">3</span>
+            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">4</span>
             Số Lượng Câu Hỏi
           </label>
 
           <div className="flex flex-wrap gap-2 mb-3">
             {[
-              { label: `Tất cả (${totalQuestionsInBank})`, val: 'all' },
+              { label: `Tất cả (${currentTotal})`, val: 'all' },
               { label: '20 câu', val: '20' },
               { label: '40 câu', val: '40' },
               { label: '60 câu (Chuẩn thi)', val: '60' },
@@ -178,35 +247,14 @@ export default function SetupModal({ totalQuestionsInBank, onStartQuiz }) {
               <input
                 type="number"
                 min="1"
-                max={totalQuestionsInBank}
+                max={currentTotal}
                 value={customQty}
                 onChange={(e) => setCustomQty(e.target.value)}
                 className="w-28 px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
               />
-              <span className="text-xs text-slate-500">(1 - {totalQuestionsInBank})</span>
+              <span className="text-xs text-slate-500">(1 - {currentTotal})</span>
             </div>
           )}
-        </div>
-
-        {/* 4. Range Filter (Optional) */}
-        <div>
-          <label className="block text-xs font-bold text-slate-500 uppercase tracking-wider mb-2 flex items-center gap-1.5">
-            <Target className="w-4 h-4 text-blue-600" />
-            Giới hạn dải câu hỏi (Tùy chọn)
-          </label>
-          <select
-            value={rangeFilter}
-            onChange={(e) => setRangeFilter(e.target.value)}
-            className="w-full px-3 py-2 border border-slate-200 rounded-xl text-sm text-slate-700 bg-slate-50 focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
-          >
-            <option value="all">Toàn bộ ngân hàng (Câu 1 - {totalQuestionsInBank})</option>
-            <option value="1-100">Dải 1: Câu 1 ➔ Câu 100</option>
-            <option value="101-200">Dải 2: Câu 101 ➔ Câu 200</option>
-            <option value="201-300">Dải 3: Câu 201 ➔ Câu 300</option>
-            <option value="301-400">Dải 4: Câu 301 ➔ Câu 400</option>
-            <option value="401-500">Dải 5: Câu 401 ➔ Câu 500</option>
-            <option value="501-614">Dải 6: Câu 501 ➔ Câu {totalQuestionsInBank}</option>
-          </select>
         </div>
 
         {/* Start Button */}

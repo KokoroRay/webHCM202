@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import questionsData from './data/questions.json';
+import supplementaryData from './data/supplementary_questions.json';
+import combinedData from './data/combined_questions.json';
 
 import Header from './components/Header';
 import SetupModal from './components/SetupModal';
@@ -113,7 +115,14 @@ export default function App() {
   const handleStartQuiz = (newConfig) => {
     setConfig(newConfig);
 
-    let list = [...questionsData];
+    let baseData = combinedData;
+    if (newConfig.bank === 'original') {
+      baseData = questionsData;
+    } else if (newConfig.bank === 'supplementary') {
+      baseData = supplementaryData;
+    }
+
+    let list = [...baseData];
     if (newConfig.rangeFilter !== 'all') {
       const [start, end] = newConfig.rangeFilter.split('-').map(Number);
       list = list.slice(start - 1, end);
@@ -141,7 +150,7 @@ export default function App() {
 
   // Start custom practice with specific question IDs (e.g. Most Mistakes)
   const handleStartCustomPractice = (questionIds) => {
-    const list = questionsData.filter((q) => questionIds.includes(q.id));
+    const list = combinedData.filter((q) => questionIds.includes(q.id));
     if (list.length === 0) return;
 
     setConfig({
@@ -288,7 +297,9 @@ export default function App() {
         
         {view === 'setup' && (
           <SetupModal
-            totalQuestionsInBank={questionsData.length}
+            totalOriginal={questionsData.length}
+            totalSupplementary={supplementaryData.length}
+            totalCombined={combinedData.length}
             onStartQuiz={handleStartQuiz}
           />
         )}
@@ -327,7 +338,7 @@ export default function App() {
 
         {view === 'bookmarks' && (
           <BookmarkView
-            allQuestions={questionsData}
+            allQuestions={combinedData}
             bookmarks={bookmarks}
             onToggleBookmark={handleToggleBookmark}
             onClearAllBookmarks={handleClearAllBookmarks}
@@ -339,7 +350,7 @@ export default function App() {
           <HistoryAnalytics
             history={examHistory}
             questionStats={questionStats}
-            allQuestions={questionsData}
+            allQuestions={combinedData}
             onClearHistory={handleClearHistory}
             onBack={() => setView(activeQuestions.length > 0 ? 'quiz' : 'setup')}
             onStartCustomPractice={handleStartCustomPractice}
