@@ -1,13 +1,18 @@
-import React, { useState } from 'react';
-import { Sparkles, Trophy, Shuffle, ListOrdered, CheckCircle, BookOpen, ArrowRight, Target, Database, PlusCircle, Layers } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Sparkles, Trophy, Shuffle, ListOrdered, CheckCircle, BookOpen, ArrowRight, Database, PlusCircle, Layers, SlidersHorizontal } from 'lucide-react';
 
 export default function SetupModal({ totalOriginal, totalSupplementary, totalCombined, onStartQuiz }) {
   const [bank, setBank] = useState('combined'); // 'original' | 'supplementary' | 'combined'
   const [mode, setMode] = useState('practice'); // 'practice' | 'exam'
   const [order, setOrder] = useState('default'); // 'default' | 'random'
-  const [quantityType, setQuantityType] = useState('60'); // 'all' | '10' | '20' | '40' | '60' | '100' | 'custom'
+  const [quantityType, setQuantityType] = useState('all'); // 'all' | '20' | '40' | '60' | '100' | 'custom'
   const [customQty, setCustomQty] = useState(30);
-  const [rangeFilter, setRangeFilter] = useState('all');
+
+  // Range filter state
+  const [rangeMode, setRangeMode] = useState('all'); // 'all' | 'preset' | 'custom'
+  const [selectedPreset, setSelectedPreset] = useState('');
+  const [rangeFrom, setRangeFrom] = useState(1);
+  const [rangeTo, setRangeTo] = useState(100);
 
   const getBankTotal = () => {
     if (bank === 'original') return totalOriginal;
@@ -17,14 +22,49 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
 
   const currentTotal = getBankTotal();
 
+  // Reset range selections when bank changes
+  useEffect(() => {
+    setRangeMode('all');
+    setSelectedPreset('');
+    setRangeFrom(1);
+    setRangeTo(Math.min(100, currentTotal));
+  }, [bank, currentTotal]);
+
+  // Generate preset ranges of 100 questions
+  const presetRanges = (() => {
+    const ranges = [];
+    const step = 100;
+    for (let start = 1; start <= currentTotal; start += step) {
+      const end = Math.min(start + step - 1, currentTotal);
+      ranges.push({ label: `Câu ${start} ➔ ${end}`, val: `${start}-${end}`, start, end });
+    }
+    return ranges;
+  })();
+
   const handleStart = () => {
-    let count = currentTotal;
+    let finalRangeFilter = 'all';
+    let availableInRange = currentTotal;
+
+    if (rangeMode === 'preset' && selectedPreset) {
+      finalRangeFilter = selectedPreset;
+      const [s, e] = selectedPreset.split('-').map(Number);
+      availableInRange = Math.max(1, e - s + 1);
+    } else if (rangeMode === 'custom') {
+      let s = parseInt(rangeFrom) || 1;
+      let e = parseInt(rangeTo) || currentTotal;
+      s = Math.min(Math.max(1, s), currentTotal);
+      e = Math.min(Math.max(s, e), currentTotal);
+      finalRangeFilter = `${s}-${e}`;
+      availableInRange = Math.max(1, e - s + 1);
+    }
+
+    let count = availableInRange;
     if (quantityType === 'all') {
-      count = currentTotal;
+      count = availableInRange;
     } else if (quantityType === 'custom') {
-      count = Math.min(Math.max(1, parseInt(customQty) || 10), currentTotal);
+      count = Math.min(Math.max(1, parseInt(customQty) || 10), availableInRange);
     } else {
-      count = parseInt(quantityType);
+      count = Math.min(parseInt(quantityType), availableInRange);
     }
 
     onStartQuiz({
@@ -32,7 +72,7 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
       mode,
       order,
       count,
-      rangeFilter
+      rangeFilter: finalRangeFilter
     });
   };
 
@@ -55,7 +95,7 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
       {/* Main Options Card */}
       <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6 sm:p-8 space-y-8">
         
-        {/* 0. Select Question Bank */}
+        {/* 1. Select Question Bank */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
             <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">1</span>
@@ -76,7 +116,7 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
                 <Layers className="w-4 h-4 text-blue-600" />
                 <span className="font-bold text-sm">Toàn Bộ ({totalCombined})</span>
               </div>
-              <p className="text-[11px] text-slate-500">Tất cả đề cương + câu hỏi bổ sung mới</p>
+              <p className="text-[11px] text-slate-500">Tất cả đề cương + bổ sung mới</p>
             </button>
 
             <button
@@ -92,7 +132,7 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
                 <Database className="w-4 h-4 text-indigo-600" />
                 <span className="font-bold text-sm">Đề Cương ({totalOriginal})</span>
               </div>
-              <p className="text-[11px] text-slate-500">614 câu chuẩn từ Đề cương tổng hợp gốc</p>
+              <p className="text-[11px] text-slate-500">614 câu chuẩn Đề cương gốc</p>
             </button>
 
             <button
@@ -108,16 +148,103 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
                 <PlusCircle className="w-4 h-4 text-emerald-600" />
                 <span className="font-bold text-sm">Bổ Sung ({totalSupplementary})</span>
               </div>
-              <p className="text-[11px] text-slate-500">Các câu hỏi mới đã lọc trùng lặp</p>
+              <p className="text-[11px] text-slate-500">267 câu mới lọc trùng lặp</p>
             </button>
 
           </div>
         </div>
 
-        {/* 1. Select Mode */}
+        {/* 2. Select Question Range (Khoảng câu hỏi) */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">2</span>
+            <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">2</span>
+            Phạm Vi Câu Hỏi (Chọn Theo Khoảng)
+          </label>
+          
+          <div className="space-y-3">
+            {/* Top row options */}
+            <div className="flex flex-wrap gap-2">
+              <button
+                type="button"
+                onClick={() => {
+                  setRangeMode('all');
+                  setSelectedPreset('');
+                }}
+                className={`px-3.5 py-2 rounded-lg text-xs sm:text-sm font-medium transition cursor-pointer ${
+                  rangeMode === 'all'
+                    ? 'bg-blue-600 text-white shadow-xs font-bold'
+                    : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                }`}
+              >
+                Tất cả (1 ➔ {currentTotal})
+              </button>
+
+              {presetRanges.map((preset) => (
+                <button
+                  key={preset.val}
+                  type="button"
+                  onClick={() => {
+                    setRangeMode('preset');
+                    setSelectedPreset(preset.val);
+                  }}
+                  className={`px-3.5 py-2 rounded-lg text-xs sm:text-sm font-medium transition cursor-pointer ${
+                    rangeMode === 'preset' && selectedPreset === preset.val
+                      ? 'bg-blue-600 text-white shadow-xs font-bold'
+                      : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                  }`}
+                >
+                  {preset.label}
+                </button>
+              ))}
+
+              <button
+                type="button"
+                onClick={() => setRangeMode('custom')}
+                className={`px-3.5 py-2 rounded-lg text-xs sm:text-sm font-medium transition cursor-pointer ${
+                  rangeMode === 'custom'
+                    ? 'bg-blue-600 text-white shadow-xs font-bold'
+                    : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                }`}
+              >
+                Khoảng tự chọn...
+              </button>
+            </div>
+
+            {/* Custom Range Inputs */}
+            {rangeMode === 'custom' && (
+              <div className="p-3.5 bg-blue-50/60 rounded-xl border border-blue-200 flex flex-wrap items-center gap-3">
+                <SlidersHorizontal className="w-4 h-4 text-blue-600 shrink-0" />
+                <span className="text-xs font-bold text-slate-700">Tự chọn khoảng câu hỏi:</span>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs text-slate-600">Từ câu</span>
+                  <input
+                    type="number"
+                    min="1"
+                    max={currentTotal}
+                    value={rangeFrom}
+                    onChange={(e) => setRangeFrom(e.target.value)}
+                    className="w-20 px-2.5 py-1 border border-slate-300 rounded-lg text-sm text-center font-bold focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
+                  />
+                  <span className="text-xs text-slate-600">đến câu</span>
+                  <input
+                    type="number"
+                    min="1"
+                    max={currentTotal}
+                    value={rangeTo}
+                    onChange={(e) => setRangeTo(e.target.value)}
+                    className="w-20 px-2.5 py-1 border border-slate-300 rounded-lg text-sm text-center font-bold focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
+                  />
+                  <span className="text-xs text-slate-500">(Tối đa {currentTotal})</span>
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+
+        {/* 3. Select Mode */}
+        <div>
+          <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
+            <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">3</span>
             Chọn Chế Độ Học
           </label>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -168,10 +295,10 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
           </div>
         </div>
 
-        {/* 2. Select Question Order */}
+        {/* 4. Select Question Order */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">3</span>
+            <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">4</span>
             Thứ Tự Câu Hỏi
           </label>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -187,8 +314,8 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
             >
               <ListOrdered className="w-5 h-5 text-blue-600 shrink-0" />
               <div>
-                <div className="text-sm font-bold">Mặc định (1 ➔ {currentTotal})</div>
-                <div className="text-xs text-slate-500 font-normal">Theo thứ tự đề cương ôn tập</div>
+                <div className="text-sm font-bold">Mặc định</div>
+                <div className="text-xs text-slate-500 font-normal">Theo thứ tự tự nhiên của đề</div>
               </div>
             </button>
 
@@ -204,22 +331,22 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
               <Shuffle className="w-5 h-5 text-blue-600 shrink-0" />
               <div>
                 <div className="text-sm font-bold">Tráo ngẫu nhiên (Random)</div>
-                <div className="text-xs text-slate-500 font-normal">Xáo trộn thứ tự tất cả câu hỏi</div>
+                <div className="text-xs text-slate-500 font-normal">Xáo trộn thứ tự trong khoảng đã chọn</div>
               </div>
             </button>
           </div>
         </div>
 
-        {/* 3. Select Quantity */}
+        {/* 5. Select Quantity */}
         <div>
           <label className="block text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center gap-2">
-            <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs flex items-center justify-center font-bold">4</span>
-            Số Lượng Câu Hỏi
+            <span className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center font-bold">5</span>
+            Số Lượng Câu Hỏi Làm Bài
           </label>
 
           <div className="flex flex-wrap gap-2 mb-3">
             {[
-              { label: `Tất cả (${currentTotal})`, val: 'all' },
+              { label: 'Tất cả trong khoảng', val: 'all' },
               { label: '20 câu', val: '20' },
               { label: '40 câu', val: '40' },
               { label: '60 câu (Chuẩn thi)', val: '60' },
@@ -252,7 +379,7 @@ export default function SetupModal({ totalOriginal, totalSupplementary, totalCom
                 onChange={(e) => setCustomQty(e.target.value)}
                 className="w-28 px-3 py-1.5 border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white"
               />
-              <span className="text-xs text-slate-500">(1 - {currentTotal})</span>
+              <span className="text-xs text-slate-500">(Tối đa {currentTotal})</span>
             </div>
           )}
         </div>
