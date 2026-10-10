@@ -169,12 +169,32 @@ export default function App() {
     setView('quiz');
   };
 
-  // Answer selection handler
-  const handleSelectAnswer = (qIndex, optionIdx) => {
-    setAnswers((prev) => ({
-      ...prev,
-      [qIndex]: optionIdx
-    }));
+  // Answer selection handler (supports single and multi select)
+  const handleSelectAnswer = (qIndex, optionIdx, isMulti) => {
+    setAnswers((prev) => {
+      const current = prev[qIndex];
+      if (isMulti) {
+        let currentArr = Array.isArray(current) ? [...current] : [];
+        if (typeof current === 'number') currentArr = [current];
+
+        if (currentArr.includes(optionIdx)) {
+          return {
+            ...prev,
+            [qIndex]: currentArr.filter((i) => i !== optionIdx)
+          };
+        } else {
+          return {
+            ...prev,
+            [qIndex]: [...currentArr, optionIdx].sort((a, b) => a - b)
+          };
+        }
+      } else {
+        return {
+          ...prev,
+          [qIndex]: optionIdx
+        };
+      }
+    });
   };
 
   // Finish test & Save History & Question Stats
@@ -194,16 +214,29 @@ export default function App() {
         newStats[qKey] = { wrong: 0, correct: 0, total: 0 };
       }
 
-      if (userAns === undefined || userAns === null) {
+      const isMulti = Boolean(q.isMulti) || (Array.isArray(q.correctAnswers) && q.correctAnswers.length > 1);
+      const correctAnswers = Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswer];
+      const userArr = Array.isArray(userAns)
+        ? userAns
+        : (userAns !== undefined && userAns !== null ? [userAns] : []);
+
+      const hasAnswered = userArr.length > 0;
+
+      if (!hasAnswered) {
         skippedCount++;
-      } else if (userAns === q.correctAnswer) {
-        correctCount++;
-        newStats[qKey].correct += 1;
-        newStats[qKey].total += 1;
       } else {
-        wrongCount++;
-        newStats[qKey].wrong += 1;
-        newStats[qKey].total += 1;
+        const isCorrect = userArr.length === correctAnswers.length &&
+          userArr.every((val) => correctAnswers.includes(val));
+
+        if (isCorrect) {
+          correctCount++;
+          newStats[qKey].correct += 1;
+          newStats[qKey].total += 1;
+        } else {
+          wrongCount++;
+          newStats[qKey].wrong += 1;
+          newStats[qKey].total += 1;
+        }
       }
     });
 

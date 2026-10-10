@@ -75,13 +75,16 @@ export default function QuestionGrid({
             {Array.from({ length: totalQuestions }).map((_, idx) => {
               const q = questions[idx];
               const isCurrent = idx === currentIndex;
-              const isAnswered = answers[idx] !== undefined && answers[idx] !== null;
+              const userAns = answers[idx];
+              const userArr = Array.isArray(userAns) ? userAns : (userAns !== undefined && userAns !== null ? [userAns] : []);
+              const isAnswered = userArr.length > 0;
               const isBookmarked = bookmarks.includes(q?.id);
               
               let btnClass = 'bg-white border-slate-200 text-slate-700 hover:border-blue-400 hover:bg-blue-50';
 
               if (isPractice && isAnswered) {
-                const isCorrect = answers[idx] === q.correctAnswer;
+                const correctAnswers = Array.isArray(q?.correctAnswers) ? q.correctAnswers : [q?.correctAnswer];
+                const isCorrect = userArr.length === correctAnswers.length && userArr.every((val) => correctAnswers.includes(val));
                 btnClass = isCorrect
                   ? 'bg-emerald-600 border-emerald-700 text-white font-bold'
                   : 'bg-red-600 border-red-700 text-white font-bold';

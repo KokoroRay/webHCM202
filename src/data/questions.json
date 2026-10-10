@@ -9,7 +9,11 @@
       "ngày 20/3/1949"
     ],
     "correctAnswer": 0,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 2,
@@ -21,7 +25,11 @@
       "Cơ sở vật chất."
     ],
     "correctAnswer": 0,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 3,
@@ -33,7 +41,11 @@
       "Bệnh tự đại."
     ],
     "correctAnswer": 0,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 4,
@@ -46,7 +58,11 @@
       "Phong kiến phân quyền."
     ],
     "correctAnswer": 0,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 5,
@@ -59,7 +75,11 @@
       "Xây dựng nhà nước."
     ],
     "correctAnswer": 2,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 6,
@@ -73,7 +93,11 @@
       "Tất cả phương án trên."
     ],
     "correctAnswer": 0,
-    "page": 1
+    "page": 1,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 7,
@@ -86,7 +110,11 @@
       "Phương thức xây dựng khối đoàn kết dân tộc, đoàn kết quốc tế"
     ],
     "correctAnswer": 0,
-    "page": 2
+    "page": 2,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 8,
@@ -99,7 +127,11 @@
       "Chế độ mất/mất văn hóa."
     ],
     "correctAnswer": 2,
-    "page": 2
+    "page": 2,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 9,
@@ -112,7 +144,11 @@
       "có 5."
     ],
     "correctAnswer": 0,
-    "page": 2
+    "page": 2,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 10,
@@ -125,7 +161,11 @@
       "ngày 19/5/1911"
     ],
     "correctAnswer": 0,
-    "page": 2
+    "page": 2,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 11,
@@ -138,7 +178,11 @@
       "năm 1930"
     ],
     "correctAnswer": 0,
-    "page": 2
+    "page": 2,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 12,
@@ -151,7 +195,11 @@
       "Từ 1931 - 1945"
     ],
     "correctAnswer": 0,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 13,
@@ -164,7 +212,11 @@
       "Từ 1931 – 1945"
     ],
     "correctAnswer": 1,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 14,
@@ -177,7 +229,11 @@
       "Từ 1931 – 1945"
     ],
     "correctAnswer": 2,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 15,
@@ -190,7 +246,11 @@
       "Từ 1930 – 1945"
     ],
     "correctAnswer": 3,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 16,
@@ -203,7 +263,11 @@
       "Từ 1930 – 1945"
     ],
     "correctAnswer": 0,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 17,
@@ -216,7 +280,11 @@
       "\"cướp bóc\" và \"đàn áp\"."
     ],
     "correctAnswer": 0,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 18,
@@ -229,7 +297,11 @@
       "Không chỉ tình thương giai cấp mình, mà còn cho cả giai cấp khác."
     ],
     "correctAnswer": 2,
-    "page": 3
+    "page": 3,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 19,
@@ -240,7 +312,11 @@
       "Khách quan, trung thực"
     ],
     "correctAnswer": 1,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 20,
@@ -253,7 +329,11 @@
       "1920"
     ],
     "correctAnswer": 3,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 21,
@@ -266,7 +346,11 @@
       "35 năm"
     ],
     "correctAnswer": 2,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 22,
@@ -279,7 +363,11 @@
       "Văn hóa dân chủ, tiến bộ của Anh"
     ],
     "correctAnswer": 1,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 23,
@@ -292,7 +380,11 @@
       "1911-1915"
     ],
     "correctAnswer": 2,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 24,
@@ -305,7 +397,11 @@
       "Tiếng Nga"
     ],
     "correctAnswer": 1,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 25,
@@ -317,7 +413,11 @@
       "Phù hợp với điều kiện thực tế nước ta."
     ],
     "correctAnswer": 2,
-    "page": 4
+    "page": 4,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 26,
@@ -330,7 +430,11 @@
       "Vận dụng hoàn toàn chủ nghĩa Mác - Lênin"
     ],
     "correctAnswer": 0,
-    "page": 5
+    "page": 5,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 27,
@@ -343,7 +447,11 @@
       "Chủ nghĩa Tam dân của Tôn Trung Sơn."
     ],
     "correctAnswer": 0,
-    "page": 5
+    "page": 5,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 28,
@@ -356,7 +464,11 @@
       "Hệ thống các học thuyết toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam"
     ],
     "correctAnswer": 1,
-    "page": 5
+    "page": 5,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 29,
@@ -369,7 +481,11 @@
       "6"
     ],
     "correctAnswer": 2,
-    "page": 5
+    "page": 5,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 30,
@@ -381,7 +497,11 @@
       "Cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho hành động của Đảng ta"
     ],
     "correctAnswer": 2,
-    "page": 5
+    "page": 5,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 31,
@@ -394,7 +514,11 @@
       "1890 đến 1911"
     ],
     "correctAnswer": 3,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 32,
@@ -407,7 +531,11 @@
       "1924"
     ],
     "correctAnswer": 3,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 33,
@@ -420,7 +548,11 @@
       "Liên Xô"
     ],
     "correctAnswer": 2,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 34,
@@ -432,7 +564,11 @@
       "Lý luận và thực tiễn các cuộc cách mạng điển hình trên thế giới"
     ],
     "correctAnswer": 2,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 35,
@@ -444,7 +580,11 @@
       "Đạo đức Nho giáo"
     ],
     "correctAnswer": 2,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 36,
@@ -457,7 +597,11 @@
       "Ngay từ khi còn nhỏ ở trong trường, Hồ Chí Minh đã nhận thức được đặc điểm thời đại."
     ],
     "correctAnswer": 3,
-    "page": 6
+    "page": 6,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 37,
@@ -470,7 +614,11 @@
       "1924"
     ],
     "correctAnswer": 2,
-    "page": 7
+    "page": 7,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 38,
@@ -483,7 +631,11 @@
       "Nhà chính trị chuyên nghiệp"
     ],
     "correctAnswer": 1,
-    "page": 7
+    "page": 7,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 39,
@@ -496,7 +648,11 @@
       "1890 đến 1911"
     ],
     "correctAnswer": 2,
-    "page": 7
+    "page": 7,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 40,
@@ -509,7 +665,11 @@
       "1911"
     ],
     "correctAnswer": 2,
-    "page": 7
+    "page": 7,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 41,
@@ -522,7 +682,11 @@
       "Đảm bảo thống nhất nguyên tắc tính triết học và tính khoa học"
     ],
     "correctAnswer": 0,
-    "page": 7
+    "page": 7,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 42,
@@ -535,7 +699,11 @@
       "Tiếng Nga"
     ],
     "correctAnswer": 2,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 43,
@@ -548,7 +716,11 @@
       "Tư tưởng của Giêsu"
     ],
     "correctAnswer": 2,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 44,
@@ -561,7 +733,11 @@
       "Quan điểm toàn diện và cụ thể"
     ],
     "correctAnswer": 0,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 45,
@@ -574,7 +750,11 @@
       "Phan Châu Trình"
     ],
     "correctAnswer": 2,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 46,
@@ -587,7 +767,11 @@
       "12/1920"
     ],
     "correctAnswer": 2,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 47,
@@ -600,7 +784,11 @@
       "1911 đến 1920"
     ],
     "correctAnswer": 2,
-    "page": 8
+    "page": 8,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 48,
@@ -613,7 +801,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 1,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 49,
@@ -626,7 +818,11 @@
       "Chủ nghĩa xã hội đang trong giai đoạn phát triển."
     ],
     "correctAnswer": 1,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 50,
@@ -639,7 +835,11 @@
       "Quan điểm lịch sử toàn diện"
     ],
     "correctAnswer": 2,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 51,
@@ -652,7 +852,11 @@
       "1911-1915"
     ],
     "correctAnswer": 1,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 52,
@@ -665,7 +869,11 @@
       "Quan điểm phát triển"
     ],
     "correctAnswer": 1,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 53,
@@ -678,7 +886,11 @@
       "Đức hy sinh của Thiên chúa giáo"
     ],
     "correctAnswer": 1,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 54,
@@ -691,7 +903,11 @@
       "Quan điểm toàn diện và cụ thể"
     ],
     "correctAnswer": 0,
-    "page": 9
+    "page": 9,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 55,
@@ -703,7 +919,11 @@
       "Tư duy, hành động, ứng xử của Ấn độ giáo"
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 56,
@@ -716,7 +936,11 @@
       "5/1912"
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 57,
@@ -729,7 +953,11 @@
       "Quan điểm gắn liền với thực tiễn"
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 58,
@@ -742,7 +970,11 @@
       "Giá trị văn minh dân tộcViệt Nam"
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 59,
@@ -755,7 +987,11 @@
       "Thứ tư"
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 60,
@@ -768,7 +1004,11 @@
       "Kết hợp thực tiễn cách mạng Việt Nam và cách mạng thế giới."
     ],
     "correctAnswer": 0,
-    "page": 10
+    "page": 10,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 61,
@@ -781,7 +1021,11 @@
       "Tất cả các công việc"
     ],
     "correctAnswer": 3,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 62,
@@ -795,7 +1039,11 @@
       "1923."
     ],
     "correctAnswer": 2,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 63,
@@ -808,7 +1056,11 @@
       "Tư tưởng bác ái của Thiên Chúa Giáo."
     ],
     "correctAnswer": 0,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 64,
@@ -820,7 +1072,11 @@
       "Chủ nghĩa tam dân của Tôn Trung Sơn."
     ],
     "correctAnswer": 2,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 65,
@@ -832,7 +1088,11 @@
       "Sự tu dưỡng đạo đức cá nhân."
     ],
     "correctAnswer": 2,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 66,
@@ -845,7 +1105,11 @@
       "1920"
     ],
     "correctAnswer": 2,
-    "page": 11
+    "page": 11,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 67,
@@ -858,7 +1122,11 @@
       "Tác phẩm Tuyên ngôn của Đảng Cộng sản"
     ],
     "correctAnswer": 2,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 68,
@@ -871,7 +1139,11 @@
       "Ham công danh, phú quý."
     ],
     "correctAnswer": 3,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 69,
@@ -884,7 +1156,11 @@
       "Bản chất khoa học"
     ],
     "correctAnswer": 2,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 70,
@@ -897,7 +1173,11 @@
       "Chủ nghĩa nhân văn"
     ],
     "correctAnswer": 0,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 71,
@@ -910,7 +1190,11 @@
       "Vấn đề dân tộc nói chung"
     ],
     "correctAnswer": 1,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 72,
@@ -923,7 +1207,11 @@
       "Lò sưởi"
     ],
     "correctAnswer": 0,
-    "page": 12
+    "page": 12,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 73,
@@ -936,7 +1224,11 @@
       "Xem nước Pháp và các nước khác tiến bộ như thế nào, tôi sẽ trở về giúp đồng bào chúng ta."
     ],
     "correctAnswer": 0,
-    "page": 13
+    "page": 13,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 74,
@@ -949,7 +1241,11 @@
       "Tiến hành song hành với cách mạng vô sản ở chính quốc ."
     ],
     "correctAnswer": 0,
-    "page": 13
+    "page": 13,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 75,
@@ -962,7 +1258,11 @@
       "Giai cấp công nhân"
     ],
     "correctAnswer": 0,
-    "page": 13
+    "page": 13,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 76,
@@ -975,7 +1275,11 @@
       "Thực dân, phong kiến."
     ],
     "correctAnswer": 0,
-    "page": 13
+    "page": 13,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 77,
@@ -988,7 +1292,11 @@
       "Đánh đổ ách thống trị của chủ nghĩa thực dân, giành độc lập dân tộc và thiết lập chính quyền của công nông."
     ],
     "correctAnswer": 0,
-    "page": 13
+    "page": 13,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 78,
@@ -1000,7 +1308,11 @@
       "Giải phóng giai cấp là nhiệm vụ trung tâm, là điều kiện để giải phóng dân tộc."
     ],
     "correctAnswer": 2,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 79,
@@ -1013,7 +1325,11 @@
       "Nông dân"
     ],
     "correctAnswer": 2,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 80,
@@ -1026,7 +1342,11 @@
       "Muốn người ta giúp cho, thì trước hết mình phải tự giúp lấy mình đã."
     ],
     "correctAnswer": 0,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 81,
@@ -1039,7 +1359,11 @@
       "Năm 1940"
     ],
     "correctAnswer": 0,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 82,
@@ -1052,7 +1376,11 @@
       "Độc lập dân tộc gắn liền với chế độ dân chủ."
     ],
     "correctAnswer": 0,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 83,
@@ -1064,7 +1392,11 @@
       "Năm 1941"
     ],
     "correctAnswer": 1,
-    "page": 14
+    "page": 14,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 84,
@@ -1076,7 +1408,11 @@
       "Đấu tranh giải phóng các dân tộc thuộc địa khỏi sự áp bức, thống trị của nước ngoài, giành độc lập dân tộc, thành lập nhà nước dân tộc độc lập và đưa đất nước phát triển theo xu thế của thời đại."
     ],
     "correctAnswer": 2,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 85,
@@ -1089,7 +1425,11 @@
       "1928-1929"
     ],
     "correctAnswer": 3,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 86,
@@ -1102,7 +1442,11 @@
       "Đòi quyền bình đẳng."
     ],
     "correctAnswer": 0,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 87,
@@ -1115,7 +1459,11 @@
       "Dân tộc thuộc địa ở Đông Dương."
     ],
     "correctAnswer": 2,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 88,
@@ -1127,7 +1475,11 @@
       "Cách mạng là bạo lực"
     ],
     "correctAnswer": 0,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 89,
@@ -1140,7 +1492,11 @@
       "Giữ vững độc lập của dân tộc mình đồng thời giữ vững độc lập của các dân tộc khác."
     ],
     "correctAnswer": 0,
-    "page": 15
+    "page": 15,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 90,
@@ -1153,7 +1509,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 91,
@@ -1166,7 +1526,11 @@
       "Có một giai cấp lãnh đạo."
     ],
     "correctAnswer": 1,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 92,
@@ -1179,7 +1543,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 0,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 93,
@@ -1192,7 +1560,11 @@
       "Năm 1920"
     ],
     "correctAnswer": 0,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 94,
@@ -1205,7 +1577,11 @@
       "Giải phóng dân tộc tạo tiền đề để giải phóng xã hội"
     ],
     "correctAnswer": 0,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 95,
@@ -1218,7 +1594,11 @@
       "Đấu tranh ngoại giao."
     ],
     "correctAnswer": 2,
-    "page": 16
+    "page": 16,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 96,
@@ -1231,7 +1611,11 @@
       "Xây dựng nhà nước công nông"
     ],
     "correctAnswer": 2,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 97,
@@ -1244,7 +1628,11 @@
       "Tháng 1/1911"
     ],
     "correctAnswer": 0,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 98,
@@ -1257,7 +1645,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 3,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 99,
@@ -1270,7 +1662,11 @@
       "Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của riêng dân tộc Việt Nam."
     ],
     "correctAnswer": 0,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 100,
@@ -1283,7 +1679,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 2,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 101,
@@ -1296,7 +1696,11 @@
       "Giải phóng con người."
     ],
     "correctAnswer": 0,
-    "page": 17
+    "page": 17,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 102,
@@ -1309,7 +1713,11 @@
       "Đặc quyền của mỗi một dân tộc."
     ],
     "correctAnswer": 1,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 103,
@@ -1322,7 +1730,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 104,
@@ -1335,7 +1747,11 @@
       "Giải phóng xã hội"
     ],
     "correctAnswer": 0,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 105,
@@ -1348,7 +1764,11 @@
       "Dân chủ, hòa bình"
     ],
     "correctAnswer": 1,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 106,
@@ -1360,7 +1780,11 @@
       "Chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng thuộc địa"
     ],
     "correctAnswer": 0,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 107,
@@ -1372,7 +1796,11 @@
       "Lá non trên cành"
     ],
     "correctAnswer": 1,
-    "page": 18
+    "page": 18,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 108,
@@ -1384,7 +1812,11 @@
       "Chiến dịch Biên giới"
     ],
     "correctAnswer": 2,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 109,
@@ -1397,7 +1829,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 0,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 110,
@@ -1410,7 +1846,11 @@
       "Chủ nghĩa dân tộc là chiến lược hàng đầu của cách mạng."
     ],
     "correctAnswer": 0,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 111,
@@ -1423,7 +1863,11 @@
       "Giải phóng những người bị bóc lột."
     ],
     "correctAnswer": 2,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 112,
@@ -1436,7 +1880,11 @@
       "Đảng của giai cấp tư sản"
     ],
     "correctAnswer": 0,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 113,
@@ -1449,7 +1897,11 @@
       "Phải kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, chủ nghĩa yêu nước với chủ nghĩa dân tộc."
     ],
     "correctAnswer": 0,
-    "page": 19
+    "page": 19,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 114,
@@ -1461,7 +1913,11 @@
       "Nền tảng tư tưởng và kim chỉ nam cho hành động của cách mạng Việt Nam"
     ],
     "correctAnswer": 2,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 115,
@@ -1474,7 +1930,11 @@
       "Con đường cách mạng cải lương"
     ],
     "correctAnswer": 1,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 116,
@@ -1486,7 +1946,11 @@
       "Đòi quyền tự do dân chủ tối thiểu cho nhân dân."
     ],
     "correctAnswer": 2,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 117,
@@ -1499,7 +1963,11 @@
       "Quyền con người"
     ],
     "correctAnswer": 1,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 118,
@@ -1512,7 +1980,11 @@
       "Công - nông - trí thức"
     ],
     "correctAnswer": 2,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 119,
@@ -1525,7 +1997,11 @@
       "Phải đi theo con đường cách mạng của các bậc tiền bối Việt Nam."
     ],
     "correctAnswer": 0,
-    "page": 20
+    "page": 20,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 120,
@@ -1538,7 +2014,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 121,
@@ -1551,7 +2031,11 @@
       "Chủ quyền dân tộc"
     ],
     "correctAnswer": 1,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 122,
@@ -1563,7 +2047,11 @@
       "Trí thức, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ. Công nhân, nông dân và trí thức"
     ],
     "correctAnswer": 0,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 123,
@@ -1576,7 +2064,11 @@
       "Tiến hành sau khi cách mạng vô sản ở chính quốc giành thắng lợi."
     ],
     "correctAnswer": 2,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 124,
@@ -1588,7 +2080,11 @@
       "Nguyễn Chí Thanh"
     ],
     "correctAnswer": 0,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 125,
@@ -1600,7 +2096,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 0,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 126,
@@ -1612,7 +2112,11 @@
       "Sự ra đời của CNXH ở Việt Nam là sản phẩm tất yếu của quá trình phát triển lịch sử, quá trình cách mạng Đông Nam Á."
     ],
     "correctAnswer": 0,
-    "page": 21
+    "page": 21,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 127,
@@ -1625,7 +2129,11 @@
       "Phải tự lực cánh sinh, dựa vào sức mình là chính."
     ],
     "correctAnswer": 0,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 128,
@@ -1638,7 +2146,11 @@
       "Phát triển giai cấp này cả về số lượng và chất lượng"
     ],
     "correctAnswer": 1,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 129,
@@ -1650,7 +2162,11 @@
       "Có văn hóa, đạo đức phát triển cao"
     ],
     "correctAnswer": 2,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 130,
@@ -1662,7 +2178,11 @@
       "Làm nhanh và rầm rộ qua nhiều bước"
     ],
     "correctAnswer": 0,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 131,
@@ -1674,7 +2194,11 @@
       "Công, nông nghiệp hiện đại, khoa học - kỹ thuật tiên tiến, bóc lột được bỏ dần, vật chất được cải thiện."
     ],
     "correctAnswer": 2,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 132,
@@ -1687,7 +2211,11 @@
       "Tài nguyên thiên nhiên của đất nước"
     ],
     "correctAnswer": 1,
-    "page": 22
+    "page": 22,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 133,
@@ -1700,7 +2228,11 @@
       "Vai trò lãnh đạo của Đảng."
     ],
     "correctAnswer": 0,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 134,
@@ -1713,7 +2245,11 @@
       "Chế độ công hữu về tư liệu sản xuất."
     ],
     "correctAnswer": 3,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 135,
@@ -1726,7 +2262,11 @@
       "Cách mạng giai cấp"
     ],
     "correctAnswer": 1,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 136,
@@ -1738,7 +2278,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 1,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 137,
@@ -1751,7 +2295,11 @@
       "Kết hợp giữa chủ nghĩa Tam dân và thực tế Việt Nam."
     ],
     "correctAnswer": 2,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 138,
@@ -1764,7 +2312,11 @@
       "Công nhân - nông dân - trí thức làm chủ"
     ],
     "correctAnswer": 0,
-    "page": 23
+    "page": 23,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 139,
@@ -1777,7 +2329,11 @@
       "Quá độ gián tiếp cụ thể."
     ],
     "correctAnswer": 3,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 140,
@@ -1789,7 +2345,11 @@
       "Xuất phát từ điều kiện thực tế, đặc điểm dân tộc, nhu cầu và khả năng thực tế của nhân dân."
     ],
     "correctAnswer": 0,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 141,
@@ -1802,7 +2362,11 @@
       "Chế độ chính trị do Đảng làm chủ."
     ],
     "correctAnswer": 0,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 142,
@@ -1814,7 +2378,11 @@
       "Tiến hành động thời cách mạng tư sản dân quyền với cách mạng xã hội chủ nghĩa"
     ],
     "correctAnswer": 0,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 143,
@@ -1826,7 +2394,11 @@
       "Kế thừa những giá trị của xã hội cũ"
     ],
     "correctAnswer": 2,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 144,
@@ -1838,7 +2410,11 @@
       "Phát huy các yếu tố chính trị, tinh thần."
     ],
     "correctAnswer": 1,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 145,
@@ -1851,7 +2427,11 @@
       "Tiến lên chủ nghĩa xã hội là bước phát triển tất yếu ở Việt Nam sau khi nước nhà giành được độc lập theo con đường cách mạng vô sản."
     ],
     "correctAnswer": 3,
-    "page": 24
+    "page": 24,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 146,
@@ -1864,7 +2444,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 3,
-    "page": 25
+    "page": 25,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 147,
@@ -1876,7 +2460,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 2,
-    "page": 25
+    "page": 25,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 148,
@@ -1888,7 +2476,11 @@
       "Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh và góp phần xứng đáng vào sự nghiệp cách mạng chung."
     ],
     "correctAnswer": 0,
-    "page": 25
+    "page": 25,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 149,
@@ -1900,7 +2492,11 @@
       "Có nền chính trị dân chủ"
     ],
     "correctAnswer": 2,
-    "page": 25
+    "page": 25,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 150,
@@ -1913,7 +2509,11 @@
       "Tiến nhanh, tiến mạnh"
     ],
     "correctAnswer": 0,
-    "page": 25
+    "page": 25,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 151,
@@ -1926,7 +2526,11 @@
       "Động lực tinh thần và nội sinh."
     ],
     "correctAnswer": 2,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 152,
@@ -1939,7 +2543,11 @@
       "Chính trị"
     ],
     "correctAnswer": 0,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 153,
@@ -1951,7 +2559,11 @@
       "Phù hợp với các nước thuộc địa hơn các nước chính quốc"
     ],
     "correctAnswer": 0,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 154,
@@ -1963,7 +2575,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 0,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 155,
@@ -1976,7 +2592,11 @@
       "Đảng Cộng sản và giai cấp công nhân"
     ],
     "correctAnswer": 0,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 156,
@@ -1989,7 +2609,11 @@
       "Là chế độ người bóc lột được thừa nhận"
     ],
     "correctAnswer": 0,
-    "page": 26
+    "page": 26,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 157,
@@ -2001,7 +2625,11 @@
       "Hồ Chí Minh tiếp cận CNXH từ phương diện chính trị là chủ yếu"
     ],
     "correctAnswer": 1,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 158,
@@ -2014,7 +2642,11 @@
       "Bước đi chậm, mạnh, vững chắc."
     ],
     "correctAnswer": 2,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 159,
@@ -2027,7 +2659,11 @@
       "Kinh tế quốc doanh."
     ],
     "correctAnswer": 3,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 160,
@@ -2040,7 +2676,11 @@
       "Công - nông - trí lãnh đạo"
     ],
     "correctAnswer": 0,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 161,
@@ -2053,7 +2693,11 @@
       "Quá độ lên chủ nghĩa xã hội không qua giai đoạn phát triển cộng sản chủ nghĩa."
     ],
     "correctAnswer": 0,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 162,
@@ -2066,7 +2710,11 @@
       "Nền kinh tế phát triển cao."
     ],
     "correctAnswer": 2,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 163,
@@ -2079,7 +2727,11 @@
       "Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ văn hóa."
     ],
     "correctAnswer": 0,
-    "page": 27
+    "page": 27,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 164,
@@ -2091,7 +2743,11 @@
       "Nhân dân."
     ],
     "correctAnswer": 0,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 165,
@@ -2103,7 +2759,11 @@
       "Đặt lợi ích của Đảng, của đất nước lên trước hết"
     ],
     "correctAnswer": 1,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 166,
@@ -2116,7 +2776,11 @@
       "Vô điều kiện nghị quyết của Quốc hội."
     ],
     "correctAnswer": 2,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 167,
@@ -2129,7 +2793,11 @@
       "Nhân dân"
     ],
     "correctAnswer": 1,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 168,
@@ -2142,7 +2810,11 @@
       "Phong trào yêu nước"
     ],
     "correctAnswer": 3,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 169,
@@ -2155,7 +2827,11 @@
       "\"đầy tớ\" có nghĩa là tận tâm, tận lực phụng sự nhân dân nhằm đem lại quyền lợi và lợi ích cho nhân dân."
     ],
     "correctAnswer": 2,
-    "page": 28
+    "page": 28,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 170,
@@ -2167,7 +2843,11 @@
       "Thoái hóa biến chất."
     ],
     "correctAnswer": 1,
-    "page": 29
+    "page": 29,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 171,
@@ -2179,7 +2859,11 @@
       "Làm cách mạng để cải tạo xã hội cũ thành xã hội mới là một nghề nghiệp vẻ vang"
     ],
     "correctAnswer": 0,
-    "page": 29
+    "page": 29,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 172,
@@ -2192,7 +2876,11 @@
       "Phải khôn khéo biến hóa cho phù hợp."
     ],
     "correctAnswer": 3,
-    "page": 29
+    "page": 29,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 173,
@@ -2205,7 +2893,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 3,
-    "page": 29
+    "page": 29,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 174,
@@ -2218,7 +2910,11 @@
       "người lính trung thành của nhân dân."
     ],
     "correctAnswer": 2,
-    "page": 29
+    "page": 29,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 175,
@@ -2231,7 +2927,11 @@
       "Chủ nghĩa Tam dân"
     ],
     "correctAnswer": 1,
-    "page": 30
+    "page": 30,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 176,
@@ -2243,7 +2943,11 @@
       "Chi bộ."
     ],
     "correctAnswer": 2,
-    "page": 30
+    "page": 30,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 177,
@@ -2256,7 +2960,11 @@
       "Xác định năng lực của Đảng."
     ],
     "correctAnswer": 2,
-    "page": 30
+    "page": 30,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 178,
@@ -2269,7 +2977,11 @@
       "Chủ nghĩa xã hội khoa học."
     ],
     "correctAnswer": 0,
-    "page": 30
+    "page": 30,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 179,
@@ -2282,7 +2994,11 @@
       "Bốn là, Đảng ta phải tăng cường đấu tranh để bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin."
     ],
     "correctAnswer": 1,
-    "page": 30
+    "page": 30,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 180,
@@ -2295,7 +3011,11 @@
       "Đảng gián tiếp lãnh đạo bộ máy nhà nước đó."
     ],
     "correctAnswer": 1,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 181,
@@ -2307,7 +3027,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 1,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 182,
@@ -2320,7 +3044,11 @@
       "Các nhận định trên đúng."
     ],
     "correctAnswer": 3,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 183,
@@ -2333,7 +3061,11 @@
       "Đã thay đổi khi có chính quyền trong tay."
     ],
     "correctAnswer": 0,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 184,
@@ -2346,7 +3078,11 @@
       "Xác định nhiệm vụ của Đảng."
     ],
     "correctAnswer": 1,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 185,
@@ -2358,7 +3094,11 @@
       "Công việc dễ hay khó"
     ],
     "correctAnswer": 1,
-    "page": 31
+    "page": 31,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 186,
@@ -2371,7 +3111,11 @@
       "Bổ sung vào kho tàng lý luận của chủ nghĩa Mác - Lênin."
     ],
     "correctAnswer": 3,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 187,
@@ -2384,7 +3128,11 @@
       "Chủ nghĩa Mác - Lênin với phong trào yêu nước."
     ],
     "correctAnswer": 2,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 188,
@@ -2397,7 +3145,11 @@
       "Tập thể phụ trách"
     ],
     "correctAnswer": 2,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 189,
@@ -2410,7 +3162,11 @@
       "Pháp luật, kỷ luật đối với dân chúng."
     ],
     "correctAnswer": 2,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 190,
@@ -2423,7 +3179,11 @@
       "Giai cấp công nhân, nhân dân lao động"
     ],
     "correctAnswer": 1,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 191,
@@ -2435,7 +3195,11 @@
       "Lợi ích của giai cấp công nhân"
     ],
     "correctAnswer": 0,
-    "page": 32
+    "page": 32,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 192,
@@ -2448,7 +3212,11 @@
       "Các nhận định trên đúng."
     ],
     "correctAnswer": 1,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 193,
@@ -2461,7 +3229,11 @@
       "Xác định vai trò lãnh đạo của Đảng."
     ],
     "correctAnswer": 1,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 194,
@@ -2473,7 +3245,11 @@
       "Còn vì lợi ích của nhà nước"
     ],
     "correctAnswer": 0,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 195,
@@ -2486,7 +3262,11 @@
       "Đoàn thể"
     ],
     "correctAnswer": 0,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 196,
@@ -2498,7 +3278,11 @@
       "Học tập từ nhân dân"
     ],
     "correctAnswer": 2,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 197,
@@ -2511,7 +3295,11 @@
       "Đoàn kết."
     ],
     "correctAnswer": 1,
-    "page": 33
+    "page": 33,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 198,
@@ -2524,7 +3312,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 1,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 199,
@@ -2537,7 +3329,11 @@
       "Chí công vô tư"
     ],
     "correctAnswer": 0,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 200,
@@ -2549,7 +3345,11 @@
       "Dân tộc."
     ],
     "correctAnswer": 1,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 201,
@@ -2561,7 +3361,11 @@
       "Cố gắng"
     ],
     "correctAnswer": 0,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 202,
@@ -2573,7 +3377,11 @@
       "Dân tộc."
     ],
     "correctAnswer": 1,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 203,
@@ -2585,7 +3393,11 @@
       "Làm khó cho dân"
     ],
     "correctAnswer": 0,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 204,
@@ -2598,7 +3410,11 @@
       "Vũ trang cách mạng"
     ],
     "correctAnswer": 0,
-    "page": 34
+    "page": 34,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 205,
@@ -2611,7 +3427,11 @@
       "Phong trào nông dân không kết hợp được với phong trào công nhân."
     ],
     "correctAnswer": 3,
-    "page": 35
+    "page": 35,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 206,
@@ -2623,7 +3443,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 1,
-    "page": 35
+    "page": 35,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 207,
@@ -2635,7 +3459,11 @@
       "Phải chịu sự kiểm soát của nhân dân."
     ],
     "correctAnswer": 2,
-    "page": 35
+    "page": 35,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 208,
@@ -2648,7 +3476,11 @@
       "Chủ nghĩa Mác - Lênin, phong trào công nhân và phong trào yêu nước Việt Nam."
     ],
     "correctAnswer": 3,
-    "page": 35
+    "page": 35,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 209,
@@ -2661,7 +3493,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 0,
-    "page": 35
+    "page": 35,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 210,
@@ -2673,7 +3509,11 @@
       "Đảng viên, cán bộ vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của mọi người."
     ],
     "correctAnswer": 0,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 211,
@@ -2686,7 +3526,11 @@
       "Lãnh đạo"
     ],
     "correctAnswer": 0,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 212,
@@ -2698,7 +3542,11 @@
       "Thường thức chính trị"
     ],
     "correctAnswer": 1,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 213,
@@ -2711,7 +3559,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 214,
@@ -2724,7 +3576,11 @@
       "Bảo vệ nhân dân."
     ],
     "correctAnswer": 0,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 215,
@@ -2736,7 +3592,11 @@
       "Bảo đảm trên tất cả các mặt, các lĩnh vực, phải quan tâm chăm lo đến đời sống nhân dân ở những việc lớn."
     ],
     "correctAnswer": 1,
-    "page": 36
+    "page": 36,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 216,
@@ -2749,7 +3609,11 @@
       "Nhà nước hợp hiến"
     ],
     "correctAnswer": 0,
-    "page": 37
+    "page": 37,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 217,
@@ -2762,7 +3626,11 @@
       "Bổ sung chủ nghĩa Mác - Lênin."
     ],
     "correctAnswer": 3,
-    "page": 37
+    "page": 37,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 218,
@@ -2775,7 +3643,11 @@
       "Tài năng"
     ],
     "correctAnswer": 0,
-    "page": 37
+    "page": 37,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 219,
@@ -2788,7 +3660,11 @@
       "Đoàn thể lãnh đạo"
     ],
     "correctAnswer": 1,
-    "page": 37
+    "page": 37,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 220,
@@ -2801,7 +3677,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 2,
-    "page": 37
+    "page": 37,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 221,
@@ -2814,7 +3694,11 @@
       "Chính trị, tổ chức, tư tưởng."
     ],
     "correctAnswer": 3,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 222,
@@ -2826,7 +3710,11 @@
       "Năng lực là phẩm chất gốc."
     ],
     "correctAnswer": 0,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 223,
@@ -2838,7 +3726,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 1,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 224,
@@ -2851,7 +3743,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 225,
@@ -2864,7 +3760,11 @@
       "Giai cấp cách mệnh"
     ],
     "correctAnswer": 0,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 226,
@@ -2877,7 +3777,11 @@
       "Chính quyền."
     ],
     "correctAnswer": 0,
-    "page": 38
+    "page": 38,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 227,
@@ -2890,7 +3794,11 @@
       "Làm gương cho quần chúng"
     ],
     "correctAnswer": 0,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 228,
@@ -2903,7 +3811,11 @@
       "Liên Xô"
     ],
     "correctAnswer": 1,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 229,
@@ -2916,7 +3828,11 @@
       "Công tác của chính quyền."
     ],
     "correctAnswer": 2,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 230,
@@ -2929,7 +3845,11 @@
       "Cá nhân lãnh đạo, tập thể phụ trách."
     ],
     "correctAnswer": 1,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 231,
@@ -2941,7 +3861,11 @@
       "Đối lập với chế độ."
     ],
     "correctAnswer": 1,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 232,
@@ -2953,7 +3877,11 @@
       "Vượt qua"
     ],
     "correctAnswer": 0,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 233,
@@ -2965,7 +3893,11 @@
       "Do lời nói và việc làm, đảng viên, đoàn viên và cán bộ làm cho dân ấm no, hạnh phúc"
     ],
     "correctAnswer": 0,
-    "page": 39
+    "page": 39,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 234,
@@ -2978,7 +3910,11 @@
       "Quan điểm về những vấn đề có tính nguyên tắc trong xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh."
     ],
     "correctAnswer": 3,
-    "page": 40
+    "page": 40,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 235,
@@ -2991,7 +3927,11 @@
       "Quan tâm thực sự đến vật chất của nhân dân."
     ],
     "correctAnswer": 1,
-    "page": 40
+    "page": 40,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 236,
@@ -3004,7 +3944,11 @@
       "Khối óc"
     ],
     "correctAnswer": 0,
-    "page": 40
+    "page": 40,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 237,
@@ -3017,7 +3961,11 @@
       "Mang bản chất giai cấp công nhân."
     ],
     "correctAnswer": 3,
-    "page": 40
+    "page": 40,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 238,
@@ -3029,7 +3977,11 @@
       "Một vấn đề thứ yếu trong tồn tại và phát triển của Đảng."
     ],
     "correctAnswer": 0,
-    "page": 40
+    "page": 40,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 239,
@@ -3041,7 +3993,11 @@
       "Không trái với tinh thần của chủ nghĩa Mác- Lênin"
     ],
     "correctAnswer": 2,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 240,
@@ -3054,7 +4010,11 @@
       "Tự phê bình và cùng phê bình"
     ],
     "correctAnswer": 1,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 241,
@@ -3067,7 +4027,11 @@
       "Nguyên tắc."
     ],
     "correctAnswer": 0,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 242,
@@ -3080,7 +4044,11 @@
       "Uống nước hàng ngày"
     ],
     "correctAnswer": 0,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 243,
@@ -3093,7 +4061,11 @@
       "Hợp tác dân chủ"
     ],
     "correctAnswer": 1,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 244,
@@ -3106,7 +4078,11 @@
       "Đảng với Nhà nước."
     ],
     "correctAnswer": 2,
-    "page": 41
+    "page": 41,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 245,
@@ -3119,7 +4095,11 @@
       "Phải có Đảng Cộng sản"
     ],
     "correctAnswer": 3,
-    "page": 42
+    "page": 42,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 246,
@@ -3131,7 +4111,11 @@
       "Dân tộc"
     ],
     "correctAnswer": 0,
-    "page": 42
+    "page": 42,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 247,
@@ -3144,7 +4128,11 @@
       "Thiết yếu"
     ],
     "correctAnswer": 1,
-    "page": 42
+    "page": 42,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 248,
@@ -3156,7 +4144,11 @@
       "Đứng vững trên lập trường giai cấp công nhân, giải quyết hài hoà mối quan hệ giai cấp - dân tộc."
     ],
     "correctAnswer": 2,
-    "page": 42
+    "page": 42,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 249,
@@ -3168,7 +4160,11 @@
       "Một tổ chức chính trị đúng đắn"
     ],
     "correctAnswer": 1,
-    "page": 42
+    "page": 42,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 250,
@@ -3181,7 +4177,11 @@
       "Không xác định lực lượng chủ thể"
     ],
     "correctAnswer": 1,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 251,
@@ -3193,7 +4193,11 @@
       "Chính sách dân tộc phù hợp."
     ],
     "correctAnswer": 0,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 252,
@@ -3206,7 +4210,11 @@
       "Đoàn kết trên cơ sở tự nguyện"
     ],
     "correctAnswer": 0,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 253,
@@ -3219,7 +4227,11 @@
       "Chia sẻ"
     ],
     "correctAnswer": 1,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 254,
@@ -3232,7 +4244,11 @@
       "Độc lập"
     ],
     "correctAnswer": 1,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 255,
@@ -3245,7 +4261,11 @@
       "Tư sản dân tộc"
     ],
     "correctAnswer": 2,
-    "page": 43
+    "page": 43,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 256,
@@ -3258,7 +4278,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 0,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 257,
@@ -3270,7 +4294,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 0,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 258,
@@ -3283,7 +4311,11 @@
       "Đoàn thanh niên Cộng sản."
     ],
     "correctAnswer": 0,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 259,
@@ -3296,7 +4328,11 @@
       "Dân chủ"
     ],
     "correctAnswer": 0,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 260,
@@ -3309,7 +4345,11 @@
       "Liên minh công-nông và các lực lượng yêu nước khác."
     ],
     "correctAnswer": 1,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 261,
@@ -3322,7 +4362,11 @@
       "Đại đoàn kết toàn dân."
     ],
     "correctAnswer": 3,
-    "page": 44
+    "page": 44,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 262,
@@ -3334,7 +4378,11 @@
       "Mặt trận phải hoạt động theo nguyên tắc hiệp thương quần chúng"
     ],
     "correctAnswer": 0,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 263,
@@ -3346,7 +4394,11 @@
       "Đoàn kết trên cơ sở thống nhất mục tiêu và mục đích, có lý, có tình."
     ],
     "correctAnswer": 0,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 264,
@@ -3358,7 +4410,11 @@
       "Đại đoàn kết toàn dân là vấn đề có ý nghĩa chiến lược, quyết định sự trưởng thành của cách mạng"
     ],
     "correctAnswer": 0,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 265,
@@ -3371,7 +4427,11 @@
       "Hồ Chí Minh"
     ],
     "correctAnswer": 2,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 266,
@@ -3384,7 +4444,11 @@
       "Đàn"
     ],
     "correctAnswer": 0,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 267,
@@ -3397,7 +4461,11 @@
       "Chính quyền cho phép."
     ],
     "correctAnswer": 2,
-    "page": 45
+    "page": 45,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 268,
@@ -3409,7 +4477,11 @@
       "Đoàn kết trên cơ sở nhận sự giúp đỡ quốc tế và có nghĩa vụ quốc tế."
     ],
     "correctAnswer": 0,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 269,
@@ -3422,7 +4494,11 @@
       "Đại biểu của giai cấp công nhân trong Mặt trận dân tộc thống nhất."
     ],
     "correctAnswer": 2,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 270,
@@ -3434,7 +4510,11 @@
       "Gắn kết và ngược lại"
     ],
     "correctAnswer": 1,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 271,
@@ -3446,7 +4526,11 @@
       "Tinh thần thương yêu con người."
     ],
     "correctAnswer": 0,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 272,
@@ -3458,7 +4542,11 @@
       "Chuyên quyền."
     ],
     "correctAnswer": 0,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 273,
@@ -3471,7 +4559,11 @@
       "Công nhân, nông dân, lao động trí óc."
     ],
     "correctAnswer": 3,
-    "page": 46
+    "page": 46,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 274,
@@ -3483,7 +4575,11 @@
       "Ý chí tự lực, tự cường của dân tộc ta"
     ],
     "correctAnswer": 0,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 275,
@@ -3496,7 +4592,11 @@
       "Là nơi quy tụ mọi người Việt Nam định cư ở nước ngoài, dù ở bất cứ phương trời nào"
     ],
     "correctAnswer": 2,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 276,
@@ -3509,7 +4609,11 @@
       "Chủ nghĩa Mác - Lênin."
     ],
     "correctAnswer": 0,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 277,
@@ -3521,7 +4625,11 @@
       "Đại đoàn kết là vấn đề thời đại"
     ],
     "correctAnswer": 0,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 278,
@@ -3534,7 +4642,11 @@
       "Sức mạnh giúp cho dân tộc ta vượt qua mọi thử thách, khó khăn trong dựng nước và giữ nước."
     ],
     "correctAnswer": 0,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 279,
@@ -3546,7 +4658,11 @@
       "Chính quyền"
     ],
     "correctAnswer": 0,
-    "page": 47
+    "page": 47,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 280,
@@ -3558,7 +4674,11 @@
       "Có chính sách tập hợp đúng đắn"
     ],
     "correctAnswer": 0,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 281,
@@ -3571,7 +4691,11 @@
       "Quần chúng nhân dân"
     ],
     "correctAnswer": 1,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 282,
@@ -3583,7 +4707,11 @@
       "Thành bại của cách mạng."
     ],
     "correctAnswer": 2,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 283,
@@ -3595,7 +4723,11 @@
       "Độc lập, tự do."
     ],
     "correctAnswer": 2,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 284,
@@ -3608,7 +4740,11 @@
       "Điểm bố"
     ],
     "correctAnswer": 0,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 285,
@@ -3621,7 +4757,11 @@
       "Hồ Chí Minh"
     ],
     "correctAnswer": 3,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 286,
@@ -3633,7 +4773,11 @@
       "Lấy quyền uy để thuyết phục mọi người đi theo."
     ],
     "correctAnswer": 1,
-    "page": 48
+    "page": 48,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 287,
@@ -3645,7 +4789,11 @@
       "Toàn dân."
     ],
     "correctAnswer": 0,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 288,
@@ -3657,7 +4805,11 @@
       "Sẵn sàng hợp tác"
     ],
     "correctAnswer": 1,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 289,
@@ -3670,7 +4822,11 @@
       "Hồ Chí Minh"
     ],
     "correctAnswer": 3,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 290,
@@ -3682,7 +4838,11 @@
       "Chủ nghĩa quốc tế vô sản, có lý, có tình."
     ],
     "correctAnswer": 2,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 291,
@@ -3694,7 +4854,11 @@
       "Chỗ đứng cho việc thực hiện đoàn kết quốc tế."
     ],
     "correctAnswer": 0,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 292,
@@ -3706,7 +4870,11 @@
       "Phụng sự tổ quốc"
     ],
     "correctAnswer": 2,
-    "page": 49
+    "page": 49,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 293,
@@ -3718,7 +4886,11 @@
       "Sự lãnh đạo của chính quyền"
     ],
     "correctAnswer": 0,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 294,
@@ -3731,7 +4903,11 @@
       "triệu/nghìn."
     ],
     "correctAnswer": 1,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 295,
@@ -3744,7 +4920,11 @@
       "Sức mạnh giúp cho dân tộc ta vượt qua mọi thử thách, khó khăn trong dựng nước và giữ nước."
     ],
     "correctAnswer": 0,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 296,
@@ -3756,7 +4936,11 @@
       "Là vấn đề cơ bản có ý nghĩa chiến lược, quyết định thành công của cách mạng."
     ],
     "correctAnswer": 2,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 297,
@@ -3769,7 +4953,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 3,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 298,
@@ -3782,7 +4970,11 @@
       "Chính quyền"
     ],
     "correctAnswer": 0,
-    "page": 50
+    "page": 50,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 299,
@@ -3795,7 +4987,11 @@
       "Có mối liên hệ mật thiết với nhân dân"
     ],
     "correctAnswer": 3,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 300,
@@ -3808,7 +5004,11 @@
       "Không phải tuân theo pháp luật"
     ],
     "correctAnswer": 1,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 301,
@@ -3821,7 +5021,11 @@
       "Dân tộc"
     ],
     "correctAnswer": 3,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 302,
@@ -3834,7 +5038,11 @@
       "\"đức trị\" và \"tiền lệ\"."
     ],
     "correctAnswer": 0,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 303,
@@ -3846,7 +5054,11 @@
       "Kéo bè kéo cánh"
     ],
     "correctAnswer": 0,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 304,
@@ -3859,7 +5071,11 @@
       "Dân làm người chủ"
     ],
     "correctAnswer": 0,
-    "page": 51
+    "page": 51,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 305,
@@ -3872,7 +5088,11 @@
       "Nhà nước lấy lợi ích chính đáng của nhân dân làm mục tiêu"
     ],
     "correctAnswer": 3,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 306,
@@ -3884,7 +5104,11 @@
       "Không có bất cứ lợi ích không chính đáng nào khác."
     ],
     "correctAnswer": 0,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 307,
@@ -3896,7 +5120,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 0,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 308,
@@ -3909,7 +5137,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 309,
@@ -3921,7 +5153,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 2,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 310,
@@ -3933,7 +5169,11 @@
       "Xây dựng đội ngũ cán bộ, công an đủ đức và tài"
     ],
     "correctAnswer": 0,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 311,
@@ -3946,7 +5186,11 @@
       "Đề cập tới năng lực của dân"
     ],
     "correctAnswer": 1,
-    "page": 52
+    "page": 52,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 312,
@@ -3959,7 +5203,11 @@
       "Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý xã hội."
     ],
     "correctAnswer": 3,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 313,
@@ -3971,7 +5219,11 @@
       "Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý xã hội."
     ],
     "correctAnswer": 2,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 314,
@@ -3984,7 +5236,11 @@
       "Nhà nước dưới sự lãnh đạo của Quốc hội."
     ],
     "correctAnswer": 3,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 315,
@@ -3996,7 +5252,11 @@
       "Tính nhân dân và tính xã hội chủ nghĩa"
     ],
     "correctAnswer": 0,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 316,
@@ -4009,7 +5269,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 3,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 317,
@@ -4022,7 +5286,11 @@
       "Đem lại lợi ích cho dân."
     ],
     "correctAnswer": 2,
-    "page": 53
+    "page": 53,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 318,
@@ -4035,7 +5303,11 @@
       "Bất kỳ ai vi phạm pháp luật cũng đều bị trừng trị nghiêm khắc, đúng người, đúng tội."
     ],
     "correctAnswer": 1,
-    "page": 54
+    "page": 54,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 319,
@@ -4047,7 +5319,11 @@
       "Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức quần chúng"
     ],
     "correctAnswer": 0,
-    "page": 54
+    "page": 54,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 320,
@@ -4060,7 +5336,11 @@
       "Hình phạt"
     ],
     "correctAnswer": 1,
-    "page": 54
+    "page": 54,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 321,
@@ -4072,7 +5352,11 @@
       "Hoạt động quản lý nhà nước bằng Hiến pháp và sắc lệnh, chú trọng đưa sắc lệnh vào cuộc sống."
     ],
     "correctAnswer": 0,
-    "page": 54
+    "page": 54,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 322,
@@ -4085,7 +5369,11 @@
       "Quyền lực của nhà nước và xã hội thuộc về nhân dân"
     ],
     "correctAnswer": 3,
-    "page": 54
+    "page": 54,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 323,
@@ -4098,7 +5386,11 @@
       "Mang tính dân tộc."
     ],
     "correctAnswer": 2,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 324,
@@ -4110,7 +5402,11 @@
       "Công bộc"
     ],
     "correctAnswer": 0,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 325,
@@ -4123,7 +5419,11 @@
       "Trâu, ngựa"
     ],
     "correctAnswer": 2,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 326,
@@ -4135,7 +5435,11 @@
       "Sức mạnh do con người và vì thần linh."
     ],
     "correctAnswer": 1,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 327,
@@ -4147,7 +5451,11 @@
       "Quan cách trước nhân dân"
     ],
     "correctAnswer": 0,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 328,
@@ -4160,7 +5468,11 @@
       "\"Khoan thư sức dân làm kế sâu rễ bền gốc\"."
     ],
     "correctAnswer": 3,
-    "page": 55
+    "page": 55,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 329,
@@ -4173,7 +5485,11 @@
       "Một nhà nước không có tiêu cực, không có đặc quyền đặc lợi."
     ],
     "correctAnswer": 0,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 330,
@@ -4185,7 +5501,11 @@
       "Dân chủ là tài sản của mọi chế độ xã hội"
     ],
     "correctAnswer": 0,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 331,
@@ -4197,7 +5517,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 2,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 332,
@@ -4209,7 +5533,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 2,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 333,
@@ -4222,7 +5550,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 334,
@@ -4235,7 +5567,11 @@
       "Nhà nước bảo hộ cho phép"
     ],
     "correctAnswer": 0,
-    "page": 56
+    "page": 56,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 335,
@@ -4247,7 +5583,11 @@
       "Tự mình học tập mà thành"
     ],
     "correctAnswer": 0,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 336,
@@ -4259,7 +5599,11 @@
       "Bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh; hướng con người đến chân, thiện, mỹ để hoàn thiện con người."
     ],
     "correctAnswer": 1,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 337,
@@ -4272,7 +5616,11 @@
       "Giặc đói"
     ],
     "correctAnswer": 0,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 338,
@@ -4284,7 +5632,11 @@
       "Chổng lên trời\"."
     ],
     "correctAnswer": 0,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 339,
@@ -4296,7 +5648,11 @@
       "Kỹ năng trong hiệu quả hành động."
     ],
     "correctAnswer": 0,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 340,
@@ -4309,7 +5665,11 @@
       "Phong cách tiểu tư sản"
     ],
     "correctAnswer": 0,
-    "page": 57
+    "page": 57,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 341,
@@ -4322,7 +5682,11 @@
       "Ba"
     ],
     "correctAnswer": 1,
-    "page": 58
+    "page": 58,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 342,
@@ -4334,7 +5698,11 @@
       "Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải thay thế"
     ],
     "correctAnswer": 0,
-    "page": 58
+    "page": 58,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 343,
@@ -4347,7 +5715,11 @@
       "Chính là trong sạch, không tham lam đồng xu, hạt thóc của nhà nước, của dân."
     ],
     "correctAnswer": 3,
-    "page": 58
+    "page": 58,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 344,
@@ -4360,7 +5732,11 @@
       "Là người bạn đường của cách mạng"
     ],
     "correctAnswer": 2,
-    "page": 58
+    "page": 58,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 345,
@@ -4372,7 +5748,11 @@
       "Tâm hồn dân tộc."
     ],
     "correctAnswer": 2,
-    "page": 58
+    "page": 58,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 346,
@@ -4384,7 +5764,11 @@
       "Dân tộc, cho cách mạng."
     ],
     "correctAnswer": 0,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 347,
@@ -4396,7 +5780,11 @@
       "Trào lưu tiến hoá của khoa học kỹ thuật."
     ],
     "correctAnswer": 1,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 348,
@@ -4408,7 +5796,11 @@
       "Khoa học, kỹ thuật tiên tiến làm cho chủ nghĩa cộng sản trở thành một sức mạnh vô địch."
     ],
     "correctAnswer": 0,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 349,
@@ -4421,7 +5813,11 @@
       "Nỗ lực."
     ],
     "correctAnswer": 0,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 350,
@@ -4434,7 +5830,11 @@
       "Có sang, có hèn."
     ],
     "correctAnswer": 0,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 351,
@@ -4447,7 +5847,11 @@
       "Ba nhận định trên đúng."
     ],
     "correctAnswer": 0,
-    "page": 59
+    "page": 59,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 352,
@@ -4459,7 +5863,11 @@
       "Lực lượng đoàn kết của công nhân."
     ],
     "correctAnswer": 0,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 353,
@@ -4471,7 +5879,11 @@
       "Có tinh thần quốc tế chân chính."
     ],
     "correctAnswer": 0,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 354,
@@ -4484,7 +5896,11 @@
       "Phong cách tư sản"
     ],
     "correctAnswer": 0,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 355,
@@ -4497,7 +5913,11 @@
       "Làm đầy tớ"
     ],
     "correctAnswer": 2,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 356,
@@ -4509,7 +5929,11 @@
       "Xây dựng luân lý, tâm lý, xã hội, chính trị, khoa học."
     ],
     "correctAnswer": 0,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 357,
@@ -4521,7 +5945,11 @@
       "Phải tu dưỡng đạo đức hàng ngày."
     ],
     "correctAnswer": 0,
-    "page": 60
+    "page": 60,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 358,
@@ -4533,7 +5961,11 @@
       "Thương yêu con người, sống có trách nhiệm"
     ],
     "correctAnswer": 0,
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 359,
@@ -4546,7 +5978,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 1,
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 360,
@@ -4558,7 +5994,11 @@
       "Văn hoá là tổng hợp của mọi phương thức sinh hoạt cùng với biểu hiện của nó mà loài người đã sản sinh ra nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự trường tồn"
     ],
     "correctAnswer": 0,
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 361,
@@ -4570,7 +6010,11 @@
       "Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho nhân loại"
     ],
     "correctAnswer": 0,
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 362,
@@ -4582,7 +6026,11 @@
       "Mở rộng hiểu biết, nâng cao trình độ."
     ],
     "correctAnswer": 0,
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 363,
@@ -4596,7 +6044,11 @@
     ],
     "correctAnswer": 3,
     "note": "Trường hợp nếu câu hỏi chỉ có 3 đáp án (không có \"Mùa xuân của xã hội\") thì chọn \"Mùa xuân của đất nước\".",
-    "page": 61
+    "page": 61,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 364,
@@ -4608,7 +6060,11 @@
       "Công, nông nghiệp hiện đại."
     ],
     "correctAnswer": 0,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 365,
@@ -4621,7 +6077,11 @@
       "Sức mạnh đoàn kết quốc tế"
     ],
     "correctAnswer": 2,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 366,
@@ -4634,7 +6094,11 @@
       "Ép buộc - cưỡng chế"
     ],
     "correctAnswer": 0,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 367,
@@ -4646,7 +6110,11 @@
       "Nói đi đôi với làm, phải nêu gương về tác phong"
     ],
     "correctAnswer": 0,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 368,
@@ -4659,7 +6127,11 @@
       "Việc hít thở hàng ngày"
     ],
     "correctAnswer": 0,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 369,
@@ -4672,7 +6144,11 @@
       "Trình độ chuyên môn nghiệp vụ làm thước đo."
     ],
     "correctAnswer": 1,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 370,
@@ -4685,7 +6161,11 @@
       "Con người lịch sử, văn hóa"
     ],
     "correctAnswer": 0,
-    "page": 62
+    "page": 62,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 371,
@@ -4697,7 +6177,11 @@
       "Phục vụ nhiệm vụ văn hóa và thúc đẩy sự phát triển của kinh tế, chính trị."
     ],
     "correctAnswer": 1,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 372,
@@ -4710,7 +6194,11 @@
       "Chủ nghĩa vị kỷ."
     ],
     "correctAnswer": 0,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 373,
@@ -4723,7 +6211,11 @@
       "Có trình độ và hiểu biết"
     ],
     "correctAnswer": 0,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 374,
@@ -4735,7 +6227,11 @@
       "Văn minh của các dân tộc khác."
     ],
     "correctAnswer": 0,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 375,
@@ -4747,7 +6243,11 @@
       "Tự nhiên mà có"
     ],
     "correctAnswer": 0,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 376,
@@ -4760,7 +6260,11 @@
       "Văn hiến lâu đời"
     ],
     "correctAnswer": 0,
-    "page": 63
+    "page": 63,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 377,
@@ -4772,7 +6276,11 @@
       "Việc học không bao giờ cùng, còn sống còn phải học"
     ],
     "correctAnswer": 2,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 378,
@@ -4784,7 +6292,11 @@
       "Đảng phải có kế hoạch tốt để phát triển kinh tế, xã hội"
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 379,
@@ -4796,7 +6308,11 @@
       "Một trăm tủ sách."
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 380,
@@ -4808,7 +6324,11 @@
       "Tất cả các phương án"
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 381,
@@ -4820,7 +6340,11 @@
       "Cần, kiệm, liêm, chính, tự do."
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 382,
@@ -4832,7 +6356,11 @@
       "sức mạnh, sức hấp dẫn của tư tưởng Hồ Chí Minh."
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 383,
@@ -4844,7 +6372,11 @@
       "\"Trồng người\" là trung tâm phát triển thế giới"
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 384,
@@ -4857,7 +6389,11 @@
       "Cần thiết"
     ],
     "correctAnswer": 0,
-    "page": 64
+    "page": 64,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 385,
@@ -4870,7 +6406,11 @@
       "Tu dưỡng đạo đức suốt đời"
     ],
     "correctAnswer": 0,
-    "page": 65
+    "page": 65,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 386,
@@ -4882,7 +6422,11 @@
       "Mới là người cách mạng."
     ],
     "correctAnswer": 0,
-    "page": 65
+    "page": 65,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 387,
@@ -4894,7 +6438,11 @@
       "Dân tộc, khoa học và nhân bản"
     ],
     "correctAnswer": 0,
-    "page": 65
+    "page": 65,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 388,
@@ -4907,7 +6455,11 @@
       "Nhà nước xây dựng thêm."
     ],
     "correctAnswer": 2,
-    "page": 65
+    "page": 65,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 389,
@@ -4920,7 +6472,11 @@
       "Trong sạch, không đòi hỏi tiền của, địa vị, danh tiếng."
     ],
     "correctAnswer": 0,
-    "page": 65
+    "page": 65,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 390,
@@ -4933,7 +6489,11 @@
       "Tính dân tộc của văn hóa nhân loại."
     ],
     "correctAnswer": 0,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 391,
@@ -4946,7 +6506,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 2,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 392,
@@ -4959,7 +6523,11 @@
       "Dù là xấu, tốt, văn minh hay dã man đều có học."
     ],
     "correctAnswer": 1,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 393,
@@ -4971,7 +6539,11 @@
       "Diệt trừ văn hóa tư sản"
     ],
     "correctAnswer": 0,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 394,
@@ -4983,7 +6555,11 @@
       "Giặc ngoại xâm"
     ],
     "correctAnswer": 1,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 395,
@@ -4996,7 +6572,11 @@
       "Cộng đồng"
     ],
     "correctAnswer": 0,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 396,
@@ -5008,7 +6588,11 @@
       "Nền tảng tư tưởng của Đảng"
     ],
     "correctAnswer": 1,
-    "page": 66
+    "page": 66,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 397,
@@ -5021,7 +6605,11 @@
       "6 phẩm chất cơ bản"
     ],
     "correctAnswer": 1,
-    "page": 67
+    "page": 67,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 398,
@@ -5034,7 +6622,11 @@
       "Cần, kiệm, liêm, chính, chí công vô tư"
     ],
     "correctAnswer": 3,
-    "page": 67
+    "page": 67,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 399,
@@ -5047,7 +6639,11 @@
       "Câu chuyện ngụ ngôn"
     ],
     "correctAnswer": 1,
-    "page": 67
+    "page": 67,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 400,
@@ -5059,7 +6655,11 @@
       "Theo chủ nghĩa Mác - Lênin được."
     ],
     "correctAnswer": 0,
-    "page": 67
+    "page": 67,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 401,
@@ -5072,7 +6672,11 @@
       "Chuyên môn"
     ],
     "correctAnswer": 1,
-    "page": 67
+    "page": 67,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 402,
@@ -5084,7 +6688,11 @@
       "Văn minh."
     ],
     "correctAnswer": 0,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 403,
@@ -5096,7 +6704,11 @@
       "Đạo đức nhân dân"
     ],
     "correctAnswer": 0,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 404,
@@ -5109,7 +6721,11 @@
       "Tất cả các phương án."
     ],
     "correctAnswer": 3,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 405,
@@ -5122,7 +6738,11 @@
       "Ý chí cách mạng"
     ],
     "correctAnswer": 2,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 406,
@@ -5134,7 +6754,11 @@
       "Tháng 8-1946"
     ],
     "correctAnswer": 0,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 407,
@@ -5147,7 +6771,11 @@
       "5 nguyên tắc."
     ],
     "correctAnswer": 2,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 408,
@@ -5160,7 +6788,11 @@
       "Làm mãi mới được."
     ],
     "correctAnswer": 0,
-    "page": 68
+    "page": 68,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 409,
@@ -5172,7 +6804,11 @@
       "Xây đi đôi với cải tạo"
     ],
     "correctAnswer": 0,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 410,
@@ -5185,7 +6821,11 @@
       "Tất cả các phương án trả lời đều đúng"
     ],
     "correctAnswer": 2,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 411,
@@ -5198,7 +6838,11 @@
       "Chính trị, đạo đức"
     ],
     "correctAnswer": 2,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 412,
@@ -5210,7 +6854,11 @@
       "Nâng cao đời sống vật chất cho nhân dân."
     ],
     "correctAnswer": 0,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 413,
@@ -5223,7 +6871,11 @@
       "Nhân dân lao động"
     ],
     "correctAnswer": 3,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 414,
@@ -5236,7 +6888,11 @@
       "Công nghiệp và nông nghiệp"
     ],
     "correctAnswer": 3,
-    "page": 69
+    "page": 69,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 415,
@@ -5249,7 +6905,11 @@
       "Tất cả các phương án trả lời đều đúng trả lời đều đúng"
     ],
     "correctAnswer": 2,
-    "page": 70
+    "page": 70,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 416,
@@ -5262,7 +6922,11 @@
       "Văn hóa"
     ],
     "correctAnswer": 1,
-    "page": 70
+    "page": 70,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 417,
@@ -5275,7 +6939,11 @@
       "Nhân loại"
     ],
     "correctAnswer": 3,
-    "page": 70
+    "page": 70,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 418,
@@ -5287,7 +6955,11 @@
       "Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, góp phần xứng đáng vào sự nghiệp cách mạng thế giới."
     ],
     "correctAnswer": 2,
-    "page": 70
+    "page": 70,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 419,
@@ -5299,7 +6971,11 @@
       "Tất cả các phương án trả lời đúng"
     ],
     "correctAnswer": 2,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 420,
@@ -5312,7 +6988,11 @@
       "Cộng đồng"
     ],
     "correctAnswer": 1,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 421,
@@ -5325,7 +7005,11 @@
       "Công bằng, đạo đức"
     ],
     "correctAnswer": 2,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 422,
@@ -5338,7 +7022,11 @@
       "Vật chất và tinh thần"
     ],
     "correctAnswer": 2,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 423,
@@ -5351,7 +7039,11 @@
       "Văn hóa"
     ],
     "correctAnswer": 2,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 424,
@@ -5364,7 +7056,11 @@
       "Người hầu"
     ],
     "correctAnswer": 1,
-    "page": 71
+    "page": 71,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 425,
@@ -5377,7 +7073,11 @@
       "Phục vụ"
     ],
     "correctAnswer": 2,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 426,
@@ -5389,7 +7089,11 @@
       "Hai nhận định trên đúng."
     ],
     "correctAnswer": 1,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 427,
@@ -5402,7 +7106,11 @@
       "Các nhận định trên đều đúng."
     ],
     "correctAnswer": 3,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 428,
@@ -5415,7 +7123,11 @@
       "Bác ái"
     ],
     "correctAnswer": 0,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 429,
@@ -5428,7 +7140,11 @@
       "Dân chủ"
     ],
     "correctAnswer": 2,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 430,
@@ -5441,7 +7157,11 @@
       "Bình đẳng"
     ],
     "correctAnswer": 2,
-    "page": 72
+    "page": 72,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 431,
@@ -5454,7 +7174,11 @@
       "Kiểm soát của nhân dân"
     ],
     "correctAnswer": 3,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 432,
@@ -5467,7 +7191,11 @@
       "\"Dân cử ra\" và \"do dân tổ chức nên\""
     ],
     "correctAnswer": 3,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 433,
@@ -5480,7 +7208,11 @@
       "Xã hội"
     ],
     "correctAnswer": 0,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 434,
@@ -5493,7 +7225,11 @@
       "Chủ tịch nước"
     ],
     "correctAnswer": 2,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 435,
@@ -5506,7 +7242,11 @@
       "Con người, quyền công dân"
     ],
     "correctAnswer": 3,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 436,
@@ -5519,7 +7259,11 @@
       "Quốc hội"
     ],
     "correctAnswer": 2,
-    "page": 73
+    "page": 73,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 437,
@@ -5532,7 +7276,11 @@
       "Bảo đảm dân quyền trong việc xác lập quyền lực của chính quyền."
     ],
     "correctAnswer": 1,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 438,
@@ -5545,7 +7293,11 @@
       "Khắc phục"
     ],
     "correctAnswer": 1,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 439,
@@ -5558,7 +7310,11 @@
       "Đảng"
     ],
     "correctAnswer": 2,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 440,
@@ -5571,7 +7327,11 @@
       "Tác phong làm việc khoa học."
     ],
     "correctAnswer": 0,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 441,
@@ -5584,7 +7344,11 @@
       "Quốc tế."
     ],
     "correctAnswer": 0,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 442,
@@ -5598,7 +7362,11 @@
       "ĐCS Việt Nam là của dân tộc Việt Nam."
     ],
     "correctAnswer": 0,
-    "page": 74
+    "page": 74,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 443,
@@ -5611,7 +7379,11 @@
       "Các nhận định trên đúng."
     ],
     "correctAnswer": 3,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 444,
@@ -5624,7 +7396,11 @@
       "Năm 1954."
     ],
     "correctAnswer": 0,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 445,
@@ -5638,7 +7414,11 @@
       "Xác định năng lực của đảng."
     ],
     "correctAnswer": 1,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 446,
@@ -5651,7 +7431,11 @@
       "ĐCS Việt Nam lấy CNMLN làm lãnh đạo của đảng."
     ],
     "correctAnswer": 0,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 447,
@@ -5664,7 +7448,11 @@
       "Phong trào giải phóng dân tộc cả chính trị tư tưởng và tổ chức"
     ],
     "correctAnswer": 0,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 448,
@@ -5677,7 +7465,11 @@
       "Tư tưởng"
     ],
     "correctAnswer": 0,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 449,
@@ -5690,7 +7482,11 @@
       "21 tuổi"
     ],
     "correctAnswer": 0,
-    "page": 75
+    "page": 75,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 450,
@@ -5704,7 +7500,11 @@
       "Tất cả các phương án đều đúng."
     ],
     "correctAnswer": 4,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 451,
@@ -5717,7 +7517,11 @@
       "Tổ chức của giai cấp nông dân."
     ],
     "correctAnswer": 0,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 452,
@@ -5730,7 +7534,11 @@
       "Là nhiệm vụ hàng đầu của cách mạng."
     ],
     "correctAnswer": 0,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 453,
@@ -5743,7 +7551,11 @@
       "05 quan điểm"
     ],
     "correctAnswer": 0,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 454,
@@ -5756,7 +7568,11 @@
       "Tổ chức của giai cấp công nhân."
     ],
     "correctAnswer": 0,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 455,
@@ -5770,7 +7586,11 @@
       "Hiến pháp năm 1992"
     ],
     "correctAnswer": 1,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 456,
@@ -5783,7 +7603,11 @@
       "Đông Dương cộng sản liên đoàn."
     ],
     "correctAnswer": 0,
-    "page": 76
+    "page": 76,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 457,
@@ -5797,7 +7621,11 @@
       "Không dùng vũ lực và đe doạ dùng vũ lực."
     ],
     "correctAnswer": 1,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 458,
@@ -5811,7 +7639,11 @@
       "Công nhân."
     ],
     "correctAnswer": 1,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 459,
@@ -5825,7 +7657,11 @@
       "Hiến pháp 1980."
     ],
     "correctAnswer": 1,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 460,
@@ -5839,7 +7675,11 @@
       "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế."
     ],
     "correctAnswer": 0,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 461,
@@ -5853,7 +7693,11 @@
       "Phải có tính kiên nhẫn hơn người."
     ],
     "correctAnswer": 1,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 462,
@@ -5867,7 +7711,11 @@
       "Quyền khiếu nại, tố cáo."
     ],
     "correctAnswer": 1,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 463,
@@ -5880,7 +7728,11 @@
       "Nguyễn Văn Linh."
     ],
     "correctAnswer": 0,
-    "page": 77
+    "page": 77,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 464,
@@ -5893,7 +7745,11 @@
       "Nhân dân lao động và của dân tộc Việt Nam."
     ],
     "correctAnswer": 0,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 465,
@@ -5906,7 +7762,11 @@
       "Đạo đức là sức mạnh của giai cấp công nhân."
     ],
     "correctAnswer": 0,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 466,
@@ -5920,7 +7780,11 @@
       "18 tuổi."
     ],
     "correctAnswer": 1,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 467,
@@ -5935,7 +7799,11 @@
       "Đại hội VIII."
     ],
     "correctAnswer": 2,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 468,
@@ -5949,7 +7817,11 @@
       "Đại hội IX."
     ],
     "correctAnswer": 1,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 469,
@@ -5962,7 +7834,11 @@
       "Tư tưởng là sản phẩm của đầu óc con người."
     ],
     "correctAnswer": 0,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 470,
@@ -5976,7 +7852,11 @@
       "Hoàng Hoa Thám; Phan Bội Châu và Phan Châu Trinh."
     ],
     "correctAnswer": 1,
-    "page": 78
+    "page": 78,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 471,
@@ -5990,7 +7870,11 @@
       "Nước Mỹ."
     ],
     "correctAnswer": 1,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 472,
@@ -6003,7 +7887,11 @@
       "Năm 1919."
     ],
     "correctAnswer": 0,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 473,
@@ -6016,7 +7904,11 @@
       "Năm 1946."
     ],
     "correctAnswer": 0,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 474,
@@ -6029,7 +7921,11 @@
       "Năm 1948."
     ],
     "correctAnswer": 0,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 475,
@@ -6042,7 +7938,11 @@
       "Đấu tranh đấu tranh chống chủ nghĩa thực dân."
     ],
     "correctAnswer": 0,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 476,
@@ -6057,7 +7957,11 @@
       "Quá độ lên chủ nghĩa xã hội."
     ],
     "correctAnswer": 1,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 477,
@@ -6071,7 +7975,11 @@
       "Độc lập cho Tổ quốc tôi, hạnh phúc cho đồng bào tôi."
     ],
     "correctAnswer": 0,
-    "page": 79
+    "page": 79,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 478,
@@ -6084,7 +7992,11 @@
       "Tổ quốc được độc lập."
     ],
     "correctAnswer": 0,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 479,
@@ -6097,7 +8009,11 @@
       "Tư bản/đến nơi đến chốn rồi/4 lần rồi."
     ],
     "correctAnswer": 1,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 480,
@@ -6110,7 +8026,11 @@
       "Nhiệm vụ của thời kỳ quá độ."
     ],
     "correctAnswer": 2,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 481,
@@ -6123,7 +8043,11 @@
       "Đảng lãnh đạo."
     ],
     "correctAnswer": 1,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 482,
@@ -6136,7 +8060,11 @@
       "Cộng sản/cảnh giác/bình tĩnh."
     ],
     "correctAnswer": 0,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 483,
@@ -6149,7 +8077,11 @@
       "Coi đó là điểm mẹ."
     ],
     "correctAnswer": 0,
-    "page": 80
+    "page": 80,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 484,
@@ -6162,7 +8094,11 @@
       "Củng cố, kiện toàn, phát huy sức mạnh và hiệu quả hoạt động của toàn bộ hệ thống chính trị."
     ],
     "correctAnswer": 0,
-    "page": 81
+    "page": 81,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 485,
@@ -6175,7 +8111,11 @@
       "Chủ nghĩa xã hội là điều kiện để bảo đảm nền độc lập dân tộc vững chắc."
     ],
     "correctAnswer": 2,
-    "page": 81
+    "page": 81,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 486,
@@ -6188,7 +8128,11 @@
       "Điều kiện để bảo đảm độc lập dân tộc gắn liền với chủ nghĩa xã hội."
     ],
     "correctAnswer": 0,
-    "page": 81
+    "page": 81,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 487,
@@ -6201,7 +8145,11 @@
       "Phải đoàn kết, gắn bó chặt chẽ với cách mạng thế giới."
     ],
     "correctAnswer": 0,
-    "page": 81
+    "page": 81,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 488,
@@ -6214,7 +8162,11 @@
       "Công, dung, ngôn, hạnh."
     ],
     "correctAnswer": 1,
-    "page": 81
+    "page": 81,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 489,
@@ -6227,7 +8179,11 @@
       "Xây dựng và phát triển văn hóa con người."
     ],
     "correctAnswer": 0,
-    "page": 82
+    "page": 82,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 490,
@@ -6240,7 +8196,12 @@
       "Con người là một chỉnh thể thống nhất, đa dạng bởi mối quan hệ giữa cá nhân và xã hội."
     ],
     "correctAnswer": 0,
-    "page": 82
+    "page": 82,
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "isMulti": true
   },
   {
     "id": 491,
@@ -6253,7 +8214,11 @@
       "Xóa bỏ tình trạng áp bức, bóc lột, nô dịch con người."
     ],
     "correctAnswer": 0,
-    "page": 82
+    "page": 82,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 492,
@@ -6266,7 +8231,11 @@
       "Đưa xã hội phát triển không có chế độ người bóc lột người, một xã hội có nền sản xuất phát triển bền vững, văn hóa tiên tiến, mọi người làm chủ xã hội, có cuộc sống ấm no, hạnh phúc, một xã hội văn minh, công bằng,tiến bộ."
     ],
     "correctAnswer": 0,
-    "page": 82
+    "page": 82,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 493,
@@ -6279,7 +8248,11 @@
       "Chủ yếu quyết định."
     ],
     "correctAnswer": 2,
-    "page": 82
+    "page": 82,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 494,
@@ -6292,7 +8265,11 @@
       "Quan niệm của Hồ Chí Minh về con người."
     ],
     "correctAnswer": 0,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 495,
@@ -6305,7 +8282,11 @@
       "Những con người vừa hồng, vừa chuyên."
     ],
     "correctAnswer": 0,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 496,
@@ -6318,7 +8299,13 @@
       "Lấy gương người tốt, việc tốt hằng ngày để giáo dục lẫn nhau."
     ],
     "correctAnswer": 0,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true
   },
   {
     "id": 497,
@@ -6331,7 +8318,11 @@
       "Vai trò xây dựng con người."
     ],
     "correctAnswer": 0,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 498,
@@ -6344,7 +8335,11 @@
       "Năm 1924 và tiếp cận Chính sách kinh tế mới (NEP)."
     ],
     "correctAnswer": 0,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 499,
@@ -6357,7 +8352,11 @@
       "Năm 1975"
     ],
     "correctAnswer": 1,
-    "page": 83
+    "page": 83,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 500,
@@ -6370,7 +8369,11 @@
       "Xác định năng lực của Đảng"
     ],
     "correctAnswer": 2,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 501,
@@ -6383,7 +8386,11 @@
       "Thể chất dân tộc"
     ],
     "correctAnswer": 2,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 502,
@@ -6396,7 +8403,11 @@
       "Chủ nghĩa Tam dân."
     ],
     "correctAnswer": 0,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 503,
@@ -6409,7 +8420,11 @@
       "Cách mạng vô sản ở thuộc địa phải phụ thuộc vào thắng lợi của cách mạng vô sản ở chính quốc."
     ],
     "correctAnswer": 0,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 504,
@@ -6422,7 +8437,11 @@
       "Di chúc."
     ],
     "correctAnswer": 0,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 505,
@@ -6435,7 +8454,11 @@
       "Một nhà nước không có tiêu cực, không có đặc quyền đặc lợi."
     ],
     "correctAnswer": 0,
-    "page": 84
+    "page": 84,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 506,
@@ -6448,7 +8471,11 @@
       "Tất cả các đáp án trên đều đúng."
     ],
     "correctAnswer": 2,
-    "page": 85
+    "page": 85,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 507,
@@ -6461,7 +8488,11 @@
       "Là sự pha trộn 3 hệ tư tưởng trên"
     ],
     "correctAnswer": 2,
-    "page": 85
+    "page": 85,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 508,
@@ -6474,7 +8505,11 @@
       "Cả 3 vấn đề trên đều đúng"
     ],
     "correctAnswer": 3,
-    "page": 85
+    "page": 85,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 509,
@@ -6487,7 +8522,11 @@
       "Qúa trình Đảng cộng sản Việt nam vận dụng tư tưởng Hồ Chí Minh vào thực tiễn cách mạng nước ta."
     ],
     "correctAnswer": 2,
-    "page": 85
+    "page": 85,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 510,
@@ -6500,7 +8539,11 @@
       "Xác định rõ các giai đọan hình thành, phát triển tư tưởng Hồ Chí Minh."
     ],
     "correctAnswer": 0,
-    "page": 85
+    "page": 85,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 511,
@@ -6513,7 +8556,11 @@
       "Là toàn bộ tư tưởng của Đảng cộng sản Việt nam"
     ],
     "correctAnswer": 0,
-    "page": 86
+    "page": 86,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 512,
@@ -6526,7 +8573,11 @@
       "Quan điểm kế thừa và phát triển"
     ],
     "correctAnswer": 3,
-    "page": 86
+    "page": 86,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 513,
@@ -6539,7 +8590,11 @@
       "Phương pháp liên ngành khoa học"
     ],
     "correctAnswer": 0,
-    "page": 86
+    "page": 86,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 514,
@@ -6552,7 +8607,11 @@
       "a và b hợp thành cơ sở quan trọng nhất"
     ],
     "correctAnswer": 0,
-    "page": 86
+    "page": 86,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 515,
@@ -6565,7 +8624,11 @@
       "Cả 3 đáp án trên đều đúng."
     ],
     "correctAnswer": 0,
-    "page": 87
+    "page": 87,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 516,
@@ -6578,7 +8641,11 @@
       "Nghị lực vượt qua khó khăn gian khổ để đạt được mục đích của cuộc sống"
     ],
     "correctAnswer": 0,
-    "page": 87
+    "page": 87,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 517,
@@ -6591,7 +8658,11 @@
       "Loại bỏ hết các tư tưởng tôn giáo"
     ],
     "correctAnswer": 0,
-    "page": 87
+    "page": 87,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 518,
@@ -6604,7 +8675,11 @@
       "Thời kỳ hình thành lòng yêu nước và chí hướng cứu nước."
     ],
     "correctAnswer": 0,
-    "page": 87
+    "page": 87,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 519,
@@ -6617,7 +8692,11 @@
       "Phái chủ hòa trong triều đình nhà Nguyễn"
     ],
     "correctAnswer": 0,
-    "page": 87
+    "page": 87,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 520,
@@ -6630,7 +8709,11 @@
       "Ngay từ khi còn ở trong nước, Hồ Chí Minh đã nhận thức được đặc điểm thời đại"
     ],
     "correctAnswer": 0,
-    "page": 88
+    "page": 88,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 521,
@@ -6643,7 +8726,11 @@
       "Tiếp thu các giá trị tư tưởng của Lão tử, Mạc tử, Quản tử"
     ],
     "correctAnswer": 0,
-    "page": 88
+    "page": 88,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 522,
@@ -6656,7 +8743,11 @@
       "Tiếp thu “ chủ nghĩa tam dân” của Tôn Trung Sơn"
     ],
     "correctAnswer": 0,
-    "page": 88
+    "page": 88,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 523,
@@ -6669,7 +8760,11 @@
       "Ý chí rất cao của một chiến sỹ cộng sản nhiệt thành cách mạng"
     ],
     "correctAnswer": 0,
-    "page": 89
+    "page": 89,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 524,
@@ -6682,7 +8777,11 @@
       "Viết tác phẩm Đường Kách mệnh"
     ],
     "correctAnswer": 0,
-    "page": 89
+    "page": 89,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 525,
@@ -6695,7 +8794,11 @@
       "Hoạt động ở Trung quốc và Thái lan"
     ],
     "correctAnswer": 0,
-    "page": 89
+    "page": 89,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 526,
@@ -6708,7 +8811,11 @@
       "Cuộc đấu tranh giải phóng dân tộc sang đầu thế kỷ XX đã trở thành cuộc đấu tranh chung của các dân tộc thuộc địa gắn với cuộc đấu tranh của giai cấp vô sản ở chính quốc."
     ],
     "correctAnswer": 0,
-    "page": 89
+    "page": 89,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 527,
@@ -6720,7 +8827,11 @@
       "“ Dân tộc độc lập, dân quyền tự do, dân sinh hạnh phúc”"
     ],
     "correctAnswer": 0,
-    "page": 90
+    "page": 90,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 528,
@@ -6733,7 +8844,11 @@
       "Trong học thuyết của Khổng Tử có nhiều điều không đúng"
     ],
     "correctAnswer": 0,
-    "page": 90
+    "page": 90,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 529,
@@ -6746,7 +8861,11 @@
       "Trong sinh họat khoa học, chính trị với Đảng xã hội Pháp, Nguyễn Ái Quốc đã học được cách làm việc dân chủ trong tranh luận, trình bày ý kiến"
     ],
     "correctAnswer": 0,
-    "page": 90
+    "page": 90,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 530,
@@ -6759,7 +8878,11 @@
       "Nguyễn Ái Quốc tiếp thu lý luận Mác – Lênin theo phương pháp “ không học sách vở Mác – Lênin mà học tinh thần Mác – Lênin”"
     ],
     "correctAnswer": 0,
-    "page": 91
+    "page": 91,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 531,
@@ -6772,7 +8895,11 @@
       "Tất cả địa chủ, tư sản"
     ],
     "correctAnswer": 0,
-    "page": 91
+    "page": 91,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 532,
@@ -6785,7 +8912,11 @@
       "Chỉ có bọn đại địa chủ mới có thế lực và đứng hẳn về phe đế quốc"
     ],
     "correctAnswer": 0,
-    "page": 91
+    "page": 91,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 533,
@@ -6798,7 +8929,11 @@
       "Làm cách mạng tư sản dân quyền và thổ địa cách mạng để đi tới xã hội cộng sản"
     ],
     "correctAnswer": 0,
-    "page": 91
+    "page": 91,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 534,
@@ -6811,7 +8946,11 @@
       "Chủ nghĩa dân tộc là động lực vĩ đại và duy nhất của đời sống xã hội của các nước thuộc địa."
     ],
     "correctAnswer": 0,
-    "page": 92
+    "page": 92,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 535,
@@ -6824,7 +8963,11 @@
       "Đồng thời chúng tôi rất hoan nghênh tư bản Pháp và tư bản các nước khác thật thà cộng tác với chúng tôi. Một là để xây dựng lại Việt Nam sau lúc bị chiến tranh tàn phá, hai là để điều hòa kinh tế thế giới và giữ gìn hòa bình."
     ],
     "correctAnswer": 0,
-    "page": 92
+    "page": 92,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 536,
@@ -6837,7 +8980,11 @@
       "Trong điều kiện các nước thuộc địa thì giải phóng dân tộc là cơ sở để giải phóng giai cấp, giải phóng con người"
     ],
     "correctAnswer": 0,
-    "page": 92
+    "page": 92,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 537,
@@ -6850,7 +8997,11 @@
       "Mác đã xây dựng học thuyết của mình trên cơ sở châu Âu, mà châu Âu thì đại diện cho toàn nhân loại."
     ],
     "correctAnswer": 0,
-    "page": 93
+    "page": 93,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 538,
@@ -6863,7 +9014,11 @@
       "Đối với phương Đông, trong đó có Việt Nam, giải phóng giai cấp là nhiệm vụ trên hết, trước hết"
     ],
     "correctAnswer": 0,
-    "page": 93
+    "page": 93,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 539,
@@ -6876,7 +9031,11 @@
       "Cần xem xét lại chủ nghĩa Mác về cơ sở lịch sử của nó, củng cố nó bằng dân tộc học phương Đông"
     ],
     "correctAnswer": 0,
-    "page": 93
+    "page": 93,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 540,
@@ -6889,7 +9048,11 @@
       "Lao động tất cả các nước đòan kết lại"
     ],
     "correctAnswer": 0,
-    "page": 93
+    "page": 93,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 541,
@@ -6902,7 +9065,11 @@
       "Dù sao thì cũng không thể cấm bổ sung “ cơ sở lịch sử” của chủ nghĩa Mác bằng cách đưa thêm vào đó những tư liệu mà Mác ở thời của mình không thể có được."
     ],
     "correctAnswer": 0,
-    "page": 94
+    "page": 94,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 542,
@@ -6915,7 +9082,11 @@
       "Hòa bình, hữu nghị và làm bạn với tất cả các nước xã hội chủ nghĩa anh em"
     ],
     "correctAnswer": 0,
-    "page": 94
+    "page": 94,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 543,
@@ -6928,7 +9099,11 @@
       "Đánh đổ giai cấp địch đã khó, đấu tranh xây dựng chủ nghĩa xã hội còn gian khổ, khó khăn hơn nhiều"
     ],
     "correctAnswer": 0,
-    "page": 94
+    "page": 94,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 544,
@@ -6941,7 +9116,11 @@
       "Công việc xây dựng và khôi phục đất nước sau thắng Mỹ rất to lớn, nặng nề, phức tạp mà cũng rất vẻ vang. Đây là cuộc chiến đấu chống lại những gì đã cũ kỹ, hư hỏng, để tạo ra những cái mới mẻ, tươi tốt"
     ],
     "correctAnswer": 0,
-    "page": 94
+    "page": 94,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 545,
@@ -6954,7 +9133,11 @@
       "Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân"
     ],
     "correctAnswer": 0,
-    "page": 95
+    "page": 95,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 546,
@@ -6967,7 +9150,11 @@
       "Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân"
     ],
     "correctAnswer": 0,
-    "page": 95
+    "page": 95,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 547,
@@ -6980,7 +9167,11 @@
       "Ngay sau khi cuộc chống Mỹ, cứu nước hoàn toàn thắng lợi, việc cần phải làm trước tiên là chỉnh đốn lại Đảng."
     ],
     "correctAnswer": 0,
-    "page": 96
+    "page": 96,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 548,
@@ -6993,7 +9184,11 @@
       "Học tập cái tinh thần xử trí mọi việc, đối với mọi người và đối với bản thân mình."
     ],
     "correctAnswer": 0,
-    "page": 96
+    "page": 96,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 549,
@@ -7006,7 +9201,11 @@
       "Nếu thuộc bao nhiêu sách mà sống không có tình có nghĩa thì sao gọi là “ hiểu chủ nghĩa Mác – Lênin được”"
     ],
     "correctAnswer": 0,
-    "page": 96
+    "page": 96,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 550,
@@ -7019,7 +9218,11 @@
       "Đoàn kết là một chính sách dân tộc, không phải là một thủ đọan chính trị"
     ],
     "correctAnswer": 0,
-    "page": 96
+    "page": 96,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 551,
@@ -7031,7 +9234,11 @@
       "Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ trung thành của nhân dân."
     ],
     "correctAnswer": 2,
-    "page": 97
+    "page": 97,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 552,
@@ -7044,7 +9251,11 @@
       "Đoàn kết của ta không những rộng rãi mà còn đoàn kết lâu dài"
     ],
     "correctAnswer": 0,
-    "page": 97
+    "page": 97,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 553,
@@ -7057,7 +9268,11 @@
       "Việc kết hợp sức mạng dân tộc với sức mạnh thời đại là vì lợi ích của dân tộc chúng ta"
     ],
     "correctAnswer": 0,
-    "page": 97
+    "page": 97,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 554,
@@ -7070,7 +9285,11 @@
       "Một dân tộc không tự lực cánh sinh mà cứ ngồi chờ dân tộc khác giúp đỡ thì không xứng đáng được độc lập"
     ],
     "correctAnswer": 0,
-    "page": 98
+    "page": 98,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 555,
@@ -7083,7 +9302,11 @@
       "Trong mỗi con người Việt Nam ai cũng có ít hay nhiều tấm lòng yêu nước tiềm ẩn bên trong"
     ],
     "correctAnswer": 0,
-    "page": 98
+    "page": 98,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 556,
@@ -7096,7 +9319,11 @@
       "Trong mấy triệu người cũng có người thế này thế khác, nhưng thế này thế khác đều là dòng dõi của tổ tiên ta."
     ],
     "correctAnswer": 0,
-    "page": 98
+    "page": 98,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 557,
@@ -7109,7 +9336,11 @@
       "Ta đoàn kết để đấu tranh cho thống nhất và độc lập của Tổ quốc, ta còn phải đòan kết để xây dựng nước nhà"
     ],
     "correctAnswer": 0,
-    "page": 98
+    "page": 98,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 558,
@@ -7122,7 +9353,11 @@
       "Đối với những đồng bào bị lạc lối lầm đường, ta phải lấy pháp luật nghiêm trị họ"
     ],
     "correctAnswer": 0,
-    "page": 99
+    "page": 99,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 559,
@@ -7135,7 +9370,11 @@
       "Để đoàn kết phải có lòng khoan dung, đại độ với con người."
     ],
     "correctAnswer": 2,
-    "page": 99
+    "page": 99,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 560,
@@ -7148,7 +9387,11 @@
       "Cách mệnh rồi thì quyền giao cho dân chúng số nhiều, chớ để trong tay một bọn ít người"
     ],
     "correctAnswer": 2,
-    "page": 99
+    "page": 99,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 561,
@@ -7161,7 +9404,11 @@
       "Việc gì có lợi cho dân ta phải hết sức làm. Việc gì có hại cho dân, ta phải hết sức tránh"
     ],
     "correctAnswer": 2,
-    "page": 99
+    "page": 99,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 562,
@@ -7174,7 +9421,11 @@
       "Việc gì có lợi cho dân, ta phải hết sức làm. Việc gì có hại cho dân ta phải hết sức tránh"
     ],
     "correctAnswer": 0,
-    "page": 100
+    "page": 100,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 563,
@@ -7187,7 +9438,11 @@
       "Việc gì có lởi cho dân, ta phải hết sức làm. Việc gì có hại cho dân, ta phải hết sức tránh"
     ],
     "correctAnswer": 1,
-    "page": 100
+    "page": 100,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 564,
@@ -7200,7 +9455,11 @@
       "Việc gì có lợi cho dân , ta phải hết sức làm. Việc gì có hại cho dân, ta phải hết sức tránh"
     ],
     "correctAnswer": 0,
-    "page": 100
+    "page": 100,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 565,
@@ -7213,7 +9472,11 @@
       "Các cơ quan của chính phủ từ toàn quốc cho đến các làng đều là công bộc của dân"
     ],
     "correctAnswer": 3,
-    "page": 101
+    "page": 101,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 566,
@@ -7226,7 +9489,11 @@
       "Xây dựng một nền hành chính dân chủ, trong sạch, vững mạnh, kiên quyết chống 3 thứ “ giặc nội xâm” là tham ô, lãng phí, quan liêu"
     ],
     "correctAnswer": 3,
-    "page": 101
+    "page": 101,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 567,
@@ -7239,7 +9506,11 @@
       "Thực hành dân chủ là cái chìa khóa vạn năng có thể giải quyết được mọi khó khăn"
     ],
     "correctAnswer": 0,
-    "page": 101
+    "page": 101,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 568,
@@ -7252,7 +9523,11 @@
       "Việc gì có lợi cho dân , ta phải hết sức làm. Việc gì có hại cho dân, ta phải hết sức tránh"
     ],
     "correctAnswer": 0,
-    "page": 101
+    "page": 101,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 569,
@@ -7265,7 +9540,11 @@
       "Đem lòng chí công vô tư mà đối với người, với việc. Đối lập với “ chí công vô tư” là “ dĩ công vi tư”, đó là điều mà đạo đức mới đòi hỏi phải chống lại."
     ],
     "correctAnswer": 0,
-    "page": 102
+    "page": 102,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 570,
@@ -7278,7 +9557,11 @@
       "Chúng tôi vừa có cả sức mạnh của mình, vừa có cả sức mạnh của sự đoàn kết quốc tế"
     ],
     "correctAnswer": 0,
-    "page": 102
+    "page": 102,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 571,
@@ -7291,7 +9574,11 @@
       "Tôi chỉ có một ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân tộc ta được hoàn toàn tự do, đồng bào ta ai cũng có cơm ăn áo mặc, ai cũng được học hành."
     ],
     "correctAnswer": 0,
-    "page": 102
+    "page": 102,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 572,
@@ -7304,7 +9591,11 @@
       "Mỗi người, mỗi gia đình đều có một nỗi đau khổ riêng, gộp cả những nỗi đau khổ riêng của mỗi người, mỗi gia đình lại thì thành nỗi đau khổ của tôi."
     ],
     "correctAnswer": 0,
-    "page": 103
+    "page": 103,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 573,
@@ -7317,7 +9608,11 @@
       "Tự mình phải chính trước, mới giúp được người khác chính. Mình không chính mà muốn người khác chính là vô lý."
     ],
     "correctAnswer": 0,
-    "page": 103
+    "page": 103,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 574,
@@ -7330,7 +9625,11 @@
       "Tôi chắc rằng đồng bào ta ai cũng sẵn lòng cứu khổ cứu nạn, mà hăng hái hưởng ứng lời đề nghị nói trên."
     ],
     "correctAnswer": 0,
-    "page": 103
+    "page": 103,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 575,
@@ -7343,7 +9642,11 @@
       "Vậy, tôi xin đề nghị với đông bào cả nước và tôi xin thực hành trước, cứ 10 ngày nhịn ăn một bữa, mỗi tháng nhịn 3 bưa.Đem gạo đó ( mỗi bữa một bơ ) để cứu dân nghèo."
     ],
     "correctAnswer": 0,
-    "page": 103
+    "page": 103,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 576,
@@ -7356,7 +9659,11 @@
       "Dũng là gan góc, gặp việc khó phải có gan làm, thấy khuyết điểm phải có gan sửa chữa, không bao giờ rụt rè, nhút nhát….."
     ],
     "correctAnswer": 0,
-    "page": 104
+    "page": 104,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 577,
@@ -7369,7 +9676,11 @@
       "Chủ nghĩa yêu nước Việt Nam trong dựng nước và giữ nước"
     ],
     "correctAnswer": 0,
-    "page": 104
+    "page": 104,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 578,
@@ -7382,7 +9693,11 @@
       "Đối với mọi người phải thực hành chữ Bác ái"
     ],
     "correctAnswer": 3,
-    "page": 104
+    "page": 104,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 579,
@@ -7395,7 +9710,11 @@
       "Tự mình phải Chính trước, mới giúp được người khác chính. Mình không chính mà muốn người khác Chính là vô lý."
     ],
     "correctAnswer": 0,
-    "page": 104
+    "page": 104,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 580,
@@ -7408,7 +9727,11 @@
       "Ngay sau khi cuộc kháng chiến chống Mỹ, cứu nước hoàn toàn thắng lợi thì công việc đầu tiên của chính phủ là công việc đối với con người."
     ],
     "correctAnswer": 0,
-    "page": 105
+    "page": 105,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 581,
@@ -7421,7 +9744,11 @@
       "Người có 4 đức: cần, kiệm, liêm, chính. Thiếu một đức thì không thành người."
     ],
     "correctAnswer": 3,
-    "page": 105
+    "page": 105,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 582,
@@ -7434,7 +9761,11 @@
       "Người siêng họat động thì có sức khỏe…"
     ],
     "correctAnswer": 1,
-    "page": 105
+    "page": 105,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 583,
@@ -7447,7 +9778,11 @@
       "Ngày nay, chữ Liêm có nghĩa rộng hơn, là mọi người đều phải Liêm"
     ],
     "correctAnswer": 1,
-    "page": 106
+    "page": 106,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 584,
@@ -7460,7 +9795,11 @@
       "Con người vừa có thiện vừa có Ác ở trong lòng. Ta phải làn cho phần tốt ở trong mỗi con người nảy nở để phần xấu mất dần đi"
     ],
     "correctAnswer": 0,
-    "page": 106
+    "page": 106,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 585,
@@ -7473,7 +9812,11 @@
       "Pháp luật phải thẳng tay trừng trị những kẻ bất liêm, bất kỳ kẻ ấy ở địa vị nào, làm nghề nghiệp gì."
     ],
     "correctAnswer": 0,
-    "page": 106
+    "page": 106,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 586,
@@ -7486,7 +9829,11 @@
       "Tro thì chia làm 3 phần , bỏ vào 3 cái hộp sành chia cho 3 miền. Đồng bào mỗi miền nên chọn một quả đồi mà chôn hộp tro đó. Trên mả, không nên có bia đá, tượng đồng."
     ],
     "correctAnswer": 0,
-    "page": 106
+    "page": 106,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 587,
@@ -7499,7 +9846,11 @@
       "Phần nhiều do giáo dục mà nên"
     ],
     "correctAnswer": 0,
-    "page": 107
+    "page": 107,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 588,
@@ -7512,7 +9863,11 @@
       "Và cũng chỉ có một mối tình hữu ái là thật mà thôi: tình hữu ái vô sản"
     ],
     "correctAnswer": 0,
-    "page": 107
+    "page": 107,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 589,
@@ -7525,7 +9880,11 @@
       "Chính là trong sạch, không tham lam đồng xu, hạt thóc của nhà nước, của dân"
     ],
     "correctAnswer": 0,
-    "page": 107
+    "page": 107,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 590,
@@ -7538,7 +9897,11 @@
       "Công việc xây dựng và khôi phục đất nước sau thắng Mỹ rất to lớn, nặng nề, phức tạp mà cũnggg rất vẻ vang. Đây là cuộc chiến đấu chống lại những gì cũ kỹ, hư hỏng, để tạo ra những cái mới mẻ, tươi tốt."
     ],
     "correctAnswer": 0,
-    "page": 107
+    "page": 107,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 591,
@@ -7551,7 +9914,11 @@
       "Công việc xây dựng và khôi phục đất nước sau khi thắng Mỹ rất to lớn, nặng nề, phức tạp mà cũng rất vẻ vang. Đây là cuộc chiến đấu chống lại những gì cũ kỹ, hư hỏng, để tạo ra những cái mới mẻ, tươi tốt."
     ],
     "correctAnswer": 0,
-    "page": 108
+    "page": 108,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 592,
@@ -7564,7 +9931,11 @@
       "Đảng ta là một đảng cầm quyền, mỗi đảng viên, cán bộ cần phải thấm nhuần đạo đức cách mạng Cần, Kiệm, Liêm,Chính"
     ],
     "correctAnswer": 2,
-    "page": 108
+    "page": 108,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 593,
@@ -7577,7 +9948,11 @@
       "Chúng ta phải biến một nước dốt nát, cực khổ thành một nước có nền văn hóa cao và đời sống tươi vui, hạnh phúc."
     ],
     "correctAnswer": 3,
-    "page": 109
+    "page": 109,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 594,
@@ -7590,7 +9965,11 @@
       "Một dân tộc biết cần,kiệm, liêm là một dân tộc giàu về vật chất, mạnh về tinh thần, là một dân tộc văn minh tiến bộ."
     ],
     "correctAnswer": 1,
-    "page": 109
+    "page": 109,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 595,
@@ -7603,7 +9982,11 @@
       "Đối với nông dân đề nghị miễn thuế nông nghiệp 1 năm"
     ],
     "correctAnswer": 2,
-    "page": 109
+    "page": 109,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 596,
@@ -7616,7 +9999,11 @@
       "Lấy gương người tốt việc tốt để giáo dục lẫn nhau là một trong những cách tốt nhất để xây dựng con người mới, cuộc sống mới"
     ],
     "correctAnswer": 2,
-    "page": 110
+    "page": 110,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 597,
@@ -7629,7 +10016,11 @@
       "Đối với những nạn nhân của chế độ xã hội cũ, như trộm cắp, gái điếm, cờ bạc, buôn lậu thì nhà nước phải giúp họ trở nên những người lao động lương thiện."
     ],
     "correctAnswer": 0,
-    "page": 110
+    "page": 110,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 598,
@@ -7642,7 +10033,11 @@
       "Phải trong sạch."
     ],
     "correctAnswer": 0,
-    "page": 110
+    "page": 110,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 599,
@@ -7655,7 +10050,11 @@
       "Phải dựa vào sự ủng hộ giúp đỡ của các nước."
     ],
     "correctAnswer": 0,
-    "page": 110
+    "page": 110,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 600,
@@ -7668,7 +10067,11 @@
       "Hoàn thiện đồng bộ thể chế quản lý."
     ],
     "correctAnswer": 3,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 601,
@@ -7681,7 +10084,11 @@
       "Từ chối nộp các khoản thuế phí của nhà nước."
     ],
     "correctAnswer": 0,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 602,
@@ -7694,7 +10101,11 @@
       "Giúp sinh viên nhanh chóng thăng tiến trong các hội nhóm của trường."
     ],
     "correctAnswer": 1,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 603,
@@ -7707,7 +10118,11 @@
       "Gây ra hậu quả đặc biệt nghiêm trọng cho xã hội."
     ],
     "correctAnswer": 1,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 604,
@@ -7720,7 +10135,11 @@
       "Lối sống khiêm tốn giản dị không thích phô trương của thế hệ trẻ."
     ],
     "correctAnswer": 2,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 605,
@@ -7733,7 +10152,11 @@
       "Vũ khí sắc bén nhất chống dịch."
     ],
     "correctAnswer": 2,
-    "page": 111
+    "page": 111,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 606,
@@ -7746,7 +10169,11 @@
       "Phải tập trung xây dựng bộ máy hành chính tinh gọn và hiệu quả."
     ],
     "correctAnswer": 1,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 607,
@@ -7759,7 +10186,11 @@
       "Rập khuân máy móc."
     ],
     "correctAnswer": 1,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 608,
@@ -7772,7 +10203,11 @@
       "Áp đặt từ cơ quan lãnh đạo."
     ],
     "correctAnswer": 2,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 609,
@@ -7785,7 +10220,11 @@
       "Công nghệp, nông nghiệp và dịch vụ thương mại."
     ],
     "correctAnswer": 0,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 610,
@@ -7798,7 +10237,11 @@
       "Kẻ vong bản mất gốc rễ."
     ],
     "correctAnswer": 2,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 611,
@@ -7811,7 +10254,11 @@
       "Mục tiêu kinh tế thị trường."
     ],
     "correctAnswer": 0,
-    "page": 112
+    "page": 112,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 612,
@@ -7824,7 +10271,11 @@
       "tư tưởng chủ nghĩa xã hội."
     ],
     "correctAnswer": 2,
-    "page": 113
+    "page": 113,
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 613,
@@ -7837,7 +10288,11 @@
       "Thực hành các lý luận trừu tương."
     ],
     "correctAnswer": 0,
-    "page": 113
+    "page": 113,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 614,
@@ -7850,6 +10305,10 @@
       "Khoa học kỹ thuật toàn cầu. =========================="
     ],
     "correctAnswer": 0,
-    "page": 113
+    "page": 113,
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   }
 ]

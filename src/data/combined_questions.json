@@ -10,7 +10,10 @@
     ],
     "correctAnswer": 0,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 2,
@@ -23,7 +26,10 @@
     ],
     "correctAnswer": 0,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 3,
@@ -36,7 +42,10 @@
     ],
     "correctAnswer": 0,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 4,
@@ -50,7 +59,10 @@
     ],
     "correctAnswer": 0,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 5,
@@ -64,7 +76,10 @@
     ],
     "correctAnswer": 2,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 6,
@@ -79,7 +94,10 @@
     ],
     "correctAnswer": 0,
     "page": 1,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 7,
@@ -93,7 +111,10 @@
     ],
     "correctAnswer": 0,
     "page": 2,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 8,
@@ -107,7 +128,10 @@
     ],
     "correctAnswer": 2,
     "page": 2,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 9,
@@ -121,7 +145,10 @@
     ],
     "correctAnswer": 0,
     "page": 2,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 10,
@@ -135,7 +162,10 @@
     ],
     "correctAnswer": 0,
     "page": 2,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 11,
@@ -149,7 +179,10 @@
     ],
     "correctAnswer": 0,
     "page": 2,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 12,
@@ -163,7 +196,10 @@
     ],
     "correctAnswer": 0,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 13,
@@ -177,7 +213,10 @@
     ],
     "correctAnswer": 1,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 14,
@@ -191,7 +230,10 @@
     ],
     "correctAnswer": 2,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 15,
@@ -205,7 +247,10 @@
     ],
     "correctAnswer": 3,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 16,
@@ -219,7 +264,10 @@
     ],
     "correctAnswer": 0,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 17,
@@ -233,7 +281,10 @@
     ],
     "correctAnswer": 0,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 18,
@@ -247,7 +298,10 @@
     ],
     "correctAnswer": 2,
     "page": 3,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 19,
@@ -259,7 +313,10 @@
     ],
     "correctAnswer": 1,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 20,
@@ -273,7 +330,10 @@
     ],
     "correctAnswer": 3,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 21,
@@ -287,7 +347,10 @@
     ],
     "correctAnswer": 2,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 22,
@@ -301,7 +364,10 @@
     ],
     "correctAnswer": 1,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 23,
@@ -315,7 +381,10 @@
     ],
     "correctAnswer": 2,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 24,
@@ -329,7 +398,10 @@
     ],
     "correctAnswer": 1,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 25,
@@ -342,7 +414,10 @@
     ],
     "correctAnswer": 2,
     "page": 4,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 26,
@@ -356,7 +431,10 @@
     ],
     "correctAnswer": 0,
     "page": 5,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 27,
@@ -370,7 +448,10 @@
     ],
     "correctAnswer": 0,
     "page": 5,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 28,
@@ -384,7 +465,10 @@
     ],
     "correctAnswer": 1,
     "page": 5,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 29,
@@ -398,7 +482,10 @@
     ],
     "correctAnswer": 2,
     "page": 5,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 30,
@@ -411,7 +498,10 @@
     ],
     "correctAnswer": 2,
     "page": 5,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 31,
@@ -425,7 +515,10 @@
     ],
     "correctAnswer": 3,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 32,
@@ -439,7 +532,10 @@
     ],
     "correctAnswer": 3,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 33,
@@ -453,7 +549,10 @@
     ],
     "correctAnswer": 2,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 34,
@@ -466,7 +565,10 @@
     ],
     "correctAnswer": 2,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 35,
@@ -479,7 +581,10 @@
     ],
     "correctAnswer": 2,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 36,
@@ -493,7 +598,10 @@
     ],
     "correctAnswer": 3,
     "page": 6,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 37,
@@ -507,7 +615,10 @@
     ],
     "correctAnswer": 2,
     "page": 7,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 38,
@@ -521,7 +632,10 @@
     ],
     "correctAnswer": 1,
     "page": 7,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 39,
@@ -535,7 +649,10 @@
     ],
     "correctAnswer": 2,
     "page": 7,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 40,
@@ -549,7 +666,10 @@
     ],
     "correctAnswer": 2,
     "page": 7,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 41,
@@ -563,7 +683,10 @@
     ],
     "correctAnswer": 0,
     "page": 7,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 42,
@@ -577,7 +700,10 @@
     ],
     "correctAnswer": 2,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 43,
@@ -591,7 +717,10 @@
     ],
     "correctAnswer": 2,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 44,
@@ -605,7 +734,10 @@
     ],
     "correctAnswer": 0,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 45,
@@ -619,7 +751,10 @@
     ],
     "correctAnswer": 2,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 46,
@@ -633,7 +768,10 @@
     ],
     "correctAnswer": 2,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 47,
@@ -647,7 +785,10 @@
     ],
     "correctAnswer": 2,
     "page": 8,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 48,
@@ -661,7 +802,10 @@
     ],
     "correctAnswer": 1,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 49,
@@ -675,7 +819,10 @@
     ],
     "correctAnswer": 1,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 50,
@@ -689,7 +836,10 @@
     ],
     "correctAnswer": 2,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 51,
@@ -703,7 +853,10 @@
     ],
     "correctAnswer": 1,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 52,
@@ -717,7 +870,10 @@
     ],
     "correctAnswer": 1,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 53,
@@ -731,7 +887,10 @@
     ],
     "correctAnswer": 1,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 54,
@@ -745,7 +904,10 @@
     ],
     "correctAnswer": 0,
     "page": 9,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 55,
@@ -758,7 +920,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 56,
@@ -772,7 +937,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 57,
@@ -786,7 +954,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 58,
@@ -800,7 +971,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 59,
@@ -814,7 +988,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 60,
@@ -828,7 +1005,10 @@
     ],
     "correctAnswer": 0,
     "page": 10,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 61,
@@ -842,7 +1022,10 @@
     ],
     "correctAnswer": 3,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 62,
@@ -857,7 +1040,10 @@
     ],
     "correctAnswer": 2,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 63,
@@ -871,7 +1057,10 @@
     ],
     "correctAnswer": 0,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 64,
@@ -884,7 +1073,10 @@
     ],
     "correctAnswer": 2,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 65,
@@ -897,7 +1089,10 @@
     ],
     "correctAnswer": 2,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 66,
@@ -911,7 +1106,10 @@
     ],
     "correctAnswer": 2,
     "page": 11,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 67,
@@ -925,7 +1123,10 @@
     ],
     "correctAnswer": 2,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 68,
@@ -939,7 +1140,10 @@
     ],
     "correctAnswer": 3,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 69,
@@ -953,7 +1157,10 @@
     ],
     "correctAnswer": 2,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 70,
@@ -967,7 +1174,10 @@
     ],
     "correctAnswer": 0,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 71,
@@ -981,7 +1191,10 @@
     ],
     "correctAnswer": 1,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 72,
@@ -995,7 +1208,10 @@
     ],
     "correctAnswer": 0,
     "page": 12,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 73,
@@ -1009,7 +1225,10 @@
     ],
     "correctAnswer": 0,
     "page": 13,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 74,
@@ -1023,7 +1242,10 @@
     ],
     "correctAnswer": 0,
     "page": 13,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 75,
@@ -1037,7 +1259,10 @@
     ],
     "correctAnswer": 0,
     "page": 13,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 76,
@@ -1051,7 +1276,10 @@
     ],
     "correctAnswer": 0,
     "page": 13,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 77,
@@ -1065,7 +1293,10 @@
     ],
     "correctAnswer": 0,
     "page": 13,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 78,
@@ -1078,7 +1309,10 @@
     ],
     "correctAnswer": 2,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 79,
@@ -1092,7 +1326,10 @@
     ],
     "correctAnswer": 2,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 80,
@@ -1106,7 +1343,10 @@
     ],
     "correctAnswer": 0,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 81,
@@ -1120,7 +1360,10 @@
     ],
     "correctAnswer": 0,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 82,
@@ -1134,7 +1377,10 @@
     ],
     "correctAnswer": 0,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 83,
@@ -1147,7 +1393,10 @@
     ],
     "correctAnswer": 1,
     "page": 14,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 84,
@@ -1160,7 +1409,10 @@
     ],
     "correctAnswer": 2,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 85,
@@ -1174,7 +1426,10 @@
     ],
     "correctAnswer": 3,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 86,
@@ -1188,7 +1443,10 @@
     ],
     "correctAnswer": 0,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 87,
@@ -1202,7 +1460,10 @@
     ],
     "correctAnswer": 2,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 88,
@@ -1215,7 +1476,10 @@
     ],
     "correctAnswer": 0,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 89,
@@ -1229,7 +1493,10 @@
     ],
     "correctAnswer": 0,
     "page": 15,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 90,
@@ -1243,7 +1510,10 @@
     ],
     "correctAnswer": 3,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 91,
@@ -1257,7 +1527,10 @@
     ],
     "correctAnswer": 1,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 92,
@@ -1271,7 +1544,10 @@
     ],
     "correctAnswer": 0,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 93,
@@ -1285,7 +1561,10 @@
     ],
     "correctAnswer": 0,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 94,
@@ -1299,7 +1578,10 @@
     ],
     "correctAnswer": 0,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 95,
@@ -1313,7 +1595,10 @@
     ],
     "correctAnswer": 2,
     "page": 16,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 96,
@@ -1327,7 +1612,10 @@
     ],
     "correctAnswer": 2,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 97,
@@ -1341,7 +1629,10 @@
     ],
     "correctAnswer": 0,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 98,
@@ -1355,7 +1646,10 @@
     ],
     "correctAnswer": 3,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 99,
@@ -1369,7 +1663,10 @@
     ],
     "correctAnswer": 0,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 100,
@@ -1383,7 +1680,10 @@
     ],
     "correctAnswer": 2,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 101,
@@ -1397,7 +1697,10 @@
     ],
     "correctAnswer": 0,
     "page": 17,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 102,
@@ -1411,7 +1714,10 @@
     ],
     "correctAnswer": 1,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 103,
@@ -1425,7 +1731,10 @@
     ],
     "correctAnswer": 3,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 104,
@@ -1439,7 +1748,10 @@
     ],
     "correctAnswer": 0,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 105,
@@ -1453,7 +1765,10 @@
     ],
     "correctAnswer": 1,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 106,
@@ -1466,7 +1781,10 @@
     ],
     "correctAnswer": 0,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 107,
@@ -1479,7 +1797,10 @@
     ],
     "correctAnswer": 1,
     "page": 18,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 108,
@@ -1492,7 +1813,10 @@
     ],
     "correctAnswer": 2,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 109,
@@ -1506,7 +1830,10 @@
     ],
     "correctAnswer": 0,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 110,
@@ -1520,7 +1847,10 @@
     ],
     "correctAnswer": 0,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 111,
@@ -1534,7 +1864,10 @@
     ],
     "correctAnswer": 2,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 112,
@@ -1548,7 +1881,10 @@
     ],
     "correctAnswer": 0,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 113,
@@ -1562,7 +1898,10 @@
     ],
     "correctAnswer": 0,
     "page": 19,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 114,
@@ -1575,7 +1914,10 @@
     ],
     "correctAnswer": 2,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 115,
@@ -1589,7 +1931,10 @@
     ],
     "correctAnswer": 1,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 116,
@@ -1602,7 +1947,10 @@
     ],
     "correctAnswer": 2,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 117,
@@ -1616,7 +1964,10 @@
     ],
     "correctAnswer": 1,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 118,
@@ -1630,7 +1981,10 @@
     ],
     "correctAnswer": 2,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 119,
@@ -1644,7 +1998,10 @@
     ],
     "correctAnswer": 0,
     "page": 20,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 120,
@@ -1658,7 +2015,10 @@
     ],
     "correctAnswer": 3,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 121,
@@ -1672,7 +2032,10 @@
     ],
     "correctAnswer": 1,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 122,
@@ -1685,7 +2048,10 @@
     ],
     "correctAnswer": 0,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 123,
@@ -1699,7 +2065,10 @@
     ],
     "correctAnswer": 2,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 124,
@@ -1712,7 +2081,10 @@
     ],
     "correctAnswer": 0,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 125,
@@ -1725,7 +2097,10 @@
     ],
     "correctAnswer": 0,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 126,
@@ -1738,7 +2113,10 @@
     ],
     "correctAnswer": 0,
     "page": 21,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 127,
@@ -1752,7 +2130,10 @@
     ],
     "correctAnswer": 0,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 128,
@@ -1766,7 +2147,10 @@
     ],
     "correctAnswer": 1,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 129,
@@ -1779,7 +2163,10 @@
     ],
     "correctAnswer": 2,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 130,
@@ -1792,7 +2179,10 @@
     ],
     "correctAnswer": 0,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 131,
@@ -1805,7 +2195,10 @@
     ],
     "correctAnswer": 2,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 132,
@@ -1819,7 +2212,10 @@
     ],
     "correctAnswer": 1,
     "page": 22,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 133,
@@ -1833,7 +2229,10 @@
     ],
     "correctAnswer": 0,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 134,
@@ -1847,7 +2246,10 @@
     ],
     "correctAnswer": 3,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 135,
@@ -1861,7 +2263,10 @@
     ],
     "correctAnswer": 1,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 136,
@@ -1874,7 +2279,10 @@
     ],
     "correctAnswer": 1,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 137,
@@ -1888,7 +2296,10 @@
     ],
     "correctAnswer": 2,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 138,
@@ -1902,7 +2313,10 @@
     ],
     "correctAnswer": 0,
     "page": 23,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 139,
@@ -1916,7 +2330,10 @@
     ],
     "correctAnswer": 3,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 140,
@@ -1929,7 +2346,10 @@
     ],
     "correctAnswer": 0,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 141,
@@ -1943,7 +2363,10 @@
     ],
     "correctAnswer": 0,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 142,
@@ -1956,7 +2379,10 @@
     ],
     "correctAnswer": 0,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 143,
@@ -1969,7 +2395,10 @@
     ],
     "correctAnswer": 2,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 144,
@@ -1982,7 +2411,10 @@
     ],
     "correctAnswer": 1,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 145,
@@ -1996,7 +2428,10 @@
     ],
     "correctAnswer": 3,
     "page": 24,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 146,
@@ -2010,7 +2445,10 @@
     ],
     "correctAnswer": 3,
     "page": 25,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 147,
@@ -2023,7 +2461,10 @@
     ],
     "correctAnswer": 2,
     "page": 25,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 148,
@@ -2036,7 +2477,10 @@
     ],
     "correctAnswer": 0,
     "page": 25,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 149,
@@ -2049,7 +2493,10 @@
     ],
     "correctAnswer": 2,
     "page": 25,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 150,
@@ -2063,7 +2510,10 @@
     ],
     "correctAnswer": 0,
     "page": 25,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 151,
@@ -2077,7 +2527,10 @@
     ],
     "correctAnswer": 2,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 152,
@@ -2091,7 +2544,10 @@
     ],
     "correctAnswer": 0,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 153,
@@ -2104,7 +2560,10 @@
     ],
     "correctAnswer": 0,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 154,
@@ -2117,7 +2576,10 @@
     ],
     "correctAnswer": 0,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 155,
@@ -2131,7 +2593,10 @@
     ],
     "correctAnswer": 0,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 156,
@@ -2145,7 +2610,10 @@
     ],
     "correctAnswer": 0,
     "page": 26,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 157,
@@ -2158,7 +2626,10 @@
     ],
     "correctAnswer": 1,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 158,
@@ -2172,7 +2643,10 @@
     ],
     "correctAnswer": 2,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 159,
@@ -2186,7 +2660,10 @@
     ],
     "correctAnswer": 3,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 160,
@@ -2200,7 +2677,10 @@
     ],
     "correctAnswer": 0,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 161,
@@ -2214,7 +2694,10 @@
     ],
     "correctAnswer": 0,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 162,
@@ -2228,7 +2711,10 @@
     ],
     "correctAnswer": 2,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 163,
@@ -2242,7 +2728,10 @@
     ],
     "correctAnswer": 0,
     "page": 27,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 164,
@@ -2255,7 +2744,10 @@
     ],
     "correctAnswer": 0,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 165,
@@ -2268,7 +2760,10 @@
     ],
     "correctAnswer": 1,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 166,
@@ -2282,7 +2777,10 @@
     ],
     "correctAnswer": 2,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 167,
@@ -2296,7 +2794,10 @@
     ],
     "correctAnswer": 1,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 168,
@@ -2310,7 +2811,10 @@
     ],
     "correctAnswer": 3,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 169,
@@ -2324,7 +2828,10 @@
     ],
     "correctAnswer": 2,
     "page": 28,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 170,
@@ -2337,7 +2844,10 @@
     ],
     "correctAnswer": 1,
     "page": 29,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 171,
@@ -2350,7 +2860,10 @@
     ],
     "correctAnswer": 0,
     "page": 29,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 172,
@@ -2364,7 +2877,10 @@
     ],
     "correctAnswer": 3,
     "page": 29,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 173,
@@ -2378,7 +2894,10 @@
     ],
     "correctAnswer": 3,
     "page": 29,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 174,
@@ -2392,7 +2911,10 @@
     ],
     "correctAnswer": 2,
     "page": 29,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 175,
@@ -2406,7 +2928,10 @@
     ],
     "correctAnswer": 1,
     "page": 30,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 176,
@@ -2419,7 +2944,10 @@
     ],
     "correctAnswer": 2,
     "page": 30,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 177,
@@ -2433,7 +2961,10 @@
     ],
     "correctAnswer": 2,
     "page": 30,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 178,
@@ -2447,7 +2978,10 @@
     ],
     "correctAnswer": 0,
     "page": 30,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 179,
@@ -2461,7 +2995,10 @@
     ],
     "correctAnswer": 1,
     "page": 30,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 180,
@@ -2475,7 +3012,10 @@
     ],
     "correctAnswer": 1,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 181,
@@ -2488,7 +3028,10 @@
     ],
     "correctAnswer": 1,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 182,
@@ -2502,7 +3045,10 @@
     ],
     "correctAnswer": 3,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 183,
@@ -2516,7 +3062,10 @@
     ],
     "correctAnswer": 0,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 184,
@@ -2530,7 +3079,10 @@
     ],
     "correctAnswer": 1,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 185,
@@ -2543,7 +3095,10 @@
     ],
     "correctAnswer": 1,
     "page": 31,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 186,
@@ -2557,7 +3112,10 @@
     ],
     "correctAnswer": 3,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 187,
@@ -2571,7 +3129,10 @@
     ],
     "correctAnswer": 2,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 188,
@@ -2585,7 +3146,10 @@
     ],
     "correctAnswer": 2,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 189,
@@ -2599,7 +3163,10 @@
     ],
     "correctAnswer": 2,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 190,
@@ -2613,7 +3180,10 @@
     ],
     "correctAnswer": 1,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 191,
@@ -2626,7 +3196,10 @@
     ],
     "correctAnswer": 0,
     "page": 32,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 192,
@@ -2640,7 +3213,10 @@
     ],
     "correctAnswer": 1,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 193,
@@ -2654,7 +3230,10 @@
     ],
     "correctAnswer": 1,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 194,
@@ -2667,7 +3246,10 @@
     ],
     "correctAnswer": 0,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 195,
@@ -2681,7 +3263,10 @@
     ],
     "correctAnswer": 0,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 196,
@@ -2694,7 +3279,10 @@
     ],
     "correctAnswer": 2,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 197,
@@ -2708,7 +3296,10 @@
     ],
     "correctAnswer": 1,
     "page": 33,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 198,
@@ -2722,7 +3313,10 @@
     ],
     "correctAnswer": 1,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 199,
@@ -2736,7 +3330,10 @@
     ],
     "correctAnswer": 0,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 200,
@@ -2749,7 +3346,10 @@
     ],
     "correctAnswer": 1,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 201,
@@ -2762,7 +3362,10 @@
     ],
     "correctAnswer": 0,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 202,
@@ -2775,7 +3378,10 @@
     ],
     "correctAnswer": 1,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 203,
@@ -2788,7 +3394,10 @@
     ],
     "correctAnswer": 0,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 204,
@@ -2802,7 +3411,10 @@
     ],
     "correctAnswer": 0,
     "page": 34,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 205,
@@ -2816,7 +3428,10 @@
     ],
     "correctAnswer": 3,
     "page": 35,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 206,
@@ -2829,7 +3444,10 @@
     ],
     "correctAnswer": 1,
     "page": 35,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 207,
@@ -2842,7 +3460,10 @@
     ],
     "correctAnswer": 2,
     "page": 35,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 208,
@@ -2856,7 +3477,10 @@
     ],
     "correctAnswer": 3,
     "page": 35,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 209,
@@ -2870,7 +3494,10 @@
     ],
     "correctAnswer": 0,
     "page": 35,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 210,
@@ -2883,7 +3510,10 @@
     ],
     "correctAnswer": 0,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 211,
@@ -2897,7 +3527,10 @@
     ],
     "correctAnswer": 0,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 212,
@@ -2910,7 +3543,10 @@
     ],
     "correctAnswer": 1,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 213,
@@ -2924,7 +3560,10 @@
     ],
     "correctAnswer": 3,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 214,
@@ -2938,7 +3577,10 @@
     ],
     "correctAnswer": 0,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 215,
@@ -2951,7 +3593,10 @@
     ],
     "correctAnswer": 1,
     "page": 36,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 216,
@@ -2965,7 +3610,10 @@
     ],
     "correctAnswer": 0,
     "page": 37,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 217,
@@ -2979,7 +3627,10 @@
     ],
     "correctAnswer": 3,
     "page": 37,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 218,
@@ -2993,7 +3644,10 @@
     ],
     "correctAnswer": 0,
     "page": 37,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 219,
@@ -3007,7 +3661,10 @@
     ],
     "correctAnswer": 1,
     "page": 37,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 220,
@@ -3021,7 +3678,10 @@
     ],
     "correctAnswer": 2,
     "page": 37,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 221,
@@ -3035,7 +3695,10 @@
     ],
     "correctAnswer": 3,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 222,
@@ -3048,7 +3711,10 @@
     ],
     "correctAnswer": 0,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 223,
@@ -3061,7 +3727,10 @@
     ],
     "correctAnswer": 1,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 224,
@@ -3075,7 +3744,10 @@
     ],
     "correctAnswer": 3,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 225,
@@ -3089,7 +3761,10 @@
     ],
     "correctAnswer": 0,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 226,
@@ -3103,7 +3778,10 @@
     ],
     "correctAnswer": 0,
     "page": 38,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 227,
@@ -3117,7 +3795,10 @@
     ],
     "correctAnswer": 0,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 228,
@@ -3131,7 +3812,10 @@
     ],
     "correctAnswer": 1,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 229,
@@ -3145,7 +3829,10 @@
     ],
     "correctAnswer": 2,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 230,
@@ -3159,7 +3846,10 @@
     ],
     "correctAnswer": 1,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 231,
@@ -3172,7 +3862,10 @@
     ],
     "correctAnswer": 1,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 232,
@@ -3185,7 +3878,10 @@
     ],
     "correctAnswer": 0,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 233,
@@ -3198,7 +3894,10 @@
     ],
     "correctAnswer": 0,
     "page": 39,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 234,
@@ -3212,7 +3911,10 @@
     ],
     "correctAnswer": 3,
     "page": 40,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 235,
@@ -3226,7 +3928,10 @@
     ],
     "correctAnswer": 1,
     "page": 40,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 236,
@@ -3240,7 +3945,10 @@
     ],
     "correctAnswer": 0,
     "page": 40,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 237,
@@ -3254,7 +3962,10 @@
     ],
     "correctAnswer": 3,
     "page": 40,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 238,
@@ -3267,7 +3978,10 @@
     ],
     "correctAnswer": 0,
     "page": 40,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 239,
@@ -3280,7 +3994,10 @@
     ],
     "correctAnswer": 2,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 240,
@@ -3294,7 +4011,10 @@
     ],
     "correctAnswer": 1,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 241,
@@ -3308,7 +4028,10 @@
     ],
     "correctAnswer": 0,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 242,
@@ -3322,7 +4045,10 @@
     ],
     "correctAnswer": 0,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 243,
@@ -3336,7 +4062,10 @@
     ],
     "correctAnswer": 1,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 244,
@@ -3350,7 +4079,10 @@
     ],
     "correctAnswer": 2,
     "page": 41,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 245,
@@ -3364,7 +4096,10 @@
     ],
     "correctAnswer": 3,
     "page": 42,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 246,
@@ -3377,7 +4112,10 @@
     ],
     "correctAnswer": 0,
     "page": 42,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 247,
@@ -3391,7 +4129,10 @@
     ],
     "correctAnswer": 1,
     "page": 42,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 248,
@@ -3404,7 +4145,10 @@
     ],
     "correctAnswer": 2,
     "page": 42,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 249,
@@ -3417,7 +4161,10 @@
     ],
     "correctAnswer": 1,
     "page": 42,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 250,
@@ -3431,7 +4178,10 @@
     ],
     "correctAnswer": 1,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 251,
@@ -3444,7 +4194,10 @@
     ],
     "correctAnswer": 0,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 252,
@@ -3458,7 +4211,10 @@
     ],
     "correctAnswer": 0,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 253,
@@ -3472,7 +4228,10 @@
     ],
     "correctAnswer": 1,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 254,
@@ -3486,7 +4245,10 @@
     ],
     "correctAnswer": 1,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 255,
@@ -3500,7 +4262,10 @@
     ],
     "correctAnswer": 2,
     "page": 43,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 256,
@@ -3514,7 +4279,10 @@
     ],
     "correctAnswer": 0,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 257,
@@ -3527,7 +4295,10 @@
     ],
     "correctAnswer": 0,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 258,
@@ -3541,7 +4312,10 @@
     ],
     "correctAnswer": 0,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 259,
@@ -3555,7 +4329,10 @@
     ],
     "correctAnswer": 0,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 260,
@@ -3569,7 +4346,10 @@
     ],
     "correctAnswer": 1,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 261,
@@ -3583,7 +4363,10 @@
     ],
     "correctAnswer": 3,
     "page": 44,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 262,
@@ -3596,7 +4379,10 @@
     ],
     "correctAnswer": 0,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 263,
@@ -3609,7 +4395,10 @@
     ],
     "correctAnswer": 0,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 264,
@@ -3622,7 +4411,10 @@
     ],
     "correctAnswer": 0,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 265,
@@ -3636,7 +4428,10 @@
     ],
     "correctAnswer": 2,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 266,
@@ -3650,7 +4445,10 @@
     ],
     "correctAnswer": 0,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 267,
@@ -3664,7 +4462,10 @@
     ],
     "correctAnswer": 2,
     "page": 45,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 268,
@@ -3677,7 +4478,10 @@
     ],
     "correctAnswer": 0,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 269,
@@ -3691,7 +4495,10 @@
     ],
     "correctAnswer": 2,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 270,
@@ -3704,7 +4511,10 @@
     ],
     "correctAnswer": 1,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 271,
@@ -3717,7 +4527,10 @@
     ],
     "correctAnswer": 0,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 272,
@@ -3730,7 +4543,10 @@
     ],
     "correctAnswer": 0,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 273,
@@ -3744,7 +4560,10 @@
     ],
     "correctAnswer": 3,
     "page": 46,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 274,
@@ -3757,7 +4576,10 @@
     ],
     "correctAnswer": 0,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 275,
@@ -3771,7 +4593,10 @@
     ],
     "correctAnswer": 2,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 276,
@@ -3785,7 +4610,10 @@
     ],
     "correctAnswer": 0,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 277,
@@ -3798,7 +4626,10 @@
     ],
     "correctAnswer": 0,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 278,
@@ -3812,7 +4643,10 @@
     ],
     "correctAnswer": 0,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 279,
@@ -3825,7 +4659,10 @@
     ],
     "correctAnswer": 0,
     "page": 47,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 280,
@@ -3838,7 +4675,10 @@
     ],
     "correctAnswer": 0,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 281,
@@ -3852,7 +4692,10 @@
     ],
     "correctAnswer": 1,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 282,
@@ -3865,7 +4708,10 @@
     ],
     "correctAnswer": 2,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 283,
@@ -3878,7 +4724,10 @@
     ],
     "correctAnswer": 2,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 284,
@@ -3892,7 +4741,10 @@
     ],
     "correctAnswer": 0,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 285,
@@ -3906,7 +4758,10 @@
     ],
     "correctAnswer": 3,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 286,
@@ -3919,7 +4774,10 @@
     ],
     "correctAnswer": 1,
     "page": 48,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 287,
@@ -3932,7 +4790,10 @@
     ],
     "correctAnswer": 0,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 288,
@@ -3945,7 +4806,10 @@
     ],
     "correctAnswer": 1,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 289,
@@ -3959,7 +4823,10 @@
     ],
     "correctAnswer": 3,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 290,
@@ -3972,7 +4839,10 @@
     ],
     "correctAnswer": 2,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 291,
@@ -3985,7 +4855,10 @@
     ],
     "correctAnswer": 0,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 292,
@@ -3998,7 +4871,10 @@
     ],
     "correctAnswer": 2,
     "page": 49,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 293,
@@ -4011,7 +4887,10 @@
     ],
     "correctAnswer": 0,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 294,
@@ -4025,7 +4904,10 @@
     ],
     "correctAnswer": 1,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 295,
@@ -4039,7 +4921,10 @@
     ],
     "correctAnswer": 0,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 296,
@@ -4052,7 +4937,10 @@
     ],
     "correctAnswer": 2,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 297,
@@ -4066,7 +4954,10 @@
     ],
     "correctAnswer": 3,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 298,
@@ -4080,7 +4971,10 @@
     ],
     "correctAnswer": 0,
     "page": 50,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 299,
@@ -4094,7 +4988,10 @@
     ],
     "correctAnswer": 3,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 300,
@@ -4108,7 +5005,10 @@
     ],
     "correctAnswer": 1,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 301,
@@ -4122,7 +5022,10 @@
     ],
     "correctAnswer": 3,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 302,
@@ -4136,7 +5039,10 @@
     ],
     "correctAnswer": 0,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 303,
@@ -4149,7 +5055,10 @@
     ],
     "correctAnswer": 0,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 304,
@@ -4163,7 +5072,10 @@
     ],
     "correctAnswer": 0,
     "page": 51,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 305,
@@ -4177,7 +5089,10 @@
     ],
     "correctAnswer": 3,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 306,
@@ -4190,7 +5105,10 @@
     ],
     "correctAnswer": 0,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 307,
@@ -4203,7 +5121,10 @@
     ],
     "correctAnswer": 0,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 308,
@@ -4217,7 +5138,10 @@
     ],
     "correctAnswer": 3,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 309,
@@ -4230,7 +5154,10 @@
     ],
     "correctAnswer": 2,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 310,
@@ -4243,7 +5170,10 @@
     ],
     "correctAnswer": 0,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 311,
@@ -4257,7 +5187,10 @@
     ],
     "correctAnswer": 1,
     "page": 52,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 312,
@@ -4271,7 +5204,10 @@
     ],
     "correctAnswer": 3,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 313,
@@ -4284,7 +5220,10 @@
     ],
     "correctAnswer": 2,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 314,
@@ -4298,7 +5237,10 @@
     ],
     "correctAnswer": 3,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 315,
@@ -4311,7 +5253,10 @@
     ],
     "correctAnswer": 0,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 316,
@@ -4325,7 +5270,10 @@
     ],
     "correctAnswer": 3,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 317,
@@ -4339,7 +5287,10 @@
     ],
     "correctAnswer": 2,
     "page": 53,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 318,
@@ -4353,7 +5304,10 @@
     ],
     "correctAnswer": 1,
     "page": 54,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 319,
@@ -4366,7 +5320,10 @@
     ],
     "correctAnswer": 0,
     "page": 54,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 320,
@@ -4380,7 +5337,10 @@
     ],
     "correctAnswer": 1,
     "page": 54,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 321,
@@ -4393,7 +5353,10 @@
     ],
     "correctAnswer": 0,
     "page": 54,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 322,
@@ -4407,7 +5370,10 @@
     ],
     "correctAnswer": 3,
     "page": 54,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 323,
@@ -4421,7 +5387,10 @@
     ],
     "correctAnswer": 2,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 324,
@@ -4434,7 +5403,10 @@
     ],
     "correctAnswer": 0,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 325,
@@ -4448,7 +5420,10 @@
     ],
     "correctAnswer": 2,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 326,
@@ -4461,7 +5436,10 @@
     ],
     "correctAnswer": 1,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 327,
@@ -4474,7 +5452,10 @@
     ],
     "correctAnswer": 0,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 328,
@@ -4488,7 +5469,10 @@
     ],
     "correctAnswer": 3,
     "page": 55,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 329,
@@ -4502,7 +5486,10 @@
     ],
     "correctAnswer": 0,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 330,
@@ -4515,7 +5502,10 @@
     ],
     "correctAnswer": 0,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 331,
@@ -4528,7 +5518,10 @@
     ],
     "correctAnswer": 2,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 332,
@@ -4541,7 +5534,10 @@
     ],
     "correctAnswer": 2,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 333,
@@ -4555,7 +5551,10 @@
     ],
     "correctAnswer": 3,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 334,
@@ -4569,7 +5568,10 @@
     ],
     "correctAnswer": 0,
     "page": 56,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 335,
@@ -4582,7 +5584,10 @@
     ],
     "correctAnswer": 0,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 336,
@@ -4595,7 +5600,10 @@
     ],
     "correctAnswer": 1,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 337,
@@ -4609,7 +5617,10 @@
     ],
     "correctAnswer": 0,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 338,
@@ -4622,7 +5633,10 @@
     ],
     "correctAnswer": 0,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 339,
@@ -4635,7 +5649,10 @@
     ],
     "correctAnswer": 0,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 340,
@@ -4649,7 +5666,10 @@
     ],
     "correctAnswer": 0,
     "page": 57,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 341,
@@ -4663,7 +5683,10 @@
     ],
     "correctAnswer": 1,
     "page": 58,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 342,
@@ -4676,7 +5699,10 @@
     ],
     "correctAnswer": 0,
     "page": 58,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 343,
@@ -4690,7 +5716,10 @@
     ],
     "correctAnswer": 3,
     "page": 58,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 344,
@@ -4704,7 +5733,10 @@
     ],
     "correctAnswer": 2,
     "page": 58,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 345,
@@ -4717,7 +5749,10 @@
     ],
     "correctAnswer": 2,
     "page": 58,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 346,
@@ -4730,7 +5765,10 @@
     ],
     "correctAnswer": 0,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 347,
@@ -4743,7 +5781,10 @@
     ],
     "correctAnswer": 1,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 348,
@@ -4756,7 +5797,10 @@
     ],
     "correctAnswer": 0,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 349,
@@ -4770,7 +5814,10 @@
     ],
     "correctAnswer": 0,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 350,
@@ -4784,7 +5831,10 @@
     ],
     "correctAnswer": 0,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 351,
@@ -4798,7 +5848,10 @@
     ],
     "correctAnswer": 0,
     "page": 59,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 352,
@@ -4811,7 +5864,10 @@
     ],
     "correctAnswer": 0,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 353,
@@ -4824,7 +5880,10 @@
     ],
     "correctAnswer": 0,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 354,
@@ -4838,7 +5897,10 @@
     ],
     "correctAnswer": 0,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 355,
@@ -4852,7 +5914,10 @@
     ],
     "correctAnswer": 2,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 356,
@@ -4865,7 +5930,10 @@
     ],
     "correctAnswer": 0,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 357,
@@ -4878,7 +5946,10 @@
     ],
     "correctAnswer": 0,
     "page": 60,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 358,
@@ -4891,7 +5962,10 @@
     ],
     "correctAnswer": 0,
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 359,
@@ -4905,7 +5979,10 @@
     ],
     "correctAnswer": 1,
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 360,
@@ -4918,7 +5995,10 @@
     ],
     "correctAnswer": 0,
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 361,
@@ -4931,7 +6011,10 @@
     ],
     "correctAnswer": 0,
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 362,
@@ -4944,7 +6027,10 @@
     ],
     "correctAnswer": 0,
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 363,
@@ -4959,7 +6045,10 @@
     "correctAnswer": 3,
     "note": "Trường hợp nếu câu hỏi chỉ có 3 đáp án (không có \"Mùa xuân của xã hội\") thì chọn \"Mùa xuân của đất nước\".",
     "page": 61,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 364,
@@ -4972,7 +6061,10 @@
     ],
     "correctAnswer": 0,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 365,
@@ -4986,7 +6078,10 @@
     ],
     "correctAnswer": 2,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 366,
@@ -5000,7 +6095,10 @@
     ],
     "correctAnswer": 0,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 367,
@@ -5013,7 +6111,10 @@
     ],
     "correctAnswer": 0,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 368,
@@ -5027,7 +6128,10 @@
     ],
     "correctAnswer": 0,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 369,
@@ -5041,7 +6145,10 @@
     ],
     "correctAnswer": 1,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 370,
@@ -5055,7 +6162,10 @@
     ],
     "correctAnswer": 0,
     "page": 62,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 371,
@@ -5068,7 +6178,10 @@
     ],
     "correctAnswer": 1,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 372,
@@ -5082,7 +6195,10 @@
     ],
     "correctAnswer": 0,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 373,
@@ -5096,7 +6212,10 @@
     ],
     "correctAnswer": 0,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 374,
@@ -5109,7 +6228,10 @@
     ],
     "correctAnswer": 0,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 375,
@@ -5122,7 +6244,10 @@
     ],
     "correctAnswer": 0,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 376,
@@ -5136,7 +6261,10 @@
     ],
     "correctAnswer": 0,
     "page": 63,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 377,
@@ -5149,7 +6277,10 @@
     ],
     "correctAnswer": 2,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 378,
@@ -5162,7 +6293,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 379,
@@ -5175,7 +6309,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 380,
@@ -5188,7 +6325,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 381,
@@ -5201,7 +6341,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 382,
@@ -5214,7 +6357,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 383,
@@ -5227,7 +6373,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 384,
@@ -5241,7 +6390,10 @@
     ],
     "correctAnswer": 0,
     "page": 64,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 385,
@@ -5255,7 +6407,10 @@
     ],
     "correctAnswer": 0,
     "page": 65,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 386,
@@ -5268,7 +6423,10 @@
     ],
     "correctAnswer": 0,
     "page": 65,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 387,
@@ -5281,7 +6439,10 @@
     ],
     "correctAnswer": 0,
     "page": 65,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 388,
@@ -5295,7 +6456,10 @@
     ],
     "correctAnswer": 2,
     "page": 65,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 389,
@@ -5309,7 +6473,10 @@
     ],
     "correctAnswer": 0,
     "page": 65,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 390,
@@ -5323,7 +6490,10 @@
     ],
     "correctAnswer": 0,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 391,
@@ -5337,7 +6507,10 @@
     ],
     "correctAnswer": 2,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 392,
@@ -5351,7 +6524,10 @@
     ],
     "correctAnswer": 1,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 393,
@@ -5364,7 +6540,10 @@
     ],
     "correctAnswer": 0,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 394,
@@ -5377,7 +6556,10 @@
     ],
     "correctAnswer": 1,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 395,
@@ -5391,7 +6573,10 @@
     ],
     "correctAnswer": 0,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 396,
@@ -5404,7 +6589,10 @@
     ],
     "correctAnswer": 1,
     "page": 66,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 397,
@@ -5418,7 +6606,10 @@
     ],
     "correctAnswer": 1,
     "page": 67,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 398,
@@ -5432,7 +6623,10 @@
     ],
     "correctAnswer": 3,
     "page": 67,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 399,
@@ -5446,7 +6640,10 @@
     ],
     "correctAnswer": 1,
     "page": 67,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 400,
@@ -5459,7 +6656,10 @@
     ],
     "correctAnswer": 0,
     "page": 67,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 401,
@@ -5473,7 +6673,10 @@
     ],
     "correctAnswer": 1,
     "page": 67,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 402,
@@ -5486,7 +6689,10 @@
     ],
     "correctAnswer": 0,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 403,
@@ -5499,7 +6705,10 @@
     ],
     "correctAnswer": 0,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 404,
@@ -5513,7 +6722,10 @@
     ],
     "correctAnswer": 3,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 405,
@@ -5527,7 +6739,10 @@
     ],
     "correctAnswer": 2,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 406,
@@ -5540,7 +6755,10 @@
     ],
     "correctAnswer": 0,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 407,
@@ -5554,7 +6772,10 @@
     ],
     "correctAnswer": 2,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 408,
@@ -5568,7 +6789,10 @@
     ],
     "correctAnswer": 0,
     "page": 68,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 409,
@@ -5581,7 +6805,10 @@
     ],
     "correctAnswer": 0,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 410,
@@ -5595,7 +6822,10 @@
     ],
     "correctAnswer": 2,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 411,
@@ -5609,7 +6839,10 @@
     ],
     "correctAnswer": 2,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 412,
@@ -5622,7 +6855,10 @@
     ],
     "correctAnswer": 0,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 413,
@@ -5636,7 +6872,10 @@
     ],
     "correctAnswer": 3,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 414,
@@ -5650,7 +6889,10 @@
     ],
     "correctAnswer": 3,
     "page": 69,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 415,
@@ -5664,7 +6906,10 @@
     ],
     "correctAnswer": 2,
     "page": 70,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 416,
@@ -5678,7 +6923,10 @@
     ],
     "correctAnswer": 1,
     "page": 70,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 417,
@@ -5692,7 +6940,10 @@
     ],
     "correctAnswer": 3,
     "page": 70,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 418,
@@ -5705,7 +6956,10 @@
     ],
     "correctAnswer": 2,
     "page": 70,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 419,
@@ -5718,7 +6972,10 @@
     ],
     "correctAnswer": 2,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 420,
@@ -5732,7 +6989,10 @@
     ],
     "correctAnswer": 1,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 421,
@@ -5746,7 +7006,10 @@
     ],
     "correctAnswer": 2,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 422,
@@ -5760,7 +7023,10 @@
     ],
     "correctAnswer": 2,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 423,
@@ -5774,7 +7040,10 @@
     ],
     "correctAnswer": 2,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 424,
@@ -5788,7 +7057,10 @@
     ],
     "correctAnswer": 1,
     "page": 71,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 425,
@@ -5802,7 +7074,10 @@
     ],
     "correctAnswer": 2,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 426,
@@ -5815,7 +7090,10 @@
     ],
     "correctAnswer": 1,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 427,
@@ -5829,7 +7107,10 @@
     ],
     "correctAnswer": 3,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 428,
@@ -5843,7 +7124,10 @@
     ],
     "correctAnswer": 0,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 429,
@@ -5857,7 +7141,10 @@
     ],
     "correctAnswer": 2,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 430,
@@ -5871,7 +7158,10 @@
     ],
     "correctAnswer": 2,
     "page": 72,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 431,
@@ -5885,7 +7175,10 @@
     ],
     "correctAnswer": 3,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 432,
@@ -5899,7 +7192,10 @@
     ],
     "correctAnswer": 3,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 433,
@@ -5913,7 +7209,10 @@
     ],
     "correctAnswer": 0,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 434,
@@ -5927,7 +7226,10 @@
     ],
     "correctAnswer": 2,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 435,
@@ -5941,7 +7243,10 @@
     ],
     "correctAnswer": 3,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 436,
@@ -5955,7 +7260,10 @@
     ],
     "correctAnswer": 2,
     "page": 73,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 437,
@@ -5969,7 +7277,10 @@
     ],
     "correctAnswer": 1,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 438,
@@ -5983,7 +7294,10 @@
     ],
     "correctAnswer": 1,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 439,
@@ -5997,7 +7311,10 @@
     ],
     "correctAnswer": 2,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 440,
@@ -6011,7 +7328,10 @@
     ],
     "correctAnswer": 0,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 441,
@@ -6025,7 +7345,10 @@
     ],
     "correctAnswer": 0,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 442,
@@ -6040,7 +7363,10 @@
     ],
     "correctAnswer": 0,
     "page": 74,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 443,
@@ -6054,7 +7380,10 @@
     ],
     "correctAnswer": 3,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 444,
@@ -6068,7 +7397,10 @@
     ],
     "correctAnswer": 0,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 445,
@@ -6083,7 +7415,10 @@
     ],
     "correctAnswer": 1,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 446,
@@ -6097,7 +7432,10 @@
     ],
     "correctAnswer": 0,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 447,
@@ -6111,7 +7449,10 @@
     ],
     "correctAnswer": 0,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 448,
@@ -6125,7 +7466,10 @@
     ],
     "correctAnswer": 0,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 449,
@@ -6139,7 +7483,10 @@
     ],
     "correctAnswer": 0,
     "page": 75,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 450,
@@ -6154,7 +7501,10 @@
     ],
     "correctAnswer": 4,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 451,
@@ -6168,7 +7518,10 @@
     ],
     "correctAnswer": 0,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 452,
@@ -6182,7 +7535,10 @@
     ],
     "correctAnswer": 0,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 453,
@@ -6196,7 +7552,10 @@
     ],
     "correctAnswer": 0,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 454,
@@ -6210,7 +7569,10 @@
     ],
     "correctAnswer": 0,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 455,
@@ -6225,7 +7587,10 @@
     ],
     "correctAnswer": 1,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 456,
@@ -6239,7 +7604,10 @@
     ],
     "correctAnswer": 0,
     "page": 76,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 457,
@@ -6254,7 +7622,10 @@
     ],
     "correctAnswer": 1,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 458,
@@ -6269,7 +7640,10 @@
     ],
     "correctAnswer": 1,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 459,
@@ -6284,7 +7658,10 @@
     ],
     "correctAnswer": 1,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 460,
@@ -6299,7 +7676,10 @@
     ],
     "correctAnswer": 0,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 461,
@@ -6314,7 +7694,10 @@
     ],
     "correctAnswer": 1,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 462,
@@ -6329,7 +7712,10 @@
     ],
     "correctAnswer": 1,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 463,
@@ -6343,7 +7729,10 @@
     ],
     "correctAnswer": 0,
     "page": 77,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 464,
@@ -6357,7 +7746,10 @@
     ],
     "correctAnswer": 0,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 465,
@@ -6371,7 +7763,10 @@
     ],
     "correctAnswer": 0,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 466,
@@ -6386,7 +7781,10 @@
     ],
     "correctAnswer": 1,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 467,
@@ -6402,7 +7800,10 @@
     ],
     "correctAnswer": 2,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 468,
@@ -6417,7 +7818,10 @@
     ],
     "correctAnswer": 1,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 469,
@@ -6431,7 +7835,10 @@
     ],
     "correctAnswer": 0,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 470,
@@ -6446,7 +7853,10 @@
     ],
     "correctAnswer": 1,
     "page": 78,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 471,
@@ -6461,7 +7871,10 @@
     ],
     "correctAnswer": 1,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 472,
@@ -6475,7 +7888,10 @@
     ],
     "correctAnswer": 0,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 473,
@@ -6489,7 +7905,10 @@
     ],
     "correctAnswer": 0,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 474,
@@ -6503,7 +7922,10 @@
     ],
     "correctAnswer": 0,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 475,
@@ -6517,7 +7939,10 @@
     ],
     "correctAnswer": 0,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 476,
@@ -6533,7 +7958,10 @@
     ],
     "correctAnswer": 1,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 477,
@@ -6548,7 +7976,10 @@
     ],
     "correctAnswer": 0,
     "page": 79,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 478,
@@ -6562,7 +7993,10 @@
     ],
     "correctAnswer": 0,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 479,
@@ -6576,7 +8010,10 @@
     ],
     "correctAnswer": 1,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 480,
@@ -6590,7 +8027,10 @@
     ],
     "correctAnswer": 2,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 481,
@@ -6604,7 +8044,10 @@
     ],
     "correctAnswer": 1,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 482,
@@ -6618,7 +8061,10 @@
     ],
     "correctAnswer": 0,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 483,
@@ -6632,7 +8078,10 @@
     ],
     "correctAnswer": 0,
     "page": 80,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 484,
@@ -6646,7 +8095,10 @@
     ],
     "correctAnswer": 0,
     "page": 81,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 485,
@@ -6660,7 +8112,10 @@
     ],
     "correctAnswer": 2,
     "page": 81,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 486,
@@ -6674,7 +8129,10 @@
     ],
     "correctAnswer": 0,
     "page": 81,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 487,
@@ -6688,7 +8146,10 @@
     ],
     "correctAnswer": 0,
     "page": 81,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 488,
@@ -6702,7 +8163,10 @@
     ],
     "correctAnswer": 1,
     "page": 81,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 489,
@@ -6716,7 +8180,10 @@
     ],
     "correctAnswer": 0,
     "page": 82,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 490,
@@ -6730,7 +8197,11 @@
     ],
     "correctAnswer": 0,
     "page": 82,
-    "bank": "original"
+    "correctAnswers": [
+      0,
+      1
+    ],
+    "isMulti": true
   },
   {
     "id": 491,
@@ -6744,7 +8215,10 @@
     ],
     "correctAnswer": 0,
     "page": 82,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 492,
@@ -6758,7 +8232,10 @@
     ],
     "correctAnswer": 0,
     "page": 82,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 493,
@@ -6772,7 +8249,10 @@
     ],
     "correctAnswer": 2,
     "page": 82,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 494,
@@ -6786,7 +8266,10 @@
     ],
     "correctAnswer": 0,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 495,
@@ -6800,7 +8283,10 @@
     ],
     "correctAnswer": 0,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 496,
@@ -6814,7 +8300,12 @@
     ],
     "correctAnswer": 0,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ],
+    "isMulti": true
   },
   {
     "id": 497,
@@ -6828,7 +8319,10 @@
     ],
     "correctAnswer": 0,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 498,
@@ -6842,7 +8336,10 @@
     ],
     "correctAnswer": 0,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 499,
@@ -6856,7 +8353,10 @@
     ],
     "correctAnswer": 1,
     "page": 83,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 500,
@@ -6870,7 +8370,10 @@
     ],
     "correctAnswer": 2,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 501,
@@ -6884,7 +8387,10 @@
     ],
     "correctAnswer": 2,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 502,
@@ -6898,7 +8404,10 @@
     ],
     "correctAnswer": 0,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 503,
@@ -6912,7 +8421,10 @@
     ],
     "correctAnswer": 0,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 504,
@@ -6926,7 +8438,10 @@
     ],
     "correctAnswer": 0,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 505,
@@ -6940,7 +8455,10 @@
     ],
     "correctAnswer": 0,
     "page": 84,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 506,
@@ -6954,7 +8472,10 @@
     ],
     "correctAnswer": 2,
     "page": 85,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 507,
@@ -6968,7 +8489,10 @@
     ],
     "correctAnswer": 2,
     "page": 85,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 508,
@@ -6982,7 +8506,10 @@
     ],
     "correctAnswer": 3,
     "page": 85,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 509,
@@ -6996,7 +8523,10 @@
     ],
     "correctAnswer": 2,
     "page": 85,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 510,
@@ -7010,7 +8540,10 @@
     ],
     "correctAnswer": 0,
     "page": 85,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 511,
@@ -7024,7 +8557,10 @@
     ],
     "correctAnswer": 0,
     "page": 86,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 512,
@@ -7038,7 +8574,10 @@
     ],
     "correctAnswer": 3,
     "page": 86,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 513,
@@ -7052,7 +8591,10 @@
     ],
     "correctAnswer": 0,
     "page": 86,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 514,
@@ -7066,7 +8608,10 @@
     ],
     "correctAnswer": 0,
     "page": 86,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 515,
@@ -7080,7 +8625,10 @@
     ],
     "correctAnswer": 0,
     "page": 87,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 516,
@@ -7094,7 +8642,10 @@
     ],
     "correctAnswer": 0,
     "page": 87,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 517,
@@ -7108,7 +8659,10 @@
     ],
     "correctAnswer": 0,
     "page": 87,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 518,
@@ -7122,7 +8676,10 @@
     ],
     "correctAnswer": 0,
     "page": 87,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 519,
@@ -7136,7 +8693,10 @@
     ],
     "correctAnswer": 0,
     "page": 87,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 520,
@@ -7150,7 +8710,10 @@
     ],
     "correctAnswer": 0,
     "page": 88,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 521,
@@ -7164,7 +8727,10 @@
     ],
     "correctAnswer": 0,
     "page": 88,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 522,
@@ -7178,7 +8744,10 @@
     ],
     "correctAnswer": 0,
     "page": 88,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 523,
@@ -7192,7 +8761,10 @@
     ],
     "correctAnswer": 0,
     "page": 89,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 524,
@@ -7206,7 +8778,10 @@
     ],
     "correctAnswer": 0,
     "page": 89,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 525,
@@ -7220,7 +8795,10 @@
     ],
     "correctAnswer": 0,
     "page": 89,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 526,
@@ -7234,7 +8812,10 @@
     ],
     "correctAnswer": 0,
     "page": 89,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 527,
@@ -7247,7 +8828,10 @@
     ],
     "correctAnswer": 0,
     "page": 90,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 528,
@@ -7261,7 +8845,10 @@
     ],
     "correctAnswer": 0,
     "page": 90,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 529,
@@ -7275,7 +8862,10 @@
     ],
     "correctAnswer": 0,
     "page": 90,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 530,
@@ -7289,7 +8879,10 @@
     ],
     "correctAnswer": 0,
     "page": 91,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 531,
@@ -7303,7 +8896,10 @@
     ],
     "correctAnswer": 0,
     "page": 91,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 532,
@@ -7317,7 +8913,10 @@
     ],
     "correctAnswer": 0,
     "page": 91,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 533,
@@ -7331,7 +8930,10 @@
     ],
     "correctAnswer": 0,
     "page": 91,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 534,
@@ -7345,7 +8947,10 @@
     ],
     "correctAnswer": 0,
     "page": 92,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 535,
@@ -7359,7 +8964,10 @@
     ],
     "correctAnswer": 0,
     "page": 92,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 536,
@@ -7373,7 +8981,10 @@
     ],
     "correctAnswer": 0,
     "page": 92,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 537,
@@ -7387,7 +8998,10 @@
     ],
     "correctAnswer": 0,
     "page": 93,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 538,
@@ -7401,7 +9015,10 @@
     ],
     "correctAnswer": 0,
     "page": 93,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 539,
@@ -7415,7 +9032,10 @@
     ],
     "correctAnswer": 0,
     "page": 93,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 540,
@@ -7429,7 +9049,10 @@
     ],
     "correctAnswer": 0,
     "page": 93,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 541,
@@ -7443,7 +9066,10 @@
     ],
     "correctAnswer": 0,
     "page": 94,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 542,
@@ -7457,7 +9083,10 @@
     ],
     "correctAnswer": 0,
     "page": 94,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 543,
@@ -7471,7 +9100,10 @@
     ],
     "correctAnswer": 0,
     "page": 94,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 544,
@@ -7485,7 +9117,10 @@
     ],
     "correctAnswer": 0,
     "page": 94,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 545,
@@ -7499,7 +9134,10 @@
     ],
     "correctAnswer": 0,
     "page": 95,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 546,
@@ -7513,7 +9151,10 @@
     ],
     "correctAnswer": 0,
     "page": 95,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 547,
@@ -7527,7 +9168,10 @@
     ],
     "correctAnswer": 0,
     "page": 96,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 548,
@@ -7541,7 +9185,10 @@
     ],
     "correctAnswer": 0,
     "page": 96,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 549,
@@ -7555,7 +9202,10 @@
     ],
     "correctAnswer": 0,
     "page": 96,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 550,
@@ -7569,7 +9219,10 @@
     ],
     "correctAnswer": 0,
     "page": 96,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 551,
@@ -7582,7 +9235,10 @@
     ],
     "correctAnswer": 2,
     "page": 97,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 552,
@@ -7596,7 +9252,10 @@
     ],
     "correctAnswer": 0,
     "page": 97,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 553,
@@ -7610,7 +9269,10 @@
     ],
     "correctAnswer": 0,
     "page": 97,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 554,
@@ -7624,7 +9286,10 @@
     ],
     "correctAnswer": 0,
     "page": 98,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 555,
@@ -7638,7 +9303,10 @@
     ],
     "correctAnswer": 0,
     "page": 98,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 556,
@@ -7652,7 +9320,10 @@
     ],
     "correctAnswer": 0,
     "page": 98,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 557,
@@ -7666,7 +9337,10 @@
     ],
     "correctAnswer": 0,
     "page": 98,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 558,
@@ -7680,7 +9354,10 @@
     ],
     "correctAnswer": 0,
     "page": 99,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 559,
@@ -7694,7 +9371,10 @@
     ],
     "correctAnswer": 2,
     "page": 99,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 560,
@@ -7708,7 +9388,10 @@
     ],
     "correctAnswer": 2,
     "page": 99,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 561,
@@ -7722,7 +9405,10 @@
     ],
     "correctAnswer": 2,
     "page": 99,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 562,
@@ -7736,7 +9422,10 @@
     ],
     "correctAnswer": 0,
     "page": 100,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 563,
@@ -7750,7 +9439,10 @@
     ],
     "correctAnswer": 1,
     "page": 100,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 564,
@@ -7764,7 +9456,10 @@
     ],
     "correctAnswer": 0,
     "page": 100,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 565,
@@ -7778,7 +9473,10 @@
     ],
     "correctAnswer": 3,
     "page": 101,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 566,
@@ -7792,7 +9490,10 @@
     ],
     "correctAnswer": 3,
     "page": 101,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 567,
@@ -7806,7 +9507,10 @@
     ],
     "correctAnswer": 0,
     "page": 101,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 568,
@@ -7820,7 +9524,10 @@
     ],
     "correctAnswer": 0,
     "page": 101,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 569,
@@ -7834,7 +9541,10 @@
     ],
     "correctAnswer": 0,
     "page": 102,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 570,
@@ -7848,7 +9558,10 @@
     ],
     "correctAnswer": 0,
     "page": 102,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 571,
@@ -7862,7 +9575,10 @@
     ],
     "correctAnswer": 0,
     "page": 102,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 572,
@@ -7876,7 +9592,10 @@
     ],
     "correctAnswer": 0,
     "page": 103,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 573,
@@ -7890,7 +9609,10 @@
     ],
     "correctAnswer": 0,
     "page": 103,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 574,
@@ -7904,7 +9626,10 @@
     ],
     "correctAnswer": 0,
     "page": 103,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 575,
@@ -7918,7 +9643,10 @@
     ],
     "correctAnswer": 0,
     "page": 103,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 576,
@@ -7932,7 +9660,10 @@
     ],
     "correctAnswer": 0,
     "page": 104,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 577,
@@ -7946,7 +9677,10 @@
     ],
     "correctAnswer": 0,
     "page": 104,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 578,
@@ -7960,7 +9694,10 @@
     ],
     "correctAnswer": 3,
     "page": 104,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 579,
@@ -7974,7 +9711,10 @@
     ],
     "correctAnswer": 0,
     "page": 104,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 580,
@@ -7988,7 +9728,10 @@
     ],
     "correctAnswer": 0,
     "page": 105,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 581,
@@ -8002,7 +9745,10 @@
     ],
     "correctAnswer": 3,
     "page": 105,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 582,
@@ -8016,7 +9762,10 @@
     ],
     "correctAnswer": 1,
     "page": 105,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 583,
@@ -8030,7 +9779,10 @@
     ],
     "correctAnswer": 1,
     "page": 106,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 584,
@@ -8044,7 +9796,10 @@
     ],
     "correctAnswer": 0,
     "page": 106,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 585,
@@ -8058,7 +9813,10 @@
     ],
     "correctAnswer": 0,
     "page": 106,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 586,
@@ -8072,7 +9830,10 @@
     ],
     "correctAnswer": 0,
     "page": 106,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 587,
@@ -8086,7 +9847,10 @@
     ],
     "correctAnswer": 0,
     "page": 107,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 588,
@@ -8100,7 +9864,10 @@
     ],
     "correctAnswer": 0,
     "page": 107,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 589,
@@ -8114,7 +9881,10 @@
     ],
     "correctAnswer": 0,
     "page": 107,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 590,
@@ -8128,7 +9898,10 @@
     ],
     "correctAnswer": 0,
     "page": 107,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 591,
@@ -8142,7 +9915,10 @@
     ],
     "correctAnswer": 0,
     "page": 108,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 592,
@@ -8156,7 +9932,10 @@
     ],
     "correctAnswer": 2,
     "page": 108,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 593,
@@ -8170,7 +9949,10 @@
     ],
     "correctAnswer": 3,
     "page": 109,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 594,
@@ -8184,7 +9966,10 @@
     ],
     "correctAnswer": 1,
     "page": 109,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 595,
@@ -8198,7 +9983,10 @@
     ],
     "correctAnswer": 2,
     "page": 109,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 596,
@@ -8212,7 +10000,10 @@
     ],
     "correctAnswer": 2,
     "page": 110,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 597,
@@ -8226,7 +10017,10 @@
     ],
     "correctAnswer": 0,
     "page": 110,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 598,
@@ -8240,7 +10034,10 @@
     ],
     "correctAnswer": 0,
     "page": 110,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 599,
@@ -8254,7 +10051,10 @@
     ],
     "correctAnswer": 0,
     "page": 110,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 600,
@@ -8268,7 +10068,10 @@
     ],
     "correctAnswer": 3,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 601,
@@ -8282,7 +10085,10 @@
     ],
     "correctAnswer": 0,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 602,
@@ -8296,7 +10102,10 @@
     ],
     "correctAnswer": 1,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 603,
@@ -8310,7 +10119,10 @@
     ],
     "correctAnswer": 1,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 604,
@@ -8324,7 +10136,10 @@
     ],
     "correctAnswer": 2,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 605,
@@ -8338,7 +10153,10 @@
     ],
     "correctAnswer": 2,
     "page": 111,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 606,
@@ -8352,7 +10170,10 @@
     ],
     "correctAnswer": 1,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 607,
@@ -8366,7 +10187,10 @@
     ],
     "correctAnswer": 1,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 608,
@@ -8380,7 +10204,10 @@
     ],
     "correctAnswer": 2,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 609,
@@ -8394,7 +10221,10 @@
     ],
     "correctAnswer": 0,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 610,
@@ -8408,7 +10238,10 @@
     ],
     "correctAnswer": 2,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 611,
@@ -8422,7 +10255,10 @@
     ],
     "correctAnswer": 0,
     "page": 112,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 612,
@@ -8436,7 +10272,10 @@
     ],
     "correctAnswer": 2,
     "page": 113,
-    "bank": "original"
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 613,
@@ -8450,7 +10289,10 @@
     ],
     "correctAnswer": 0,
     "page": 113,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 614,
@@ -8464,7 +10306,10 @@
     ],
     "correctAnswer": 0,
     "page": 113,
-    "bank": "original"
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 615,
@@ -8479,7 +10324,11 @@
     "correctAnswer": 0,
     "page": 1,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 616,
@@ -8497,7 +10346,11 @@
     "correctAnswer": 4,
     "page": 2,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 617,
@@ -8512,7 +10365,11 @@
     "correctAnswer": 0,
     "page": 2,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 618,
@@ -8526,7 +10383,11 @@
     "correctAnswer": 0,
     "page": 3,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 619,
@@ -8541,7 +10402,11 @@
     "correctAnswer": 1,
     "page": 3,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 620,
@@ -8560,7 +10425,11 @@
     "correctAnswer": 3,
     "page": 4,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 621,
@@ -8578,7 +10447,11 @@
     "correctAnswer": 4,
     "page": 4,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 622,
@@ -8593,7 +10466,11 @@
     "correctAnswer": 1,
     "page": 5,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 623,
@@ -8608,7 +10485,11 @@
     "correctAnswer": 2,
     "page": 5,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 624,
@@ -8623,7 +10504,11 @@
     "correctAnswer": 3,
     "page": 6,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 625,
@@ -8637,7 +10522,11 @@
     "correctAnswer": 0,
     "page": 7,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 626,
@@ -8652,7 +10541,11 @@
     "correctAnswer": 2,
     "page": 7,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 627,
@@ -8667,7 +10560,11 @@
     "correctAnswer": 3,
     "page": 7,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 628,
@@ -8686,7 +10583,11 @@
     "correctAnswer": 2,
     "page": 8,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 629,
@@ -8701,7 +10602,11 @@
     "correctAnswer": 1,
     "page": 8,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 630,
@@ -8716,7 +10621,11 @@
     "correctAnswer": 2,
     "page": 8,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 631,
@@ -8735,7 +10644,11 @@
     "correctAnswer": 5,
     "page": 9,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 632,
@@ -8750,7 +10663,11 @@
     "correctAnswer": 1,
     "page": 10,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 633,
@@ -8765,7 +10682,11 @@
     "correctAnswer": 2,
     "page": 10,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 634,
@@ -8780,7 +10701,11 @@
     "correctAnswer": 2,
     "page": 11,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 635,
@@ -8795,7 +10720,11 @@
     "correctAnswer": 2,
     "page": 12,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 636,
@@ -8810,7 +10739,11 @@
     "correctAnswer": 0,
     "page": 13,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 637,
@@ -8825,7 +10758,11 @@
     "correctAnswer": 2,
     "page": 13,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 638,
@@ -8844,7 +10781,11 @@
     "correctAnswer": 5,
     "page": 14,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 639,
@@ -8859,7 +10800,11 @@
     "correctAnswer": 3,
     "page": 14,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 640,
@@ -8877,7 +10822,11 @@
     "correctAnswer": 5,
     "page": 15,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 641,
@@ -8895,7 +10844,11 @@
     "correctAnswer": 4,
     "page": 15,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 642,
@@ -8910,7 +10863,11 @@
     "correctAnswer": 1,
     "page": 16,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 643,
@@ -8924,7 +10881,11 @@
     "correctAnswer": 0,
     "page": 16,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 644,
@@ -8938,7 +10899,11 @@
     "correctAnswer": 2,
     "page": 16,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 645,
@@ -8952,7 +10917,11 @@
     "correctAnswer": 0,
     "page": 17,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 646,
@@ -8966,7 +10935,11 @@
     "correctAnswer": 0,
     "page": 17,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 647,
@@ -8981,7 +10954,11 @@
     "correctAnswer": 2,
     "page": 17,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 648,
@@ -8996,7 +10973,11 @@
     "correctAnswer": 1,
     "page": 17,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 649,
@@ -9011,7 +10992,11 @@
     "correctAnswer": 0,
     "page": 18,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 650,
@@ -9025,7 +11010,11 @@
     "correctAnswer": 0,
     "page": 18,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 651,
@@ -9040,7 +11029,11 @@
     "correctAnswer": 2,
     "page": 18,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 652,
@@ -9054,7 +11047,11 @@
     "correctAnswer": 0,
     "page": 19,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 653,
@@ -9069,7 +11066,11 @@
     "correctAnswer": 0,
     "page": 19,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 654,
@@ -9084,7 +11085,11 @@
     "correctAnswer": 0,
     "page": 20,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 655,
@@ -9099,7 +11104,11 @@
     "correctAnswer": 0,
     "page": 21,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 656,
@@ -9113,7 +11122,11 @@
     "correctAnswer": 1,
     "page": 21,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 657,
@@ -9131,7 +11144,11 @@
     "correctAnswer": 3,
     "page": 22,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 658,
@@ -9146,7 +11163,11 @@
     "correctAnswer": 2,
     "page": 24,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 659,
@@ -9161,7 +11182,11 @@
     "correctAnswer": 0,
     "page": 24,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 660,
@@ -9176,7 +11201,11 @@
     "correctAnswer": 0,
     "page": 25,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 661,
@@ -9191,7 +11220,11 @@
     "correctAnswer": 1,
     "page": 25,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 662,
@@ -9206,7 +11239,11 @@
     "correctAnswer": 0,
     "page": 25,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 663,
@@ -9224,7 +11261,11 @@
     "correctAnswer": 1,
     "page": 26,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 664,
@@ -9239,7 +11280,11 @@
     "correctAnswer": 0,
     "page": 26,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 665,
@@ -9254,7 +11299,11 @@
     "correctAnswer": 1,
     "page": 27,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 666,
@@ -9271,7 +11320,11 @@
     "correctAnswer": 2,
     "page": 28,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 667,
@@ -9285,7 +11338,11 @@
     "correctAnswer": 0,
     "page": 28,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 668,
@@ -9300,7 +11357,11 @@
     "correctAnswer": 0,
     "page": 28,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 669,
@@ -9315,7 +11376,11 @@
     "correctAnswer": 1,
     "page": 29,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 670,
@@ -9330,7 +11395,11 @@
     "correctAnswer": 3,
     "page": 30,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 671,
@@ -9345,7 +11414,11 @@
     "correctAnswer": 0,
     "page": 31,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 672,
@@ -9359,7 +11432,11 @@
     "correctAnswer": 0,
     "page": 31,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 673,
@@ -9374,7 +11451,11 @@
     "correctAnswer": 0,
     "page": 31,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 674,
@@ -9389,7 +11470,11 @@
     "correctAnswer": 2,
     "page": 32,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 675,
@@ -9404,7 +11489,11 @@
     "correctAnswer": 2,
     "page": 33,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 676,
@@ -9419,7 +11508,11 @@
     "correctAnswer": 3,
     "page": 33,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 677,
@@ -9434,7 +11527,11 @@
     "correctAnswer": 2,
     "page": 34,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 678,
@@ -9449,7 +11546,11 @@
     "correctAnswer": 3,
     "page": 34,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 679,
@@ -9463,7 +11564,11 @@
     "correctAnswer": 0,
     "page": 34,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 680,
@@ -9477,7 +11582,11 @@
     "correctAnswer": 0,
     "page": 35,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 681,
@@ -9492,7 +11601,11 @@
     "correctAnswer": 0,
     "page": 36,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 682,
@@ -9507,7 +11620,11 @@
     "correctAnswer": 2,
     "page": 36,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 683,
@@ -9525,7 +11642,11 @@
     "correctAnswer": 5,
     "page": 37,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 684,
@@ -9544,7 +11665,11 @@
     "correctAnswer": 7,
     "page": 37,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      7
+    ],
+    "isMulti": false
   },
   {
     "id": 685,
@@ -9559,7 +11684,11 @@
     "correctAnswer": 1,
     "page": 38,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 686,
@@ -9574,7 +11703,11 @@
     "correctAnswer": 1,
     "page": 38,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 687,
@@ -9589,7 +11722,11 @@
     "correctAnswer": 0,
     "page": 39,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 688,
@@ -9604,7 +11741,11 @@
     "correctAnswer": 3,
     "page": 39,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 689,
@@ -9619,7 +11760,11 @@
     "correctAnswer": 3,
     "page": 39,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 690,
@@ -9637,7 +11782,11 @@
     "correctAnswer": 6,
     "page": 40,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      6
+    ],
+    "isMulti": false
   },
   {
     "id": 691,
@@ -9652,7 +11801,11 @@
     "correctAnswer": 3,
     "page": 40,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 692,
@@ -9671,7 +11824,11 @@
     "correctAnswer": 6,
     "page": 41,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      6
+    ],
+    "isMulti": false
   },
   {
     "id": 693,
@@ -9686,7 +11843,11 @@
     "correctAnswer": 0,
     "page": 42,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 694,
@@ -9701,7 +11862,11 @@
     "correctAnswer": 2,
     "page": 42,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 695,
@@ -9716,7 +11881,11 @@
     "correctAnswer": 0,
     "page": 42,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 696,
@@ -9731,7 +11900,11 @@
     "correctAnswer": 0,
     "page": 43,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 697,
@@ -9749,7 +11922,11 @@
     "correctAnswer": 2,
     "page": 43,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 698,
@@ -9764,7 +11941,11 @@
     "correctAnswer": 0,
     "page": 45,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 699,
@@ -9779,7 +11960,11 @@
     "correctAnswer": 1,
     "page": 45,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 700,
@@ -9793,7 +11978,11 @@
     "correctAnswer": 2,
     "page": 45,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 701,
@@ -9808,7 +11997,11 @@
     "correctAnswer": 3,
     "page": 46,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 702,
@@ -9823,7 +12016,11 @@
     "correctAnswer": 3,
     "page": 46,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 703,
@@ -9838,7 +12035,11 @@
     "correctAnswer": 0,
     "page": 47,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 704,
@@ -9853,7 +12054,11 @@
     "correctAnswer": 2,
     "page": 47,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 705,
@@ -9867,7 +12072,11 @@
     "correctAnswer": 0,
     "page": 47,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 706,
@@ -9882,7 +12091,11 @@
     "correctAnswer": 2,
     "page": 48,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 707,
@@ -9896,7 +12109,11 @@
     "correctAnswer": 2,
     "page": 49,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 708,
@@ -9910,7 +12127,11 @@
     "correctAnswer": 0,
     "page": 50,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 709,
@@ -9925,7 +12146,11 @@
     "correctAnswer": 2,
     "page": 53,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 710,
@@ -9940,7 +12165,11 @@
     "correctAnswer": 0,
     "page": 53,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 711,
@@ -9955,7 +12184,11 @@
     "correctAnswer": 0,
     "page": 54,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 712,
@@ -9970,7 +12203,11 @@
     "correctAnswer": 3,
     "page": 55,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 713,
@@ -9985,7 +12222,11 @@
     "correctAnswer": 1,
     "page": 56,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 714,
@@ -10004,7 +12245,11 @@
     "correctAnswer": 2,
     "page": 57,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 715,
@@ -10018,7 +12263,11 @@
     "correctAnswer": 0,
     "page": 57,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 716,
@@ -10032,7 +12281,11 @@
     "correctAnswer": 0,
     "page": 58,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 717,
@@ -10047,7 +12300,11 @@
     "correctAnswer": 2,
     "page": 59,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 718,
@@ -10062,7 +12319,11 @@
     "correctAnswer": 2,
     "page": 61,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 719,
@@ -10077,7 +12338,11 @@
     "correctAnswer": 2,
     "page": 61,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 720,
@@ -10092,7 +12357,11 @@
     "correctAnswer": 2,
     "page": 61,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 721,
@@ -10107,7 +12376,11 @@
     "correctAnswer": 3,
     "page": 62,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 722,
@@ -10122,7 +12395,11 @@
     "correctAnswer": 1,
     "page": 64,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 723,
@@ -10137,7 +12414,11 @@
     "correctAnswer": 2,
     "page": 65,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 724,
@@ -10152,7 +12433,11 @@
     "correctAnswer": 0,
     "page": 66,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 725,
@@ -10167,7 +12452,11 @@
     "correctAnswer": 0,
     "page": 66,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 726,
@@ -10181,7 +12470,11 @@
     "correctAnswer": 1,
     "page": 67,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 727,
@@ -10196,7 +12489,11 @@
     "correctAnswer": 0,
     "page": 67,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 728,
@@ -10211,7 +12508,11 @@
     "correctAnswer": 3,
     "page": 67,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 729,
@@ -10226,7 +12527,11 @@
     "correctAnswer": 2,
     "page": 68,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 730,
@@ -10245,7 +12550,11 @@
     "correctAnswer": 1,
     "page": 68,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 731,
@@ -10260,7 +12569,11 @@
     "correctAnswer": 1,
     "page": 68,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 732,
@@ -10274,7 +12587,11 @@
     "correctAnswer": 1,
     "page": 69,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 733,
@@ -10289,7 +12606,11 @@
     "correctAnswer": 1,
     "page": 70,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 734,
@@ -10304,7 +12625,11 @@
     "correctAnswer": 0,
     "page": 70,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 735,
@@ -10319,7 +12644,11 @@
     "correctAnswer": 2,
     "page": 70,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 736,
@@ -10334,7 +12663,11 @@
     "correctAnswer": 0,
     "page": 71,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 737,
@@ -10349,7 +12682,11 @@
     "correctAnswer": 1,
     "page": 71,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 738,
@@ -10364,7 +12701,11 @@
     "correctAnswer": 0,
     "page": 71,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 739,
@@ -10379,7 +12720,11 @@
     "correctAnswer": 2,
     "page": 72,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 740,
@@ -10394,7 +12739,11 @@
     "correctAnswer": 0,
     "page": 72,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 741,
@@ -10408,7 +12757,11 @@
     "correctAnswer": 2,
     "page": 73,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 742,
@@ -10423,7 +12776,11 @@
     "correctAnswer": 2,
     "page": 73,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 743,
@@ -10438,7 +12795,11 @@
     "correctAnswer": 1,
     "page": 73,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 744,
@@ -10452,7 +12813,11 @@
     "correctAnswer": 0,
     "page": 74,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 745,
@@ -10467,7 +12832,11 @@
     "correctAnswer": 0,
     "page": 74,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 746,
@@ -10482,7 +12851,11 @@
     "correctAnswer": 3,
     "page": 75,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 747,
@@ -10497,7 +12870,11 @@
     "correctAnswer": 1,
     "page": 75,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 748,
@@ -10512,7 +12889,11 @@
     "correctAnswer": 0,
     "page": 76,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 749,
@@ -10527,7 +12908,11 @@
     "correctAnswer": 2,
     "page": 76,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 750,
@@ -10542,7 +12927,11 @@
     "correctAnswer": 0,
     "page": 76,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 751,
@@ -10556,7 +12945,11 @@
     "correctAnswer": 0,
     "page": 77,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 752,
@@ -10570,7 +12963,11 @@
     "correctAnswer": 0,
     "page": 78,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 753,
@@ -10585,7 +12982,11 @@
     "correctAnswer": 1,
     "page": 78,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 754,
@@ -10600,7 +13001,11 @@
     "correctAnswer": 0,
     "page": 78,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 755,
@@ -10619,7 +13024,11 @@
     "correctAnswer": 7,
     "page": 79,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      7
+    ],
+    "isMulti": false
   },
   {
     "id": 756,
@@ -10634,7 +13043,11 @@
     "correctAnswer": 0,
     "page": 79,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 757,
@@ -10648,7 +13061,11 @@
     "correctAnswer": 0,
     "page": 79,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 758,
@@ -10663,7 +13080,11 @@
     "correctAnswer": 2,
     "page": 80,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 759,
@@ -10677,7 +13098,11 @@
     "correctAnswer": 0,
     "page": 80,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 760,
@@ -10692,7 +13117,11 @@
     "correctAnswer": 2,
     "page": 81,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 761,
@@ -10711,7 +13140,11 @@
     "correctAnswer": 5,
     "page": 81,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 762,
@@ -10726,7 +13159,11 @@
     "correctAnswer": 1,
     "page": 82,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 763,
@@ -10741,7 +13178,11 @@
     "correctAnswer": 0,
     "page": 82,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 764,
@@ -10760,7 +13201,11 @@
     "correctAnswer": 3,
     "page": 82,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 765,
@@ -10775,7 +13220,11 @@
     "correctAnswer": 3,
     "page": 83,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 766,
@@ -10790,7 +13239,11 @@
     "correctAnswer": 1,
     "page": 84,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 767,
@@ -10804,7 +13257,11 @@
     "correctAnswer": 0,
     "page": 84,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 768,
@@ -10819,7 +13276,11 @@
     "correctAnswer": 2,
     "page": 84,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 769,
@@ -10837,7 +13298,11 @@
     "correctAnswer": 5,
     "page": 84,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 770,
@@ -10855,7 +13320,11 @@
     "correctAnswer": 3,
     "page": 85,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 771,
@@ -10870,7 +13339,11 @@
     "correctAnswer": 2,
     "page": 87,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 772,
@@ -10884,7 +13357,11 @@
     "correctAnswer": 0,
     "page": 88,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 773,
@@ -10899,7 +13376,11 @@
     "correctAnswer": 3,
     "page": 88,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 774,
@@ -10914,7 +13395,11 @@
     "correctAnswer": 0,
     "page": 88,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 775,
@@ -10929,7 +13414,11 @@
     "correctAnswer": 2,
     "page": 88,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 776,
@@ -10944,7 +13433,11 @@
     "correctAnswer": 1,
     "page": 89,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 777,
@@ -10959,7 +13452,11 @@
     "correctAnswer": 3,
     "page": 90,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 778,
@@ -10974,7 +13471,11 @@
     "correctAnswer": 3,
     "page": 91,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 779,
@@ -10993,7 +13494,11 @@
     "correctAnswer": 7,
     "page": 92,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      7
+    ],
+    "isMulti": false
   },
   {
     "id": 780,
@@ -11008,7 +13513,11 @@
     "correctAnswer": 1,
     "page": 92,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 781,
@@ -11023,7 +13532,11 @@
     "correctAnswer": 0,
     "page": 93,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 782,
@@ -11042,7 +13555,11 @@
     "correctAnswer": 5,
     "page": 93,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 783,
@@ -11057,7 +13574,11 @@
     "correctAnswer": 3,
     "page": 94,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 784,
@@ -11072,7 +13593,11 @@
     "correctAnswer": 2,
     "page": 94,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 785,
@@ -11087,7 +13612,11 @@
     "correctAnswer": 0,
     "page": 97,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 786,
@@ -11101,7 +13630,11 @@
     "correctAnswer": 0,
     "page": 97,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 787,
@@ -11116,7 +13649,11 @@
     "correctAnswer": 3,
     "page": 98,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 788,
@@ -11131,7 +13668,11 @@
     "correctAnswer": 3,
     "page": 98,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 789,
@@ -11145,7 +13686,11 @@
     "correctAnswer": 2,
     "page": 99,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 790,
@@ -11160,7 +13705,11 @@
     "correctAnswer": 1,
     "page": 101,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 791,
@@ -11175,7 +13724,11 @@
     "correctAnswer": 0,
     "page": 104,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 792,
@@ -11190,7 +13743,11 @@
     "correctAnswer": 3,
     "page": 106,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 793,
@@ -11205,7 +13762,11 @@
     "correctAnswer": 0,
     "page": 108,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 794,
@@ -11222,7 +13783,11 @@
     "correctAnswer": 1,
     "page": 113,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 795,
@@ -11237,7 +13802,11 @@
     "correctAnswer": 1,
     "page": 113,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 796,
@@ -11252,7 +13821,11 @@
     "correctAnswer": 3,
     "page": 117,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 797,
@@ -11267,7 +13840,11 @@
     "correctAnswer": 0,
     "page": 119,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 798,
@@ -11282,7 +13859,11 @@
     "correctAnswer": 3,
     "page": 119,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 799,
@@ -11301,7 +13882,11 @@
     "correctAnswer": 1,
     "page": 120,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 800,
@@ -11316,7 +13901,11 @@
     "correctAnswer": 1,
     "page": 127,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 801,
@@ -11334,7 +13923,11 @@
     "correctAnswer": 1,
     "page": 131,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 802,
@@ -11352,7 +13945,11 @@
     "correctAnswer": 6,
     "page": 132,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      6
+    ],
+    "isMulti": false
   },
   {
     "id": 803,
@@ -11366,7 +13963,11 @@
     "correctAnswer": 0,
     "page": 132,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 804,
@@ -11381,7 +13982,11 @@
     "correctAnswer": 0,
     "page": 134,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 805,
@@ -11398,7 +14003,11 @@
     "correctAnswer": 5,
     "page": 134,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 806,
@@ -11413,7 +14022,11 @@
     "correctAnswer": 1,
     "page": 138,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 807,
@@ -11431,7 +14044,11 @@
     "correctAnswer": 1,
     "page": 142,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 808,
@@ -11449,7 +14066,11 @@
     "correctAnswer": 3,
     "page": 144,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 809,
@@ -11464,7 +14085,11 @@
     "correctAnswer": 3,
     "page": 148,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 810,
@@ -11483,7 +14108,11 @@
     "correctAnswer": 5,
     "page": 153,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      5
+    ],
+    "isMulti": false
   },
   {
     "id": 811,
@@ -11500,7 +14129,11 @@
     "correctAnswer": 4,
     "page": 157,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      4
+    ],
+    "isMulti": false
   },
   {
     "id": 812,
@@ -11515,7 +14148,11 @@
     "correctAnswer": 3,
     "page": 158,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 813,
@@ -11530,7 +14167,11 @@
     "correctAnswer": 0,
     "page": 159,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 814,
@@ -11545,7 +14186,11 @@
     "correctAnswer": 0,
     "page": 161,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 815,
@@ -11560,7 +14205,11 @@
     "correctAnswer": 1,
     "page": 164,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 816,
@@ -11575,7 +14224,11 @@
     "correctAnswer": 3,
     "page": 167,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 817,
@@ -11590,7 +14243,11 @@
     "correctAnswer": 1,
     "page": 167,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 818,
@@ -11605,7 +14262,11 @@
     "correctAnswer": 3,
     "page": 168,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 819,
@@ -11620,7 +14281,11 @@
     "correctAnswer": 2,
     "page": 169,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 820,
@@ -11635,7 +14300,11 @@
     "correctAnswer": 1,
     "page": 173,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 821,
@@ -11650,7 +14319,11 @@
     "correctAnswer": 3,
     "page": 174,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 822,
@@ -11665,7 +14338,11 @@
     "correctAnswer": 1,
     "page": 174,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 823,
@@ -11680,7 +14357,11 @@
     "correctAnswer": 1,
     "page": 175,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 824,
@@ -11695,7 +14376,11 @@
     "correctAnswer": 0,
     "page": 175,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 825,
@@ -11710,7 +14395,11 @@
     "correctAnswer": 1,
     "page": 176,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 826,
@@ -11724,7 +14413,11 @@
     "correctAnswer": 0,
     "page": 176,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 827,
@@ -11739,7 +14432,11 @@
     "correctAnswer": 2,
     "page": 176,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 828,
@@ -11754,7 +14451,11 @@
     "correctAnswer": 1,
     "page": 177,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 829,
@@ -11769,7 +14470,11 @@
     "correctAnswer": 2,
     "page": 177,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 830,
@@ -11784,7 +14489,11 @@
     "correctAnswer": 1,
     "page": 178,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 831,
@@ -11799,7 +14508,11 @@
     "correctAnswer": 0,
     "page": 178,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 832,
@@ -11814,7 +14527,11 @@
     "correctAnswer": 0,
     "page": 178,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 833,
@@ -11829,7 +14546,11 @@
     "correctAnswer": 3,
     "page": 179,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 834,
@@ -11844,7 +14565,11 @@
     "correctAnswer": 0,
     "page": 180,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 835,
@@ -11858,7 +14583,11 @@
     "correctAnswer": 0,
     "page": 180,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 836,
@@ -11873,7 +14602,11 @@
     "correctAnswer": 2,
     "page": 181,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 837,
@@ -11888,7 +14621,11 @@
     "correctAnswer": 2,
     "page": 181,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 838,
@@ -11903,7 +14640,11 @@
     "correctAnswer": 0,
     "page": 182,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 839,
@@ -11918,7 +14659,11 @@
     "correctAnswer": 1,
     "page": 182,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 840,
@@ -11933,7 +14678,11 @@
     "correctAnswer": 1,
     "page": 182,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 841,
@@ -11948,7 +14697,11 @@
     "correctAnswer": 3,
     "page": 183,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 842,
@@ -11963,7 +14716,11 @@
     "correctAnswer": 3,
     "page": 183,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 843,
@@ -11978,7 +14735,11 @@
     "correctAnswer": 0,
     "page": 183,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 844,
@@ -11993,7 +14754,11 @@
     "correctAnswer": 0,
     "page": 183,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 845,
@@ -12008,7 +14773,11 @@
     "correctAnswer": 0,
     "page": 184,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 846,
@@ -12023,7 +14792,11 @@
     "correctAnswer": 0,
     "page": 184,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 847,
@@ -12037,7 +14810,11 @@
     "correctAnswer": 0,
     "page": 185,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 848,
@@ -12052,7 +14829,11 @@
     "correctAnswer": 0,
     "page": 185,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 849,
@@ -12067,7 +14848,11 @@
     "correctAnswer": 2,
     "page": 185,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 850,
@@ -12082,7 +14867,11 @@
     "correctAnswer": 0,
     "page": 186,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 851,
@@ -12097,7 +14886,11 @@
     "correctAnswer": 0,
     "page": 187,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 852,
@@ -12112,7 +14905,11 @@
     "correctAnswer": 2,
     "page": 187,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 853,
@@ -12127,7 +14924,11 @@
     "correctAnswer": 0,
     "page": 188,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 854,
@@ -12142,7 +14943,11 @@
     "correctAnswer": 2,
     "page": 188,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 855,
@@ -12157,7 +14962,11 @@
     "correctAnswer": 1,
     "page": 188,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 856,
@@ -12172,7 +14981,11 @@
     "correctAnswer": 0,
     "page": 189,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 857,
@@ -12187,7 +15000,11 @@
     "correctAnswer": 0,
     "page": 189,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 858,
@@ -12202,7 +15019,11 @@
     "correctAnswer": 0,
     "page": 190,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 859,
@@ -12217,7 +15038,11 @@
     "correctAnswer": 2,
     "page": 190,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 860,
@@ -12232,7 +15057,11 @@
     "correctAnswer": 2,
     "page": 190,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 861,
@@ -12247,7 +15076,11 @@
     "correctAnswer": 2,
     "page": 192,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 862,
@@ -12262,7 +15095,11 @@
     "correctAnswer": 0,
     "page": 192,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 863,
@@ -12277,7 +15114,11 @@
     "correctAnswer": 0,
     "page": 193,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 864,
@@ -12292,7 +15133,11 @@
     "correctAnswer": 2,
     "page": 193,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 865,
@@ -12307,7 +15152,11 @@
     "correctAnswer": 3,
     "page": 193,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 866,
@@ -12322,7 +15171,11 @@
     "correctAnswer": 1,
     "page": 194,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 867,
@@ -12337,7 +15190,11 @@
     "correctAnswer": 0,
     "page": 195,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 868,
@@ -12352,7 +15209,11 @@
     "correctAnswer": 0,
     "page": 196,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 869,
@@ -12371,7 +15232,11 @@
     "correctAnswer": 7,
     "page": 196,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      7
+    ],
+    "isMulti": false
   },
   {
     "id": 870,
@@ -12386,7 +15251,11 @@
     "correctAnswer": 0,
     "page": 197,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 871,
@@ -12401,7 +15270,11 @@
     "correctAnswer": 1,
     "page": 197,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 872,
@@ -12416,7 +15289,11 @@
     "correctAnswer": 0,
     "page": 197,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 873,
@@ -12431,7 +15308,11 @@
     "correctAnswer": 3,
     "page": 198,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 874,
@@ -12446,7 +15327,11 @@
     "correctAnswer": 0,
     "page": 198,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 875,
@@ -12461,7 +15346,11 @@
     "correctAnswer": 0,
     "page": 199,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 876,
@@ -12476,7 +15365,11 @@
     "correctAnswer": 1,
     "page": 199,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      1
+    ],
+    "isMulti": false
   },
   {
     "id": 877,
@@ -12491,7 +15384,11 @@
     "correctAnswer": 3,
     "page": 199,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      3
+    ],
+    "isMulti": false
   },
   {
     "id": 878,
@@ -12506,7 +15403,11 @@
     "correctAnswer": 2,
     "page": 200,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   },
   {
     "id": 879,
@@ -12521,7 +15422,11 @@
     "correctAnswer": 0,
     "page": 200,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 880,
@@ -12536,7 +15441,11 @@
     "correctAnswer": 0,
     "page": 200,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      0
+    ],
+    "isMulti": false
   },
   {
     "id": 881,
@@ -12551,6 +15460,10 @@
     "correctAnswer": 2,
     "page": 201,
     "isSupplementary": true,
-    "bank": "supplementary"
+    "bank": "supplementary",
+    "correctAnswers": [
+      2
+    ],
+    "isMulti": false
   }
 ]

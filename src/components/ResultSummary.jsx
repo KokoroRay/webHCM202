@@ -22,12 +22,18 @@ export default function ResultSummary({
 
   questions.forEach((q, idx) => {
     const userAns = answers[idx];
-    if (userAns === undefined || userAns === null) {
+    const correctAnswers = Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswer];
+    const userArr = Array.isArray(userAns) ? userAns : (userAns !== undefined && userAns !== null ? [userAns] : []);
+
+    if (userArr.length === 0) {
       skippedCount++;
-    } else if (userAns === q.correctAnswer) {
-      correctCount++;
     } else {
-      wrongCount++;
+      const isRight = userArr.length === correctAnswers.length && userArr.every((val) => correctAnswers.includes(val));
+      if (isRight) {
+        correctCount++;
+      } else {
+        wrongCount++;
+      }
     }
   });
 
@@ -65,13 +71,28 @@ export default function ResultSummary({
   }
 
   // Filtered review items
-  const filteredQuestions = questions.map((q, idx) => ({ ...q, userAns: answers[idx], originalIndex: idx }))
-    .filter((q) => {
-      if (filter === 'wrong') return q.userAns !== undefined && q.userAns !== q.correctAnswer;
-      if (filter === 'correct') return q.userAns === q.correctAnswer;
-      if (filter === 'bookmarked') return bookmarks.includes(q.id);
-      return true;
-    });
+  const filteredQuestions = questions.map((q, idx) => {
+    const userAns = answers[idx];
+    const correctAnswers = Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswer];
+    const userArr = Array.isArray(userAns) ? userAns : (userAns !== undefined && userAns !== null ? [userAns] : []);
+    const isSkipped = userArr.length === 0;
+    const isUserRight = !isSkipped && userArr.length === correctAnswers.length && userArr.every((val) => correctAnswers.includes(val));
+
+    return {
+      ...q,
+      userAns,
+      userArr,
+      correctAnswers,
+      isUserRight,
+      isSkipped,
+      originalIndex: idx
+    };
+  }).filter((q) => {
+    if (filter === 'wrong') return !q.isSkipped && !q.isUserRight;
+    if (filter === 'correct') return q.isUserRight;
+    if (filter === 'bookmarked') return bookmarks.includes(q.id);
+    return true;
+  });
 
   const optionLetters = ['A', 'B', 'C', 'D', 'E', 'F'];
 
@@ -272,13 +293,15 @@ export default function ResultSummary({
                   {/* Options List */}
                   <div className="mt-3 space-y-2 text-xs sm:text-sm">
                     {q.options.map((opt, optIdx) => {
-                      const isCorrectOpt = optIdx === q.correctAnswer;
-                      const isUserOpt = optIdx === q.userAns;
+                      const isCorrectOpt = q.correctAnswers.includes(optIdx);
+                      const isUserOpt = q.userArr.includes(optIdx);
 
                       let rowStyle = 'bg-white border-slate-200 text-slate-700';
-                      if (isCorrectOpt) {
+                      if (isCorrectOpt && isUserOpt) {
                         rowStyle = 'bg-emerald-100/90 border-emerald-300 text-emerald-950 font-bold';
-                      } else if (isUserOpt && !isCorrectOpt) {
+                      } else if (isCorrectOpt && !isUserOpt) {
+                        rowStyle = 'bg-emerald-50 border-emerald-300 text-emerald-900 font-semibold border-dashed';
+                      } else if (!isCorrectOpt && isUserOpt) {
                         rowStyle = 'bg-red-100/90 border-red-300 text-red-950 font-bold';
                       }
 
@@ -289,19 +312,19 @@ export default function ResultSummary({
                         >
                           <span className="font-bold shrink-0">{optionLetters[optIdx]}.</span>
                           <span className="flex-1">{opt}</span>
-                          {isCorrectOpt && (
-                            <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
-                              ✓ Đáp án đúng
-                            </span>
-                          )}
-                          {isUserOpt && !isCorrectOpt && (
-                            <span className="text-[11px] font-bold text-red-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
-                              ✗ Lựa chọn của bạn
-                            </span>
-                          )}
-                          {isUserOpt && isCorrectOpt && (
+                          {isCorrectOpt && isUserOpt && (
                             <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
                               ✓ Lựa chọn chính xác
+                            </span>
+                          )}
+                          {isCorrectOpt && !isUserOpt && (
+                            <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
+                              ✓ Đáp án đúng cần chọn
+                            </span>
+                          )}
+                          {!isCorrectOpt && isUserOpt && (
+                            <span className="text-[11px] font-bold text-red-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
+                              ✗ Lựa chọn sai
                             </span>
                           )}
                         </div>

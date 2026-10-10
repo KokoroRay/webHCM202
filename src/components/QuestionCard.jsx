@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bookmark, ChevronLeft, ChevronRight, CheckCircle2, XCircle, Grid, Send, Sparkles, Award } from 'lucide-react';
+import { Bookmark, ChevronLeft, ChevronRight, CheckCircle2, XCircle, Grid, Send, Sparkles, Award, CheckSquare, Square } from 'lucide-react';
 
 export default function QuestionCard({
   question,
@@ -18,9 +18,22 @@ export default function QuestionCard({
 }) {
   if (!question) return null;
 
-  const isAnswered = selectedAnswer !== undefined && selectedAnswer !== null;
+  const isMulti = Boolean(question.isMulti) || (Array.isArray(question.correctAnswers) && question.correctAnswers.length > 1);
+  const correctAnswers = Array.isArray(question.correctAnswers)
+    ? question.correctAnswers
+    : [question.correctAnswer];
+
+  const userSelectedArr = Array.isArray(selectedAnswer)
+    ? selectedAnswer
+    : (selectedAnswer !== undefined && selectedAnswer !== null ? [selectedAnswer] : []);
+
+  const isAnswered = userSelectedArr.length > 0;
   const isPractice = mode === 'practice';
-  const isCorrect = isAnswered && selectedAnswer === question.correctAnswer;
+  
+  const isCorrect = isMulti
+    ? userSelectedArr.length === correctAnswers.length && userSelectedArr.every((val) => correctAnswers.includes(val))
+    : isAnswered && selectedAnswer === question.correctAnswer;
+
   const isLastQuestion = questionIndex === totalQuestions - 1;
   const optionLetters = ['A', 'B', 'C', 'D', 'E', 'F'];
 
@@ -62,6 +75,15 @@ export default function QuestionCard({
 
         {/* Question Text */}
         <div className="p-6 sm:p-8">
+          
+          {/* Multi-select notification badge */}
+          {isMulti && (
+            <div className="mb-4 inline-flex items-center gap-2 px-3 py-1.5 bg-amber-50 border border-amber-200 text-amber-900 rounded-xl text-xs font-bold shadow-2xs">
+              <CheckSquare className="w-4 h-4 text-amber-600 shrink-0" />
+              <span>Câu hỏi chọn nhiều đáp án (Hãy tích chọn {correctAnswers.length} phương án đúng)</span>
+            </div>
+          )}
+
           <h2 
             className="font-bold text-slate-900 leading-relaxed tracking-normal"
             style={{ fontSize: `${fontSize}px` }}
@@ -72,8 +94,8 @@ export default function QuestionCard({
           {/* Options List */}
           <div className="mt-6 space-y-3">
             {question.options.map((optText, optIdx) => {
-              const isSelected = selectedAnswer === optIdx;
-              const isRightAnswer = optIdx === question.correctAnswer;
+              const isSelected = userSelectedArr.includes(optIdx);
+              const isRightAnswer = correctAnswers.includes(optIdx);
 
               // Color styles calculation
               let btnStyle = 'border-slate-200 hover:border-blue-400 hover:bg-blue-50/40 text-slate-800';
@@ -81,10 +103,14 @@ export default function QuestionCard({
               let icon = null;
 
               if (isPractice && isAnswered) {
-                if (isRightAnswer) {
+                if (isRightAnswer && isSelected) {
                   btnStyle = 'border-emerald-500 bg-emerald-50/80 text-emerald-900 font-semibold ring-2 ring-emerald-400/20';
                   badgeStyle = 'bg-emerald-600 text-white';
                   icon = <CheckCircle2 className="w-5 h-5 text-emerald-600 shrink-0 ml-auto" />;
+                } else if (isRightAnswer && !isSelected) {
+                  btnStyle = 'border-emerald-300 bg-emerald-50/40 text-emerald-800 font-semibold border-dashed';
+                  badgeStyle = 'bg-emerald-100 text-emerald-800';
+                  icon = <span className="text-[11px] font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded ml-auto">Cần chọn</span>;
                 } else if (isSelected && !isRightAnswer) {
                   btnStyle = 'border-red-400 bg-red-50/80 text-red-900 font-semibold ring-2 ring-red-400/20';
                   badgeStyle = 'bg-red-600 text-white';
@@ -102,17 +128,22 @@ export default function QuestionCard({
                 <button
                   key={optIdx}
                   type="button"
-                  onClick={() => onSelectAnswer(questionIndex, optIdx)}
+                  onClick={() => onSelectAnswer(questionIndex, optIdx, isMulti)}
                   className={`w-full p-4 rounded-xl border-2 text-left flex items-start gap-3.5 transition-all duration-200 group cursor-pointer ${btnStyle}`}
                 >
                   <span className={`w-7 h-7 rounded-lg text-xs font-bold flex items-center justify-center shrink-0 transition-colors ${badgeStyle}`}>
-                    {optionLetters[optIdx] || optIdx + 1}
+                    {isMulti ? (
+                      isSelected ? <CheckSquare className="w-4 h-4" /> : <Square className="w-4 h-4" />
+                    ) : (
+                      optionLetters[optIdx] || optIdx + 1
+                    )}
                   </span>
                   
                   <span 
                     className="flex-1 pt-0.5 leading-relaxed"
                     style={{ fontSize: `${fontSize - 1}px` }}
                   >
+                    <strong className="mr-1.5 font-bold text-slate-900">{optionLetters[optIdx]}.</strong>
                     {optText}
                   </span>
 
@@ -141,8 +172,11 @@ export default function QuestionCard({
                   {isCorrect ? 'Chính xác! 🎉' : 'Chưa chính xác!'}
                 </div>
                 {!isCorrect && (
-                  <div className="mt-1">
-                    Đáp án đúng là: <strong className="text-emerald-700 font-bold">{optionLetters[question.correctAnswer]}. {question.options[question.correctAnswer]}</strong>
+                  <div className="mt-1 leading-relaxed">
+                    Đáp án đúng là:{' '}
+                    <strong className="text-emerald-700 font-bold">
+                      {correctAnswers.map((ca) => `${optionLetters[ca]}. ${question.options[ca]}`).join(' | ')}
+                    </strong>
                   </div>
                 )}
                 {question.note && (

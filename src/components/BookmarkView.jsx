@@ -74,7 +74,8 @@ export default function BookmarkView({
 
               <div className="space-y-2">
                 {q.options.map((opt, optIdx) => {
-                  const isCorrect = optIdx === q.correctAnswer;
+                  const correctAnswers = Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswer];
+                  const isCorrect = correctAnswers.includes(optIdx);
                   return (
                     <div
                       key={optIdx}

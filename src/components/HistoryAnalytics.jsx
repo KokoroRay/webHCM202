@@ -268,7 +268,8 @@ export default function HistoryAnalytics({
                   {/* Options */}
                   <div className="space-y-2 text-xs sm:text-sm">
                     {q.options.map((opt, optIdx) => {
-                      const isCorrect = optIdx === q.correctAnswer;
+                      const correctAnswers = Array.isArray(q.correctAnswers) ? q.correctAnswers : [q.correctAnswer];
+                      const isCorrect = correctAnswers.includes(optIdx);
                       return (
                         <div
                           key={optIdx}
