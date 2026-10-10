@@ -89,8 +89,7 @@
       "Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược quyết định thành công của cách mạng.",
       "Chủ thể của khối đại đoàn kết toàn dân tộc là toàn dân.",
       "Nền tảng của khối đại đoàn kết toàn dân tộc là nông dân, công nhân và các tầng lớp nhân dân lao động khác.",
-      "Phải xây dựng trên nền tảng liên minh công nhân-nông dân-trí thức đặt dưới sự lãnh đạo của Đảng.",
-      "Tất cả phương án trên."
+      "Phải xây dựng trên nền tảng liên minh công nhân-nông dân-trí thức đặt dưới sự lãnh đạo của Đảng."
     ],
     "correctAnswer": 0,
     "page": 1,
@@ -306,7 +305,7 @@
   {
     "id": 19,
     "original_num": "Câu 19",
-    "question": "Theo Hồ Chí Minh,đánh giá cán bộ phải tiến hành như thế nào? (câu đúng nhất)",
+    "question": "Theo Hồ Chí Minh,đánh giá cán bộ phải tiến hành như thế nào?",
     "options": [
       "Tiến hành thường xuyên.",
       "Khách quan, trung thực"
@@ -1035,8 +1034,7 @@
       "Khi Bác lên tàu từ bến Nhà Rồng năm 1911.",
       "Khi Bác tham gia sáng lập Đảng cộng sản Pháp tại Đại hội Tua 12/1920.",
       "Tại hội nghị Vécxay (Pháp) ngày 18/6/1919.",
-      "Khi Bác sang Liên Xô làm việc ở Ban phương Đông của Quốc tế Cộng sản tháng",
-      "1923."
+      "Khi Bác sang Liên Xô làm việc ở Ban phương Đông của Quốc tế Cộng sản tháng"
     ],
     "correctAnswer": 2,
     "page": 11,
@@ -3535,7 +3533,7 @@
   {
     "id": 212,
     "original_num": "Câu 212",
-    "question": "Luận điểm: Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp ở mọi nơi. Đảng có vững thì cách mạng mới thành công, cũng như người cầm lái có vững thuyền mới chạy. Được trích từ tác phẩm nào của Hồ Chí Minh?",
+    "question": "Luận điểm: Cách mệnh trước hết phải có cái gì?",
     "options": [
       "Bản án chế độ thực dân Pháp",
       "Đường cách mệnh",
@@ -6597,7 +6595,7 @@
   {
     "id": 397,
     "original_num": "Câu 397",
-    "question": "Theo tư tưởng Hồ Chí Minh, con người Việt Nam trong thời đại mới phải có:",
+    "question": "Theo tư tưởng Hồ Chí Minh, con người Việt Nam trong thời đại mới phải có bao nhiêu phẩm chất cơ bản?",
     "options": [
       "3 phẩm chất cơ bản",
       "4 phẩm chất cơ bản",
@@ -6765,9 +6763,9 @@
     "original_num": "Câu 407",
     "question": "Nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh gồm:",
     "options": [
-      "2 nguyên tắc.",
-      "3 nguyên tắc.",
-      "4 nguyên tắc.",
+      "nguyên tắc.",
+      "nguyên tắc.",
+      "nguyên tắc.",
       "5 nguyên tắc."
     ],
     "correctAnswer": 2,
@@ -7217,7 +7215,7 @@
   {
     "id": 434,
     "original_num": "Câu 434",
-    "question": "Theo Hồ Chí Minh, Nhà nước do dân tạo ra và nhân dân tham gia quản lý là ở chỗ: Toàn bộ công dân bầu ra … cơ quan quyền lực cao nhất của Nhà nước, cơ quan duy nhất có quyền lập pháp. Từ còn thiếu là?",
+    "question": "Theo Hồ Chí Minh:",
     "options": [
       "Đảng",
       "Nhà nước",
@@ -7353,10 +7351,9 @@
   {
     "id": 442,
     "original_num": "Câu 442",
-    "question": "Chọn câu trả lời đúng nhất theo TTHCM: ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam ĐCS Việt Nam là của giai cấp công nhân. ĐCS Việt Nam là của nhân dân lao động. ĐCS Việt Nam là của dân tộc Việt Nam.",
+    "question": "Chọn câu trả lời đúng nhất theo TTHCM:",
     "options": [
-      "ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân",
-      "tộc Việt Nam",
+      "ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam",
       "ĐCS Việt Nam là của giai cấp công nhân.",
       "ĐCS Việt Nam là của nhân dân lao động.",
       "ĐCS Việt Nam là của dân tộc Việt Nam."
@@ -7371,7 +7368,7 @@
   {
     "id": 443,
     "original_num": "Câu 443",
-    "question": "Nguyên tắc xây dựng Đảng kiểu mới theo TTHCM là: Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách. Tự phê bình và phê bình. Đoàn kết thống nhất trong Đảng. Các nhận định trên đúng.",
+    "question": "Nguyên tắc xây dựng Đảng kiểu mới theo TTHCM là:",
     "options": [
       "Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách.",
       "Tự phê bình và phê bình.",
@@ -7388,7 +7385,7 @@
   {
     "id": 444,
     "original_num": "Câu 444",
-    "question": "ĐCS Việt Nam trở thành Đảng cầm quyền năm nào? Năm 1945. Năm 1930. Năm 1975. Năm 1954.",
+    "question": "ĐCS Việt Nam trở thành Đảng cầm quyền năm nào?",
     "options": [
       "Năm 1945.",
       "Năm 1930.",
@@ -7405,9 +7402,8 @@
   {
     "id": 445,
     "original_num": "Câu 445",
-    "question": "Theo TTHCM, ĐCS Việt Nam ra đời là sản phẩm của sự kết hợp CNMLN với phong trào công nhân và phong trào yêu nước là: Xác định nguồn gốc ra đời của đảng. Xác định nhiệm vụ của Đảng. Xác định bản chất của đảng. Xác định năng lực của đảng.",
+    "question": "Theo TTHCM, ĐCS Việt Nam ra đời là sản phẩm của sự kết hợp CNMLN với phong trào công nhân và phong trào yêu nước là:",
     "options": [
-      "với phong trào công nhân và phong trào yêu nước là:",
       "Xác định nguồn gốc ra đời của đảng.",
       "Xác định nhiệm vụ của Đảng.",
       "Xác định bản chất của đảng.",
@@ -7423,7 +7419,7 @@
   {
     "id": 446,
     "original_num": "Câu 446",
-    "question": "Theo TTHCM, ĐCS Việt Nam lấy CNMLN làm cốt có nghĩa là: ĐCS Việt Nam lấy CNMLN làm nền tảng tư tưởng. ĐCS Việt Nam lấy CNMLN làm chủ trương đường lối. ĐCS Việt Nam lấy CNMLN làm học thuyết của đảng. ĐCS Việt Nam lấy CNMLN làm lãnh đạo của đảng.",
+    "question": "Theo TTHCM, ĐCS Việt Nam lấy CNMLN làm cốt có nghĩa là:",
     "options": [
       "ĐCS Việt Nam lấy CNMLN làm nền tảng tư tưởng.",
       "ĐCS Việt Nam lấy CNMLN làm chủ trương đường lối.",
@@ -7457,7 +7453,7 @@
   {
     "id": 448,
     "original_num": "Câu 448",
-    "question": "Theo Hồ Chí Minh Đảng phải thường xuyên đổi mới chỉnh đốn về mặt: Chính trị, tư tưởng và tổ chức Chính trị. Tổ chức. Tư tưởng",
+    "question": "Theo Hồ Chí Minh Đảng phải thường xuyên đổi mới chỉnh đốn về mặt:",
     "options": [
       "Chính trị, tư tưởng và tổ chức",
       "Chính trị.",
@@ -7474,7 +7470,7 @@
   {
     "id": 449,
     "original_num": "Câu 449",
-    "question": "Công dân Việt Nam bao nhiêu tuổi trở lên có quyền bầu cử Quốc hội? 18 tuổi 19 tuổi 20 tuổi 21 tuổi",
+    "question": "Công dân Việt Nam bao nhiêu tuổi trở lên có quyền bầu cử Quốc hội?",
     "options": [
       "18 tuổi",
       "19 tuổi",
@@ -7491,9 +7487,8 @@
   {
     "id": 450,
     "original_num": "Câu 450",
-    "question": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành dựa trên cơ sở nào? Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam Từ quan điểm của chủ nghĩa Mác –Lênin về vai trò của quần chúng nhân dân Từ thực tiễn thành công và thất bại của phong trào cách mạng Việt Nam và thế giới Tất cả các phương án đều đúng.",
+    "question": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành dựa trên cơ sở nào?",
     "options": [
-      "cơ sở nào?",
       "Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam",
       "Từ quan điểm của chủ nghĩa Mác –Lênin về vai trò của quần chúng nhân dân",
       "Từ thực tiễn thành công và thất bại của phong trào cách mạng Việt Nam và thế giới",
@@ -7509,7 +7504,7 @@
   {
     "id": 451,
     "original_num": "Câu 451",
-    "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất là: Tổ chức của các tầng lớp nhân dân. Tổ chức của công nhân và nông dân Tổ chức của giai cấp công nhân. Tổ chức của giai cấp nông dân.",
+    "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất là:",
     "options": [
       "Tổ chức của các tầng lớp nhân dân.",
       "Tổ chức của công nhân và nông dân",
@@ -7526,7 +7521,7 @@
   {
     "id": 452,
     "original_num": "Câu 452",
-    "question": "Trong tư tưởng Hồ Chí Minh đại đoàn kết dân tộc là: Là mục tiêu, nhiệm vụ hàng đầu của cách mạng, của dân tộc. Là mục tiêu của cách mạng Là nhiệm vụ quan trọng nhất của cách mạng. Là nhiệm vụ hàng đầu của cách mạng.",
+    "question": "Trong tư tưởng Hồ Chí Minh đại đoàn kết dân tộc là:",
     "options": [
       "Là mục tiêu, nhiệm vụ hàng đầu của cách mạng, của dân tộc.",
       "Là mục tiêu của cách mạng",
@@ -7543,7 +7538,7 @@
   {
     "id": 453,
     "original_num": "Câu 453",
-    "question": "Hồ Chí Minh đưa ra mấy quan điểm chủ yếu về văn hóa, văn nghệ? 03 quan điểm. 02 quan điểm 04 quan điểm. 05 quan điểm",
+    "question": "Hồ Chí Minh đưa ra mấy quan điểm chủ yếu về văn hóa, văn nghệ?",
     "options": [
       "03 quan điểm.",
       "02 quan điểm",
@@ -7560,7 +7555,7 @@
   {
     "id": 454,
     "original_num": "Câu 454",
-    "question": "Hình thức tổ chức của khối đại đoàn kết dân tộc là: Mặt trận dân tộc thống nhất. Liên minh công nông. Tổ chức của giai cấp nông dân. Tổ chức của giai cấp công nhân.",
+    "question": "Hình thức tổ chức của khối đại đoàn kết dân tộc là:",
     "options": [
       "Mặt trận dân tộc thống nhất.",
       "Liên minh công nông.",
@@ -7577,25 +7572,24 @@
   {
     "id": 455,
     "original_num": "Câu 455",
-    "question": "Hiến pháp nào thể hiện rõ  nhất tư tưởng dân chủ của Hồ Chí Minh, đặt cơ sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân? Hiến pháp năm 1946. Hiến pháp năm 1959 Hiến pháp năm 1980 Hiến pháp năm 1992",
+    "question": "Hiến pháp nào thể hiện rõ nhất tư tưởng dân chủ của Hồ Chí Minh, đặt cơ sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân?",
     "options": [
-      "sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân?",
       "Hiến pháp năm 1946.",
-      "Hiến pháp năm 1959",
-      "Hiến pháp năm 1980",
-      "Hiến pháp năm 1992"
+      "Hiến pháp năm 1959.",
+      "Hiến pháp năm 1980.",
+      "Hiến pháp năm 1992."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 76,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 456,
     "original_num": "Câu 456",
-    "question": "Đảng cộng sản Việt Nam lúc mới thành lập có tên là: Đảng cộng sản Việt Nam. Đảng cộng sản Đông Dương. Đảng lao động Việt Nam. Đông Dương cộng sản liên đoàn.",
+    "question": "Đảng cộng sản Việt Nam lúc mới thành lập có tên là:",
     "options": [
       "Đảng cộng sản Việt Nam.",
       "Đảng cộng sản Đông Dương.",
@@ -7612,13 +7606,12 @@
   {
     "id": 457,
     "original_num": "Câu 457",
-    "question": "Theo tư tưởng Hồ Chí Minh một trong những nguyên tắc đoàn kết quốc tế là: Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình. Có đi, có lại Các bên cùng có lợi. Không dùng vũ lực và đe doạ dùng vũ lực.",
+    "question": "Theo tư tưởng Hồ Chí Minh một trong những nguyên tắc đoàn kết quốc tế:",
     "options": [
       "là:",
       "Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.",
       "Có đi, có lại",
-      "Các bên cùng có lợi.",
-      "Không dùng vũ lực và đe doạ dùng vũ lực."
+      "Các bên cùng có lợi."
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7630,13 +7623,12 @@
   {
     "id": 458,
     "original_num": "Câu 458",
-    "question": "Trong tư tưởng Hồ Chí Minh lực lượng chủ yếu của khối đại đoàn kết dân tộc là: Công nhân, nông dân, lao động trí óc Công nhân, nông dân. Nông dân, lao động trí óc Công nhân.",
+    "question": "Trong tư tưởng Hồ Chí Minh lực lượng chủ yếu của khối đại đoàn kết dân:",
     "options": [
       "tộc là:",
       "Công nhân, nông dân, lao động trí óc",
       "Công nhân, nông dân.",
-      "Nông dân, lao động trí óc",
-      "Công nhân."
+      "Nông dân, lao động trí óc"
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7648,31 +7640,29 @@
   {
     "id": 459,
     "original_num": "Câu 459",
-    "question": "Quyền dân chủ của nhân dân ta lần đầu tiên được thể hiện trong bản Hiến pháp nào? Hiến pháp 1946. Hiến pháp 1959. Hiến pháp 1945. Hiến pháp 1980.",
+    "question": "Quyền dân chủ của nhân dân ta lần đầu tiên được thể hiện trong bản Hiến pháp nào?",
     "options": [
-      "pháp nào?",
       "Hiến pháp 1946.",
       "Hiến pháp 1959.",
-      "Hiến pháp 1945.",
-      "Hiến pháp 1980."
+      "Hiến pháp 1980.",
+      "Hiến pháp 1992."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 77,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 460,
     "original_num": "Câu 460",
-    "question": "Chủ trương trong quan hệ quốc tế của nước ta hiện nay là: Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế. Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế. Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế. Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế.",
+    "question": "Chủ trương trong quan hệ quốc tế của nước ta hiện nay là:",
     "options": [
       "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc",
       "tế.",
       "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế.",
-      "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế.",
-      "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế."
+      "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế."
     ],
     "correctAnswer": 0,
     "page": 77,
@@ -7684,13 +7674,12 @@
   {
     "id": 461,
     "original_num": "Câu 461",
-    "question": "Một trong những quan điểm của Hồ Chí Minh về xây dựng đạo đức mới là: Nói đi đôi với làm, phải nêu gương về đạo đức. Phải biết hành động mọi lúc mọi nơi. Phải biết nhường nhịn. Phải có tính kiên nhẫn hơn người.",
+    "question": "Một trong những quan điểm của Hồ Chí Minh về xây dựng đạo đức mới là:",
     "options": [
       "là:",
       "Nói đi đôi với làm, phải nêu gương về đạo đức.",
       "Phải biết hành động mọi lúc mọi nơi.",
-      "Phải biết nhường nhịn.",
-      "Phải có tính kiên nhẫn hơn người."
+      "Phải biết nhường nhịn."
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7702,25 +7691,24 @@
   {
     "id": 462,
     "original_num": "Câu 462",
-    "question": "Quyền nào dưới đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị? Quyền tự do báo chí. Quyền lao động. Quyền sáng tác văn học. Quyền khiếu nại, tố cáo.",
+    "question": "Quyền nào dưới đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị?",
     "options": [
-      "vực chính trị?",
+      "Quyền ứng cử, bầu cử.",
       "Quyền tự do báo chí.",
       "Quyền lao động.",
-      "Quyền sáng tác văn học.",
-      "Quyền khiếu nại, tố cáo."
+      "Quyền sáng tác văn học."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 77,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 463,
     "original_num": "Câu 463",
-    "question": "Ai là người sáng lập và rèn luyện Đảng Cộng sản Việt Nam? Nguyễn Ái Quốc. Trường Chinh. Trần Phú. Nguyễn Văn Linh.",
+    "question": "Ai là người sáng lập và rèn luyện Đảng Cộng sản Việt Nam?",
     "options": [
       "Nguyễn Ái Quốc.",
       "Trường Chinh.",
@@ -7737,7 +7725,7 @@
   {
     "id": 464,
     "original_num": "Câu 464",
-    "question": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng của: Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam. Giai cấp công nhân, nhân dân lao động Việt Nam. Giai cấp công nhân Việt Nam Nhân dân lao động và của dân tộc Việt Nam.",
+    "question": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng của:",
     "options": [
       "Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam.",
       "Giai cấp công nhân, nhân dân lao động Việt Nam.",
@@ -7754,7 +7742,7 @@
   {
     "id": 465,
     "original_num": "Câu 465",
-    "question": "Hồ Chí Minh coi sức mạnh của đạo đức là: Đạo đức như gốc của cây như ngọn nguồn của sông suối. Đạo đức là sức mạnh vô song của Đảng. Đạo đức là sức mạnh của thời đại. Đạo đức là sức mạnh của giai cấp công nhân.",
+    "question": "Hồ Chí Minh coi sức mạnh của đạo đức là:",
     "options": [
       "Đạo đức như gốc của cây như ngọn nguồn của sông suối.",
       "Đạo đức là sức mạnh vô song của Đảng.",
@@ -7771,62 +7759,58 @@
   {
     "id": 466,
     "original_num": "Câu 466",
-    "question": "Ở nước ta hiện nay công dân từ bao nhiêu tuổi thì có quyền ứng cử vào Quốc Hội? 21 tuổi. 20 tuổi 19 tuổi. 18 tuổi.",
+    "question": "Ở nước ta hiện nay công dân từ bao nhiêu tuổi thì có quyền ứng cử vào Quốc Hội?",
     "options": [
-      "Quốc Hội?",
       "21 tuổi.",
-      "20 tuổi",
+      "20 tuổi.",
       "19 tuổi.",
       "18 tuổi."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 467,
     "original_num": "Câu467",
-    "question": "Đảng ta lấy chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy xác định? Đại hội VII Đại hội VI. Đại hội V. Đại hội VIII.",
+    "question": "Đảng ta lấy chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy xác định?",
     "options": [
-      "tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy",
-      "xác định?",
       "Đại hội VII",
-      "Đại hội VI.",
-      "Đại hội V.",
-      "Đại hội VIII."
+      "Đại hội VI",
+      "Đại hội V",
+      "Đại hội VIII"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      2
+      0
     ],
     "isMulti": false
   },
   {
     "id": 468,
     "original_num": "CÂu 468",
-    "question": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định? Đại hội XI. Đại hội X. Đại hội XII. Đại hội IX.",
+    "question": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định?",
     "options": [
-      "vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định?",
-      "Đại hội XI.",
-      "Đại hội X.",
-      "Đại hội XII.",
-      "Đại hội IX."
+      "Đại hội IX",
+      "Đại hội X",
+      "Đại hội XI",
+      "Đại hội XII"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 469,
     "original_num": "CÂu 469",
-    "question": "Tư tưởng là gì? Tư tưởng là sản phẩm của đầu óc con người, do con người sáng tạo ra. Tư tưởng là sản phẩm của con người, do con người sáng tạo ra. Tư tưởng là sản phẩm do con người sáng tạo ra. Tư tưởng là sản phẩm của đầu óc con người.",
+    "question": "Tư tưởng là gì?",
     "options": [
       "Tư tưởng là sản phẩm của đầu óc con người, do con người sáng tạo ra.",
       "Tư tưởng là sản phẩm của con người, do con người sáng tạo ra.",
@@ -7843,13 +7827,12 @@
   {
     "id": 470,
     "original_num": "Câu 470",
-    "question": "Cuối thế kỷ 19, các phong trào yêu nước theo khuynh hướng phong kiến và khuynh hướng dân chủ tư sản là của ai? Phương án đúng nhất Vua Hàm Nghi; Phan Bội Châu và Phan Châu Trinh. Phan Bội Châu và Phan Châu Trinh. Vua Hàm Nghi và Phan Châu Trinh. Hoàng Hoa Thám; Phan Bội Châu và Phan Châu Trinh.",
+    "question": "Cuối thế kỷ 19, các phong trào yêu nước theo khuynh hướng phong kiến và khuynh hướng dân chủ tư sản là của ai?",
     "options": [
       "và khuynh hướng dân chủ tư sản là của ai? Phương án đúng nhất",
       "Vua Hàm Nghi; Phan Bội Châu và Phan Châu Trinh.",
       "Phan Bội Châu và Phan Châu Trinh.",
-      "Vua Hàm Nghi và Phan Châu Trinh.",
-      "Hoàng Hoa Thám; Phan Bội Châu và Phan Châu Trinh."
+      "Vua Hàm Nghi và Phan Châu Trinh."
     ],
     "correctAnswer": 1,
     "page": 78,
@@ -7861,13 +7844,12 @@
   {
     "id": 471,
     "original_num": "Câu 471",
-    "question": "Năm 1911, Hồ Chí Minh quyết định ra đi tìm đường cứu nước, Người khảo sát ở: Phương Tây. Phương Đông. Liên Xô. Nước Mỹ.",
+    "question": "Năm 1911, Hồ Chí Minh quyết định ra đi tìm đường cứu nước, Người:",
     "options": [
       "khảo sát ở:",
       "Phương Tây.",
       "Phương Đông.",
-      "Liên Xô.",
-      "Nước Mỹ."
+      "Liên Xô."
     ],
     "correctAnswer": 1,
     "page": 79,
@@ -7879,7 +7861,7 @@
   {
     "id": 472,
     "original_num": "Câu 472",
-    "question": "Hồ Chí Minh viết Bản án chế độ thực dân Pháp vào năm nào? Năm 1925. Năm 1927. Năm 1920. Năm 1919.",
+    "question": "Hồ Chí Minh viết Bản án chế độ thực dân Pháp vào năm nào?",
     "options": [
       "Năm 1925.",
       "Năm 1927.",
@@ -7930,7 +7912,7 @@
   {
     "id": 475,
     "original_num": "Câu 475",
-    "question": "Nói tới dân tộc thì vấn đề dân tộc được C.Mác và V.I .Lênin bàn nhiều về: Đấu tranh giai cấp ở các nước tư bản. Đấu tranh giai cấp. Đấu tranh giải phóng dân tộc. Đấu tranh đấu tranh chống chủ nghĩa thực dân.",
+    "question": "Nói tới dân tộc thì vấn đề dân tộc được C.Mác và V.I .Lênin bàn nhiều về:",
     "options": [
       "Đấu tranh giai cấp ở các nước tư bản.",
       "Đấu tranh giai cấp.",
@@ -7947,32 +7929,29 @@
   {
     "id": 476,
     "original_num": "Câu 476",
-    "question": "Cương lĩnh chính trị đầu tiên của Đảng, Hồ Chí Minh viết: (Chọn phương án đúng nhất) Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản. Làm tư sản dân quyền cách mạng và thổ địa cách mạng. Làm tư sản dân quyền và thổ địa. Quá độ lên chủ nghĩa xã hội.",
+    "question": "Cương lĩnh chính trị đầu tiên của Đảng, Hồ Chí Minh viết: (Chọn phương án đúng nhất)",
     "options": [
-      "phương án đúng nhất)",
-      "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng",
-      "sản.",
+      "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
       "Làm tư sản dân quyền cách mạng và thổ địa cách mạng.",
       "Làm tư sản dân quyền và thổ địa.",
       "Quá độ lên chủ nghĩa xã hội."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 79,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 477,
     "original_num": "Câu 477",
-    "question": "Tháng 8/1945, câu nói bất hủ của Hồ Chí Minh là: Dù hy sinh tới đâu, dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết giành cho được độc lập. Nước Việt Nam có quyền hưởng tự do và độc lập. Quyền lợi dân tộc giải phóng cao hơn hết thảy. Độc lập cho Tổ quốc tôi, hạnh phúc cho đồng bào tôi.",
+    "question": "Tháng 8/1945, câu nói bất hủ của Hồ Chí Minh là:",
     "options": [
       "Dù hy sinh tới đâu, dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết",
       "giành cho được độc lập.",
       "Nước Việt Nam có quyền hưởng tự do và độc lập.",
-      "Quyền lợi dân tộc giải phóng cao hơn hết thảy.",
-      "Độc lập cho Tổ quốc tôi, hạnh phúc cho đồng bào tôi."
+      "Quyền lợi dân tộc giải phóng cao hơn hết thảy."
     ],
     "correctAnswer": 0,
     "page": 79,
@@ -8188,7 +8167,7 @@
   {
     "id": 490,
     "original_num": "Câu490",
-    "question": "Quan điểm của Hồ Chí Minh về vai trò của con người là như thế nào? (Lựa chọn 2 đáp án đúng)",
+    "question": "Quan điểm của Hồ Chí Minh về vai trò của con người là như thế nào?",
     "options": [
       "Con người là mục tiêu của cách mạng.",
       "Con người là động lực của cách mạng.",
@@ -8291,7 +8270,7 @@
   {
     "id": 496,
     "original_num": "Câu 496",
-    "question": "Xây dựng con người toàn diện thể hiện những khía cạnh nào dưới đây? (Chọn 3 phương án đúng)",
+    "question": "Xây dựng con người toàn diện thể hiện những khía cạnh nào dưới đây?",
     "options": [
       "Có ý thức làm chủ, tinh thần tập thể XHCN và tư tưởng mình vì mọi người.",
       "Có lòng yêu nước nồng nàn, tinh thần quốc tế trong sáng.",
@@ -8327,7 +8306,7 @@
   {
     "id": 498,
     "original_num": "Câu 498",
-    "question": "Hồ Chí Minh đến Liên Xô vào năm nào và tiếp cận chính sách gì? Năm 1923 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1921 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1920 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1924 và tiếp cận Chính sách kinh tế mới (NEP).",
+    "question": "Hồ Chí Minh đến Liên Xô vào năm nào và tiếp cận chính sách gì?",
     "options": [
       "Năm 1923 và tiếp cận Chính sách kinh tế mới (NEP).",
       "Năm 1921 và tiếp cận Chính sách kinh tế mới (NEP).",
@@ -8395,7 +8374,7 @@
   {
     "id": 502,
     "original_num": "Câu 502",
-    "question": "Một trong những truyền thống tốt đẹp của tư tưởng và văn hóa Việt Nam được HCM tiếp thu để hình thành tư tưởng của Người là? (phương án đúng nhất)",
+    "question": "Một trong những truyền thống tốt đẹp của tư tưởng và văn hóa Việt Nam được HCM tiếp thu để hình thành tư tưởng của Người là?",
     "options": [
       "Chủ nghĩa yêu nước Việt Nam.",
       "Học thuyết của Nho giáo.",
@@ -8604,7 +8583,7 @@
       "Bối cảnh xã hội Việt Nam cuối thế kỷ XIX đầu thế kỷ XX và bối cảnh thời đại",
       "Những tiền đề tư tưởng – lý luận",
       "Nhân tố chủ quan",
-      "a và b hợp thành cơ sở quan trọng nhất"
+      "và b hợp thành cơ sở quan trọng nhất"
     ],
     "correctAnswer": 0,
     "page": 86,
@@ -9176,7 +9155,7 @@
   {
     "id": 548,
     "original_num": "Câu 548",
-    "question": "Theo Hồ Chí Minh thì học chủ nghĩa Mác – Lênin như thế nào là đúng đắn nhất?. Hãy tìm đáp án sai trong những cách học dưới đây",
+    "question": "Theo Hồ Chí Minh thì học chủ nghĩa Mác – Lênin như thế nào là đúng đắn nhất?",
     "options": [
       "Học thuộc lòng sách vở Mác – Lênin",
       "Học lập trường, quan điểm và phương pháp của chủ nghĩa Mác – Lênin để giải quyết những vấn đề thực tế của nước ta",
@@ -9193,7 +9172,7 @@
   {
     "id": 549,
     "original_num": "Câu 549",
-    "question": "Khi trả lời câu hỏi:” dạy chủ nghĩa Mác – Lênin như thế nào là đúng?” Hồ Chí Minh đã nêu ý kiến như sau. Hãy tìm ý kiến nhấn mạnh yếu tố nhân văn trong việc giảng dạy chủ nghĩa Mác – Lênin của Hồ Chí Minh",
+    "question": "Khi trả lời câu hỏi:” dạy chủ nghĩa Mác – Lênin như thế nào là đúng?",
     "options": [
       "Hiểu chủ nghĩa Mác – Lênin tức là cách mạng phân công cho việc gì đều phải làm tròn nhiệm vụ",
       "Không nên đào tạo ra những con người thuộc sách làu làu, cụ Mác nói thế này, cụ Lênin nói thế kia, nhưng quét nhà lại để cho nhà đầy rác",
@@ -9430,7 +9409,7 @@
   {
     "id": 563,
     "original_num": "Câu 563",
-    "question": "Luận điểm nào trong những luận điểm dưới đây về nhà nước của Hồ Chí Minh, trực tiếp thể hiện tư tưởng nhà nước của dân ?",
+    "question": "Luận điểm nào trong những luận điểm dưới đây về nhà nước của Hồ Chí Minh, trực tiếp thể hiện tư tưởng nhà nước của dân?",
     "options": [
       "Nước ta là nước dân chủ",
       "Cách mạng rồi thì quyền giao cho dân chúng số nhiều, chớ để trong tay một bọn ít người",
@@ -9532,7 +9511,7 @@
   {
     "id": 569,
     "original_num": "Câu 569",
-    "question": ": Trong những luận điểm về đạo đức của Hồ Chí Minh, luận điểm nào dưới đây được Hồ Chí Minh viết trong Di chúc ?",
+    "question": ": Trong những luận điểm về đạo đức của Hồ Chí Minh, luận điểm nào dưới đây được Hồ Chí Minh viết trong Di chúc?",
     "options": [
       "Đảng ta là một Đảng câm quyền, mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần, kiệm, liêm, chính,chí công vô tư",
       "Cần , kiệm, liêm, chính là 4 đức của một con người, thiếu một đức thì không thành người",
@@ -10335,27 +10314,24 @@
     "original_num": "Câu Bổ Sung #2",
     "question": "Theo Ho Chi Minh, bien phap nao quan trong nhat trong xay duyng chu (Kieu hoi khac:Theo Ho Chi Minh,cach lam trong xaydurngxahoimoi la:",
     "options": [
-      "Tranh thu toi da su giup do,vien",
-      "Tranh thu toi da sy giup do,vien trg quocte trq quoc té",
       "Dem cua dan,tai dan,surc danlam loi cho dan C.",
       "Két hop cai tao xa hoi cui va xay Ket hop cai taoxa hoi cu voi xay dyrng xa hoi durng xahoimoi moi",
       "Huy dong cac nguon lyrc san co",
-      "Ket hopxay duyng va bao ve dat nuroc trong dan",
-      "Két hop xay dyng va bao ve dat nuoc Theo Ho Chi Minh,bien phap co ban"
+      "Ket hopxay duyng va bao ve dat nuroc trong dan"
     ],
-    "correctAnswer": 4,
+    "correctAnswer": 2,
     "page": 2,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      4
+      2
     ],
     "isMulti": false
   },
   {
     "id": 617,
     "original_num": "Câu Bổ Sung #3",
-    "question": "surcminhla chinh Noi ve dao durc cach mang Ho Chi Minh chi ro: \"Vi muon giai phong cho dan toc,giai phong cho loainguroi la mot cong viec to tat,ma ty minh khong co dao durc, khong co can ban, ty minh da hu hoa, xau xa thi con lam noi viec gi?\". Cau noi tren cua Ho Chi Minh decapdenvande gisauday?",
+    "question": "surcminhla chinh Noi ve dao durc cach mang Ho Chi Minh chi ro: \"Vi muon giai phong cho dan toc,giai phong cho loainguroi la mot cong viec to tat,ma ty minh khong co dao durc, khong co can ban, ty minh da hu hoa, xau xa thi con lam noi viec gi?",
     "options": [
       "Vai tro va surc manh cua dao durc",
       "Chuan myrc va nguyen tac xay dyrngdaodurcmoi",
@@ -10413,16 +10389,12 @@
     "original_num": "Câu Bổ Sung #6",
     "question": "phap chinh tri Pham vi van dung tur tuong Ho Chi Minh: (Kieuhoikhac:PhamvivandungtuturongHoChi",
     "options": [
-      "Doi voi cach mang Viet Nam Minh la doiturong nao?",
       "Doi voi cac dan toc dang bi xam",
       "DoivoicachmangVietNam luocvaapburc tren toanthégioi",
       "Doivoi cac nuroc tur san",
-      "D6i voimoi quoc gia,dan toc",
-      "Doi voi moiquoc gia, dan toc",
-      "Doi voi cach mang giai phong dan",
-      "D6i voicach mang giaiphong dan toco Viet tocoViet Nam Nam Ho Chi Minh vi chinh sach d6i voi"
+      "D6i voimoi quoc gia,dan toc"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "page": 4,
     "isSupplementary": true,
     "bank": "supplementary",
@@ -10436,20 +10408,17 @@
     "original_num": "Câu Bổ Sung #7",
     "question": "tocoViet Nam Nam) Ho Chi Minh vi chinh sach d6i voi Phap sau khi gianh doc lap nhu chinh sach (Kieu hoi khac:Nam 1946 H6 Chi Minh vi chinh sach",
     "options": [
-      "Tam hoa d6i voi Phap sau khi gianh doc lap nhu chinh sach",
-      "Cau tien",
       "Tam thoi",
       "Tam hoa",
       "Cau Tien",
-      "Tam thoi",
-      "Than thien va hoa binh Nguyen tac chung cua Mat tran dan"
+      "Tam thoi"
     ],
-    "correctAnswer": 4,
+    "correctAnswer": 2,
     "page": 4,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      4
+      2
     ],
     "isMulti": false
   },
@@ -10494,7 +10463,7 @@
   {
     "id": 624,
     "original_num": "Câu Bổ Sung #10",
-    "question": "nghia thyc dan,gianhdoc lap dantoc va thiét lap chinh quyen cua cong nong Theo HoChi Minh,tinh chat va nhiem vu hang dau cua cach mang o thuoc (Kieu hoi khac: Ho Chi Minh vach ra nhiem vy hang dia la gi? dau cua cach mang o thuoc dia la",
+    "question": "nghia thyc dan,gianhdoc lap dantoc va thiét lap chinh quyen cua cong nong Theo HoChi Minh,tinh chat va nhiem vu hang dau cua cach mang o thuoc (Kieu hoi khac: Ho Chi Minh vach ra nhiem vy hang dia la gi?",
     "options": [
       "Giai phong nhan loai",
       "Giai phong thé gioi",
@@ -10574,11 +10543,7 @@
       "Chinh the nhur dieu gi?",
       "Té bao",
       "Chinh thé",
-      "Xa hoi",
-      "Té bao",
-      "Cong dong",
-      "Xa hoi",
-      "Cong dong Luan diem:\"Cach menh truoc het"
+      "Xa hoi"
     ],
     "correctAnswer": 2,
     "page": 8,
@@ -10592,7 +10557,7 @@
   {
     "id": 629,
     "original_num": "Câu Bổ Sung #15",
-    "question": "Luan diem:\"Cach menh truoc het phai co cai gi? Truroc het phai co dang cach menh,de trong thi van dong va to churc dan chung,ngoai thi lienlacvoidantocbiapburcvavo san giai capomqi noi.Dang co vurng thi cach mang moi thanh cong,cung nhu nguroi cam lai co vurng thuyen moi chay\" duqc trich tur tac pham nao cuaH6 Chi Minh?(073-356-8678",
+    "question": "Luan diem:\"Cach menh truoc het phai co cai gi?",
     "options": [
       "Ban an ché do thyc dan Phap",
       "Duong kachmenh",
@@ -10630,23 +10595,19 @@
   {
     "id": 631,
     "original_num": "Câu Bổ Sung #17",
-    "question": "tur turong HoChi Minhla nen tang tur tuong va kim chi nam cho hanh dong cua Dang ta Theo Tur turongHoChi Minh,van hoa co may churc nang chu yeu? (Kiuhoikhac:",
+    "question": "tur turong HoChi Minhla nen tang tur tuong va kim chi nam cho hanh dong cua Dang ta Theo Tur turongHoChi Minh,van hoa co may churc nang chu yeu?",
     "options": [
-      "Hai Theo tur turong HoChi Minh,vanhoaco churc nang:",
-      "Ba",
-      "Bon",
       "Boi durong tur turongdung danva tinh cam cao",
       "Nam depcho con nguroi.",
       "Nang cao dan tri.",
-      "Boidurong nhungphamchinhtotdep,nhuing phong cach,loisong lanhmanh,luonhurong con ngurorivuron toi cai chan,caithien，caimy，khong ngirng hoan thien ban than minh.",
-      "Tat ca cac phurong an. Theo Ho Chi Minh, de danh bai cac"
+      "Boidurong nhungphamchinhtotdep,nhuing phong cach,loisong lanhmanh,luonhurong con ngurorivuron toi cai chan,caithien，caimy，khong ngirng hoan thien ban than minh."
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 9,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -10767,23 +10728,19 @@
   {
     "id": 638,
     "original_num": "Câu Bổ Sung #24",
-    "question": "Ho Chi Minh lan dau tien dadua ra motdinhnghiavevanhoa trong tac (H6Chi Minh landau tienduaradinhnghiavanhoa pham nao? vao luc nao?",
+    "question": "Ho Chi Minh lan dau tien dadua ra motdinhnghiavevanhoa trong tac (H6Chi Minh landau tienduaradinhnghiavanhoa pham nao?",
     "options": [
-      "\"Ban an ché do thyc dan Phap\"",
-      "Vao thoi gian Bac  Phap",
-      "\"Durong Kach menh\"\"",
       "Vao thoidiem thanh lap Dang",
       "\"Nhat ky trong tu\"",
       "Vao thoi gian dang onha tuicuaTurong Gioi",
-      "\"Sira doi loi lam viec\" Thach",
-      "Vao thoi diem doc Tuyen Ngon Doc lap Cac bai giang cua Nguyen Ai Qu6c"
+      "\"Sira doi loi lam viec\" Thach"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 14,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -10809,44 +10766,38 @@
   {
     "id": 640,
     "original_num": "Câu Bổ Sung #26",
-    "question": "nghia TheoHoChi Minh,Daidoanket dan toc la nhiem vy hang dau cua Dang. (Kieuhoikhac:Theoturturong HoChi Minh thi doan dong thoi cuing la nhiem vy hang dau kettrurochetlaphaidoanketnhuthenao? cua:",
+    "question": "nghia TheoHoChi Minh,Daidoanket dan toc la nhiem vy hang dau cua Dang. (Kieuhoikhac:Theoturturong HoChi Minh thi doan dong thoi cuing la nhiem vy hang dau kettrurochetlaphaidoanketnhuthenao?",
     "options": [
-      "Toan dan",
-      "Moi giai doan cach mang.",
-      "Toan quan",
       "Toan quan.",
       "ToanDang",
       "Toan dan.",
       "Toan giai cap Trong cac luan diem sau day ve van"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 15,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
   {
     "id": 641,
     "original_num": "Câu Bổ Sung #27",
-    "question": "Trong cac luan diem sau day ve van hoa, luan diem nao Ho Chi Minh noi (Kieu hoi khac: ve tinh chat cua nen van hoa? Ho Chi Minh cho rang vanhoa co tinh:",
+    "question": "Trong cac luan diem sau day ve van hoa, luan diem nao Ho Chi Minh noi (Kieu hoi khac: ve tinh chat cua nen van hoa?",
     "options": [
-      "Dan toc,khoa hoc va dai chung",
-      "Dantoc,khoahocvanhandan",
       "Phai nang cao trinh do van hoa",
       "Dan toc,khoa hoc va nhan ban cua nhan dan",
       "Phai xay duyng mot nen van hoa dan toc,khoa hoc va dai chung",
-      "Van hoa cuing la mot mat tran",
-      "Xay dyrng chinh tri dan quyen"
+      "Van hoa cuing la mot mat tran"
     ],
-    "correctAnswer": 4,
+    "correctAnswer": 2,
     "page": 15,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      4
+      2
     ],
     "isMulti": false
   },
@@ -11075,7 +11026,7 @@
   {
     "id": 654,
     "original_num": "Câu Bổ Sung #40",
-    "question": "cac hoat dong kinh té, xa hoi va trong hoat dong cua kinh te,chinh tri,xa hoi cung phai co tinh than quoc té Ho Chi Minh durgc coi la linh hon cua cuoc khang chien chong Phap trong giai doan nao?(073-356-8678",
+    "question": "cac hoat dong kinh té, xa hoi va trong hoat dong cua kinh te,chinh tri,xa hoi cung phai co tinh than quoc té Ho Chi Minh durgc coi la linh hon cua cuoc khang chien chong Phap trong giai doan nao?",
     "options": [
       "1946-1954",
       "1945-1954",
@@ -11131,17 +11082,14 @@
   {
     "id": 657,
     "original_num": "Câu Bổ Sung #43",
-    "question": "Ho Chi Minh chi ro:\"O nuoc ta chinh quyen la cua nhan dan, do nhan dan (Kieu hoi khac:Theo quan diem Ho Chi Minh,khai lam chu. Nhan dan la (.) nam chinh quat dan chu coy nghiala gi? quyen. Nhan dan bau ra dai bieu thay",
+    "question": "Ho Chi Minh chi ro:\"O nuoc ta chinh quyen la cua nhan dan, do nhan dan  nam chinh quat dan chu coy nghiala gi?",
     "options": [
-      "Danlachuvadanlamchu mat minh thi hanh chinh quyen áy.",
       "Dan la nguroi chu Thé la dan chu\".",
       "Dan lam quan ly",
       "Ong chu",
-      "Dan lam nguroi chi",
-      "Nguoi dai dien",
-      "Cong boc Trong tur turong Ho Chi Minh, Mat tran"
+      "Dan lam nguroi chi"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "page": 22,
     "isSupplementary": true,
     "bank": "supplementary",
@@ -11210,7 +11158,7 @@
   {
     "id": 661,
     "original_num": "Câu Bổ Sung #47",
-    "question": "Theo Ho Chi Minh, trinh do van hoa cua nhan dan nang cao se giup cho chung ta day manh cong cuoc gi? Chon phurong an chinh xac nhat",
+    "question": "Theo Ho Chi Minh, trinh do van hoa cua nhan dan nang cao se giup cho chung ta day manh cong cuoc gi?",
     "options": [
       "Khoi phuc kinh té",
       "Khoi phuc kinh té, phat trien dan chu",
@@ -11253,10 +11201,7 @@
       "Mot Dang ma giau giem khuyet Dang theo tur turong Ho Chi Minh? diem cua minh la mot dang hong",
       "Mot Dang ma giau giem khuyet diem cua minh la",
       "Mot Dang ma giau giem khuyet mot dang hong diemcuaminhlamot dangcanphai",
-      "Mot Dang ma giau giém khuyét diem cua minh la xoa bo mot dang can phai xoa bo",
-      "Mot Dang ma giau giem khuyet",
-      "Mot Dang ma giau giem khuyet diem cua minh la diem cua minh la mot dang can phai mot dang can phai thay thé thay thé",
-      "Mot Dang ma giau giem khuyét diem cua minh la mot dang can phai thay doi Trong thoi gian o nuoc ngoai,"
+      "Mot Dang ma giau giém khuyét diem cua minh la xoa bo mot dang can phai xoa bo"
     ],
     "correctAnswer": 1,
     "page": 26,
@@ -11313,9 +11258,7 @@
       "Can,kiem,liem,chinh, chi cong vo thich cua H6Chi Minh ve can,kiem,liem,chinh.Hoi: tuP. Diem tom tat naodabi ghi nham noidung?",
       "Can, kiem, liem, chinh, sang suot.",
       "Can la lao dong can cu, sieng nang,lao dong co",
-      "Can, kiem,liem, chinh, ty do. ke hoach, sang tao va co nang suat lao dong cao... bai...",
-      "Liemla luon tontrong cuacongvacuia dan, khong thamtiencua，djavi,danhtieng.",
-      "Chinh la trong sach,khong tham lam dong xu, hat thoc cua nha nuoc,cua dan. Dau la chuan myc dao durc cach"
+      "Can, kiem,liem, chinh, ty do. ke hoach, sang tao va co nang suat lao dong cao... bai..."
     ],
     "correctAnswer": 2,
     "page": 28,
@@ -11631,20 +11574,17 @@
     "original_num": "Câu Bổ Sung #69",
     "question": "Trong tur turong Ho Chi Minh, dai doan ket dan toc: (H6Chi Minh dakhang dinhvi tri,vai tro cua dai doan ket toan dan toc nhur thenao?",
     "options": [
-      "La van de co ban quyet dinh thanh",
-      "Daidoanket toandantoclavandecoynghia cong cua cach mang. chienluroc,quyétdinh thanh cong cua cach",
-      "La van de co y nghia sach lurpc, mang quyét dinh thanh cong cuia cach",
       "Daidoanket toandantoclavandecoynghia mang. song con,quyet dinh thanh cong cachmang",
       "La van de co ban co y nghia chién",
       "Dai doanket toandan toc lavandec6y nghia luqc,quyét dinh thanh cong cua cach lich sur,quyet dinh thanh cong cuia cach mang mang.",
       "Dai doanket toandantoclavandecoynghia dacbietquan trong,quyet dinh thanh congcua cach Trong tu turong Ho Chi Minh, dai"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 37,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -11653,21 +11593,17 @@
     "original_num": "Câu Bổ Sung #70",
     "question": "dacbietquan trong,quyet dinh thanh congcua cach) Trong tu turong Ho Chi Minh, dai doan ket dan toc la: (Kieu hoi khac: Theo Ho Chi Minh,thyc hien dai doanket dan tocphai doanket durocvoiai?",
     "options": [
-      "Doan ket cong-nong.",
-      "Dai doankettoan dan",
-      "Doan két cong-nong-lao dong tri",
-      "Dai doan két toan két giai cap 6c.",
       "Dai doan ket rong rai",
       "Doan ket cong-nong va cac tang",
       "Doan ket voi cong nong lop xa hoi khac.",
       "Dai doan ket toan dan."
     ],
-    "correctAnswer": 7,
+    "correctAnswer": 3,
     "page": 37,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      7
+      3
     ],
     "isMulti": false
   },
@@ -11769,22 +11705,19 @@
   {
     "id": 690,
     "original_num": "Câu Bổ Sung #76",
-    "question": "Theo HoChi Minh,xaydyrngkhoi dai doan ket toan dande tap hop lyrc (Kieu hoikhac:Theo Ho Chi Minh,xay durng khoi dai lurong,khong dugc phep bo sot mot doankettoandanphaidungvung trenlaptrurong lyclurongnaomienkhonglaViet nao? gian, khong phan boi lai quyen lpi cua",
+    "question": "Theo HoChi Minh,xaydyrngkhoi dai doan ket toan dande tap hop lyrc (Kieu hoikhac:Theo Ho Chi Minh,xay durng khoi dai lurong,khong dugc phep bo sot mot doankettoandanphaidungvung trenlaptrurong lyclurongnaomienkhonglaViet nao?",
     "options": [
-      "Lap trurong giai cap cong nhan,giaiquyethai dan chung phai: hoamoiquanhegiaicap-dantoc",
-      "Durng vurng tren lap trurong nhan",
-      "Lap trurong giaicap tur san,iru tiendau tranh giai dan lao dong, giai quyét hai hoa m6i cap quan he giai cap - dan toc.",
       "Lap trupong giai cap nong dan,uru tien dau tranh",
       "Durngvurng tren lap trurong giai cap ruong dat nong dan, giai quyét hai hoa m6i",
       "Lap trurong tri thurc,uru tien phat trien khoa hoc quan he giai cap - dan toc. cong nghe",
       "Durng vurng tren lap trurong giai cap cong nhan,giai quyet hai hoa moi quan he giai cap- dan toc. Trong cac luan diem sau, luan diem"
     ],
-    "correctAnswer": 6,
+    "correctAnswer": 3,
     "page": 40,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      6
+      3
     ],
     "isMulti": false
   },
@@ -11812,21 +11745,17 @@
     "original_num": "Câu Bổ Sung #78",
     "question": "hoi tir phurong dien chinh tri la chu yéu Van dung tur turong Ho Chi Minh can phai nam vurng nguyen tac:",
     "options": [
-      "Quan diem lich sur thé gioi",
-      "Quan diem lich sir Viet Nam",
-      "Quan diem lich sur cu thé",
-      "Quan diem lich sur toan dien De tang cuong tinh nghiem minh cuia phap luat di doi voi day manh giao duc dao durc cach mang, Ho Chi Minh da ket két hop nhuan nhuyen gicra:",
       "\"durc tri\" va \"phap tri\".",
       "\"nhan tri\" va \"phap tri\".",
       "\"phap tri\" va \"tien le\".",
       "\"durc tri\" va \"tien le\"."
     ],
-    "correctAnswer": 6,
+    "correctAnswer": 2,
     "page": 41,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      6
+      2
     ],
     "isMulti": false
   },
@@ -11914,10 +11843,7 @@
       "Chang khac gi nhau Minh nhan dinh nhu the nao?",
       "Khac nhau",
       "Chang khac gi nhau",
-      "Rat dac biet",
-      "Khac nhau",
-      "Rat dac biet",
-      "Giong nhau"
+      "Rat dac biet"
     ],
     "correctAnswer": 2,
     "page": 43,
@@ -11931,7 +11857,7 @@
   {
     "id": 698,
     "original_num": "Câu Bổ Sung #84",
-    "question": "Theo Ho Chi Minh, tai sao phai doan AB ket quoc té?(Chon 2",
+    "question": "Theo Ho Chi Minh, tai sao phai doan AB ket quoc té?",
     "options": [
       "Nham ket hop surc manh dan toc va surc manh thoi dai, tao surc manh tong hop cho cach mang",
       "Gop phan cung nhan dan thé gioi thyrc hien cac muc tieu cach mang",
@@ -12100,7 +12026,7 @@
   {
     "id": 707,
     "original_num": "Câu Bổ Sung #93",
-    "question": "cong dong,lang nghe y kien cua cong dong Theo Ho Chi Minh, uru diem lon nhat cua chu nghia Tam dan cua Ton (Kieu hoi khac: \"Chu nghia ... co uru diem la chinh Trung Son la gi? sach cua no phuhopvoi dieu kien nuroc ta\"HoChi",
+    "question": "cong dong,lang nghe y kien cua cong dong Theo Ho Chi Minh, uru diem lon nhat cua chu nghia Tam dan cua Ton (Kieu hoi khac: \"Chu nghia ... co uru diem la chinh Trung Son la gi?",
     "options": [
       "Chong phong kién. Minhdangnoidenchunghianao?",
       "Dau tranh vi ty do, dan chu. =>Ton Dat Tien",
@@ -12195,7 +12121,7 @@
     "original_num": "Câu Bổ Sung #98",
     "question": "phap luat di doi voi giao duc dao durc cong - nong Luan diem\"Cong cuoc giai phong anh emchi co thethychienduqc bang sy no lyrc cua ban than anh em\"",
     "options": [
-      "C.Mac",
+      "Mac",
       "Ph. Angghen",
       "VILenin",
       "Ho Chi Minh"
@@ -12212,7 +12138,7 @@
   {
     "id": 713,
     "original_num": "Câu Bổ Sung #99",
-    "question": "Trong nhurng nhiem vy cap bach cua Nha nurocViet Nam Dan chu cong hoa,khi noi ve van de thur hai-nan dot,HoChi Minhdadenghimomot chién dich gi? Chon phurong an chinh",
+    "question": "Trong nhurng nhiem vy cap bach cua Nha nurocViet Nam Dan chu cong hoa,khi noi ve van de thur hai-nan dot,HoChi Minhdadenghimomot chién dich gi?",
     "options": [
       "Mot chien dich xay dyng doi song moi",
       "Mot chién dich de chong nan mu chup",
@@ -12231,16 +12157,12 @@
   {
     "id": 714,
     "original_num": "Câu Bổ Sung #100",
-    "question": "Ho Chi Minh tim thay con durong curu nuocgiaiphongdantoctrong thoiki (Kieuhoikhac:Giaidoan nao sau day hinh thanh co nao? banturturongHoChi Minhtrongviéctimthay con",
+    "question": "Ho Chi Minh tim thay con durong curu nuocgiaiphongdantoctrong thoiki (Kieuhoikhac:Giaidoan nao sau day hinh thanh co nao?",
     "options": [
       "Tup 1911 dén 1920 durong curunuroc,giai phong dan toc?",
       "Tur 1921 dén 1930",
       "1911 dén 1930",
-      "Tir 1890 den 1911",
-      "1911 dén 1920",
-      "Tir 1930 den1945",
-      "1911dén1935",
-      "1908 dén 1911 Khi noi ve Ho Chi Minh,bao Uruguay"
+      "Tir 1890 den 1911"
     ],
     "correctAnswer": 2,
     "page": 57,
@@ -12423,7 +12345,7 @@
   {
     "id": 724,
     "original_num": "Câu Bổ Sung #110",
-    "question": "nghe y kién nhan dan Trong Di chuc,khi noi ve nhung nguroi nan nhan cua che do xa hoi cu, nhu trom cap,gaidiém,cobac,buon lau, v.v., Ho Chi Minh da can dan Nha nuroc phai dung bien phap gi de cai tao, giup ho tr? nen nhung nguoi lao dong lurong thien",
+    "question": "nghe y kién nhan dan Trong Di chuc,khi noi ve nhung nguroi nan nhan cua che do xa hoi cu, nhu trom cap,gaidiém,cobac,buon lau, v.v., Ho Chi Minh da can dan Nha nuroc phai dung bien phap gi de cai tao, giup ho tr?",
     "options": [
       "Giao duc, phap luat",
       "Nhac nho, trurng phat",
@@ -12541,11 +12463,7 @@
       "Dam bao thong nhat nguyen tac",
       "Dam bao thong nhat gicr nguyen tac tinh dang va tinh Dang va tinh khoa hoc tinhkhoa hoc",
       "Dam bao thong nhat nguyen täc",
-      "Dam bao thong nhat tinh thyc churng va duy ly tinh Nha nuroc va tinh khoa hoc",
-      "Dam bao thong nhat gicra khoa hoc va thyc tien",
-      "Dam bao thong nhat nguyen tac",
-      "Dam bao tinh thyc chung va khoa hoc tinh Dang va tinh Nha nuoc",
-      "Dam bao thong nhat nguyen tac tinh triet hoc va tinh khoa hoc Ngoai ngur nao sau day durgc Ho Chi"
+      "Dam bao thong nhat tinh thyc churng va duy ly tinh Nha nuroc va tinh khoa hoc"
     ],
     "correctAnswer": 1,
     "page": 68,
@@ -12559,7 +12477,7 @@
   {
     "id": 731,
     "original_num": "Câu Bổ Sung #117",
-    "question": "tinh triet hoc va tinh khoa hoc Ngoai ngur nao sau day durgc Ho Chi Minh hoc dau tien? (TiengPhaplangoaingupmaBacHodurochocdau",
+    "question": "tinh triet hoc va tinh khoa hoc Ngoai ngur nao sau day durgc Ho Chi Minh hoc dau tien?",
     "options": [
       "Tiéng Anh tien,trencahaiphurong dienhocchuvahocn6i,",
       "Tiéng Phap con tiengTrungkhinhotuoithi Bacchi durochoc",
@@ -13010,23 +12928,19 @@
   {
     "id": 755,
     "original_num": "Câu Bổ Sung #141",
-    "question": "Luan diem naola cua Ho Chi Minh? (Kieuhoi khac:Dau la luandiem cuaHoChi Minh?",
+    "question": "Luan diem naola cua Ho Chi Minh?",
     "options": [
-      "Hay xoa bo tinh trang nguroi boc lot",
-      "Hayxoabotinh trangnguroi b6clot nguroi thi tinh nguoi thi tinh trang dan toc nay b6c trang dantocnayboc lot dantockhacsebi xoa lot dan tockhac se bi xoa bo.",
-      "Khimasyrdoikhanggiuracacgiaicaptrongnoi",
-      "Khi ma sy doi khang gidra cac giai bodantockhongconnirathisyr thudichgiüra cac cap trong noi bo dan toc khong con dan toc cuing dong thoi mat theo. nüra thi sy thu dich gicra cac dan toc",
       "Giaiphong dantocganvoigiaiphong giai cung dong thoi mat theo. cap,trongd6giaiphongdantoclatrurochet,",
       "Giai phong giai cap la nhiem vu trenhét trung tam, la dieu kien de giai phong",
       "Giaiphong giaicaplanhiemvu hang dau,la dieu dan toc. kien tien quyet trong giai phong dan toc.",
       "Trong dieu kien cac nuoc thuoc dia thi giaiphong dan toclacoso de giai phong giai cap, giai phong con nguroi. Trong cac quan diem duoi day, dau la"
     ],
-    "correctAnswer": 7,
+    "correctAnswer": 3,
     "page": 79,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      7
+      3
     ],
     "isMulti": false
   },
@@ -13126,23 +13040,19 @@
   {
     "id": 761,
     "original_num": "Câu Bổ Sung #147",
-    "question": "Giai doan nao sau day tu turong H6 Chi Minh tiép tuc phat trien, hoan (Kieu hoi khac: Giai doan nao sau day Ho Chi Minh thien? bo sung va hoan thien tu turong cua minh?",
+    "question": "Giai doan nao sau day tu turong H6 Chi Minh tiép tuc phat trien, hoan (Kieu hoi khac: Giai doan nao sau day Ho Chi Minh thien?",
     "options": [
-      "1945 dén 1960",
-      "1911 den 1920",
-      "1930 dén 1969",
       "1930 dén 1969",
       "1945 dén 1969",
       "1941 den 1969",
-      "1930 dén 1945",
-      "1921 dén 1930 Giai doannao saudayhinh thanh tu"
+      "1930 dén 1945"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 81,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -13187,18 +13097,14 @@
   {
     "id": 764,
     "original_num": "Câu Bổ Sung #150",
-    "question": "Nam Trong tur turong Ho Chi Minh, lyrc lurong nao la chu the cua khoi dai (Kieu hoi khac:Trong tur turong HoChi Minh,lyc doan ket dan toc? lurong nao la chu the cua kh6i dai doan ket dan toc?",
+    "question": "Nam Trong tur turong Ho Chi Minh, lyrc lurong nao la chu the cua khoi dai (Kieu hoi khac:Trong tur turong HoChi Minh,lyc doan ket dan toc?",
     "options": [
-      "Cong nhan",
       "Cong nhan",
       "Cong-nong",
       "Toan the nhan dan",
-      "Nhan dan",
-      "Nhan dan",
-      "Khong xac dinh lyrc lurong chu the",
-      "Khong xac dinh lyrc lurong chu the"
+      "Nhan dan"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "page": 82,
     "isSupplementary": true,
     "bank": "supplementary",
@@ -13287,20 +13193,17 @@
     "original_num": "Câu Bổ Sung #155",
     "question": "H6 Chi Minh vi tham nhung nhu (Kieuhoi khac:Theo H6 Chi Minh,tham6,lang phi",
     "options": [
-      "Ngoai xam duroc vi nhur giacgi?",
-      "My",
-      "Ngoai xam",
       "Noi xam",
       "Noixam",
       "My",
       "Giac dot"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 84,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -13309,15 +13212,12 @@
     "original_num": "Câu Bổ Sung #156",
     "question": "HoChinhMinh chorang curviet len tran hai chur cong san la",
     "options": [
-      "Dan yeu dan mén",
       "Dan kham phuc",
       "Dan tin Yéu to nao sau day anh hurong den sy hinh thanh tur turong Ho Chi Minh:",
       "Ly luan va kinh nghiem cac cuoc cach mang dien hinh phuong Tay",
-      "Kinh nghiem cac cuoc cach mang dienhinhophurong Dong",
-      "Ly luan va thyrc tien cac cuoc cach mang dien hinh tren the gioi",
-      "Bai hoc xurong mau cua cach mang Viet Nam Ho Chi Minh nhac can bo nha nuoc"
+      "Kinh nghiem cac cuoc cach mang dienhinhophurong Dong"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "page": 85,
     "isSupplementary": true,
     "bank": "supplementary",
@@ -13407,9 +13307,9 @@
     "question": "Bao Le Paria (Nguoi Cung kho) do Nguyen Ai Quoc dong sang lap, ra s6 dau tien khi nao?",
     "options": [
       "30/12/1920",
-      "1/4/1921",
-      "1/4/1922",
-      "1/4/1923"
+      "1921",
+      "1922",
+      "1923"
     ],
     "correctAnswer": 2,
     "page": 88,
@@ -13482,21 +13382,17 @@
     "original_num": "Câu Bổ Sung #165",
     "question": "Theo Ho Chi Minh,mot trong nhung dac diem cua Nha nuoc phap quyen",
     "options": [
-      "Nguyen tac co ban cua Nha nuroc lahiepthuong danchu",
-      "Nha nuoc lanh dao nhan dan thyc hien cac nhiem vy cach mang",
-      "Sy lanh dao cua Dang d6i voi Nha nuoc",
-      "Nha nuroc hop hién, hop phap Ho Chi Minh cho rang:",
       "Chu nghia dan toc la dong lyc lon cua dat nuoc.",
       "Chu nghia dan toc la khat khao lon cua dat nuoc.",
       "Chu nghia dan toc la muc tieu lon cua dat nuoc.",
       "Chu nghia dan toc la chién luroc hang dau cua cach mang. Hay chon phurong an dung nhat Ho"
     ],
-    "correctAnswer": 7,
+    "correctAnswer": 3,
     "page": 92,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      7
+      3
     ],
     "isMulti": false
   },
@@ -13543,21 +13439,17 @@
     "original_num": "Câu Bổ Sung #168",
     "question": "cacvandexahoicanthiet Theo tu tuong Ho Chi Minh,Dang Cong SanViet Nam la Dang cam (Kieu hoi khac;Trong Di chuc,Nguroi viet:“Dang ta quyen, vi vay, moi can bo dang vien lamotDangcamquyen.Moidangvienvacanbo can phai: phaithatsuthamnhuan..,thatsycankiemliem",
     "options": [
-      "Het long phuc vu giai cap cong chinh,chicongvotur.Haydientircon thiéuvaodau nhan ...?",
-      "Ra surc hoc tap,trau doi chuyen",
-      "Tur turong cach mang mon,trinh do",
       "Cach thurc cach mang",
       "Thyrc hien tham nhuandao durc",
       "Dao dirc cach mang cach mang, can, kiem, liem, chinh,",
-      "Phurong phap cach mang chi cong vo tur",
-      "Xay dyng khoi dai doan két dan toc Diem khac nhau trong tur turong va"
+      "Phurong phap cach mang chi cong vo tur"
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 93,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -13776,9 +13668,7 @@
       "Syra doicua CNXH oViet Nam la",
       "Syra doicuaCNxH tren phamviquocte la san pham tat yéucuaqua trinhphat quy luatphat triencua lichsipxahoi trien lich sur,qua trinh cach mang Viet",
       "Suy ra doi cua CNXH tren pham vi qu6c te la quy Nam. luatphattriencuanhanloai",
-      "Sy ra doi cua CNXH o Viet Nam la",
-      "Syr ra doi cua CNXH tren pham vi quoc té la quy san pham tat yéu cua qua trinh phat luat phat triencua lich sipthe gioi trien lich sir,qua trinh cach mang thé giori",
-      "Sy ra doi cua CNXH o Viet Nam la san pham tat yéu cua qua trinh phat trien lich su,qua trinh cach mang Dong Nam A. Trong xay dyng chu nghia xa hoi, Ho"
+      "Sy ra doi cua CNXH o Viet Nam la"
     ],
     "correctAnswer": 1,
     "page": 113,
@@ -13873,11 +13763,7 @@
       "Dang lanh dao",
       "Giaicapnong danvacongnhanlanhdao",
       "Giai cap cong nhan lanh dao",
-      "Giai cap cong nhanlanhdao",
-      "Tang lop tri thurc lanh dao",
-      "Tang lop tri thurc lanh dao",
-      "Cong -nong -tri lanh dao",
-      "Giai cap nong dan lanh dao Noi dungnaokhong co trong cach"
+      "Giai cap cong nhanlanhdao"
     ],
     "correctAnswer": 1,
     "page": 120,
@@ -13910,15 +13796,12 @@
   {
     "id": 801,
     "original_num": "Câu Bổ Sung #187",
-    "question": "nguyen tac hiep thurong quan chung Dau la nguyen tac doan két quoc té trong tur turong Ho Chi Minh? (Kieu hoi khac: Noi dung lon trong xay dung nguyen tac doan két quoc te cua Ho Chi Minh la gi?",
+    "question": "nguyen tac hiep thurong quan chung Dau la nguyen tac doan két quoc té trong tur turong Ho Chi Minh?",
     "options": [
       "Doan ket tren co so thong nhat",
       "Doan ket tren co so thong nhat muc tieu, va loi muc tieu va lpi ich, co ly, co tinh. ich co ly,co tinh",
       "Doan ket tren co' so thong nhat",
-      "Doan ket tren co' sodan chu muctieudoc lap cua dantocminhva",
-      "Hop tac quoc té tréen co so gir virng toan ven myc tieu cua nhan loai lanh tho",
-      "Doan két tren co so thong nhat",
-      "Két hop surc manh dan toc va surc manh thoi dai muc tiéu va muc dich, co ly, co tinh."
+      "Doan ket tren co' sodan chu muctieudoc lap cua dantocminhva"
     ],
     "correctAnswer": 1,
     "page": 131,
@@ -13934,27 +13817,24 @@
     "original_num": "Câu Bổ Sung #188",
     "question": "Khau hieu chien lurpc: \"Giai cap vo san tat ca cac nuroc va cac dan toc bi (Kieuhoi khac:Khau hieu chién luroc:\"V6 san toan ap burc, doan két lai\" la cua: thegioiva cac dantoc biapburc,doanket lai\"la cua ai?",
     "options": [
-      "C.Mac",
-      "Ph. Angghen",
-      "V.l.Lenin",
       "Ho Chi Minh Theo Ho Chi Minh, xay dyng nha nuroc trong sach vurng manh can phai:",
       "Tang curong tinh nghiem minh cua phapluat didoivoigiaoducdaodurc cach mang",
       "Tang curong tinh nghiem minh cua phapluat didoivoi giaoducdaodurc can bo",
       "Tang curong tinh nghiemminh cua phap luat didoi voi giao duc daodurc quan chung Dau la quan diem cua Ho Chi Minh"
     ],
-    "correctAnswer": 6,
+    "correctAnswer": 3,
     "page": 132,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      6
+      3
     ],
     "isMulti": false
   },
   {
     "id": 803,
     "original_num": "Câu Bổ Sung #189",
-    "question": "phap luat didoi voi giao duc daodurc quan chung Dau la quan diem cua Ho Chi Minh ve xay dyng nha nuoc co hieu luyc (Kieu hoi khac:Trong Tur turong Ho Chi Minh nha phap ly manh me? nurocthurong tonphapluatquanlydat nurocbang: ->HiénphapvaPhapluat",
+    "question": "phap luat didoi voi giao duc daodurc quan chung Dau la quan diem cua Ho Chi Minh ve xay dyng nha nuoc co hieu luyc (Kieu hoi khac:Trong Tur turong Ho Chi Minh nha phap ly manh me?",
     "options": [
       "Hoat dong quan ly nha nuroc bang Hién phap va phap luat, chu trong dura phap luat vao cuoc song.",
       "Hoat dong quan ly nha nuocbang quy dinh va dao luat, chu trong dua quy dinh vao cuoc song.",
@@ -13993,19 +13873,17 @@
     "original_num": "Câu Bổ Sung #191",
     "question": "xahoi khong co su phan chia giai cap Theo Ho Chi Minh, dan lam chu nghia la:",
     "options": [
-      "De cap toi nang lyc cua dan",
-      "Decaptoi trachnhiemcua dan",
       "Tat ca cac phurong an Theo Ho Chi Minh, ky curong, phep nuoc thoi nao cung luon durgc de cao va phai duoc ap dung cho tat ca moi nguoi. Tur do Nguoi dua ra yeu cau:",
       "Phap luat phai thang tay trirng tri nhurng kebat liem,bat kykeay odia vi nao, lam nghe nghiep gi.",
       "Phai cam hoa nhurng nguoi c6 l6i lam, keo ho di voi cach mang, giao duc nhurng nguroi mackhuyet diem de ho tranh pham phap.",
       "Tat ca cac phurong an."
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 3,
     "page": 134,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      3
     ],
     "isMulti": false
   },
@@ -14036,10 +13914,7 @@
       "Gir gin surc manh dan toc",
       "Co so cho viec thyc hien doan ket",
       "Gir gin surcmanh thoi dai quoc te.",
-      "Tang curong surc manh thoi dai",
-      "Cho dua cho viec thyc hien doan",
-      "Tao sircmanh tong hop chocach mang chien két quoc te. thang ke thu",
-      "Cho durng cho viec thyc hien doan két quoc té Theo Ho Chi Minh,Mat tran dan toc"
+      "Tang curong surc manh thoi dai"
     ],
     "correctAnswer": 1,
     "page": 142,
@@ -14053,15 +13928,12 @@
   {
     "id": 808,
     "original_num": "Câu Bổ Sung #194",
-    "question": "chinh dang nao khac. Trong tur turong Ho Chi Minh, Dang lanh dao nha nuocbang:",
+    "question": "Trong tư tưởng Hồ Chí Minh, Đảng lãnh đạo nhà nước bằng:",
     "options": [
-      "Durong loi, quan diem, chu trurong",
-      "Phap luat, chinh sach, ké hoach",
-      "Tat ca cac phurong an Theo Ho Chi Minh,Dang lanh dao Nha nuoc bang phurong thurc nao?",
-      "Duong l6i, chu truong, chinh sach.",
-      "Qua cac to churc Dang, dang vien trongbo may nha nuroc.",
-      "Bang cong tac kiem tra.",
-      "Tat ca cac phurong an. Ho Chi Minh la da tryrc tiép chi dao"
+      "Đường lối, quan điểm, chủ trương",
+      "Pháp luật, chính sách, kế hoạch",
+      "Qua các tổ chức Đảng, đảng viên trong bộ máy nhà nước",
+      "Tất cả các phương án trên"
     ],
     "correctAnswer": 3,
     "page": 144,
@@ -14096,21 +13968,17 @@
     "original_num": "Câu Bổ Sung #196",
     "question": "\"Viec gi da durgc dong nguoi ban bac ky lurong roi,ke hoach dinh ro rang roi, thi can phai giao cho mot nguroi hoac mot nhom it nguoi phy trach theo ké hoach d6 ma thi hanh. Nhup the moi co chuyen trach,cong viec moi chay. Néu khong co ....thi se sinh cai te nguoi nay uy cho nguoikia,nguroi kia uy cho nguoino,ket qua la khong ai thi hanh. Nhu the thi viec gi cung khong xong\"",
     "options": [
-      "Tap the lanh dao",
-      "Ca nhan phy trach",
-      "Ca nhan lanh dao",
       "Tap the phy trach Theo Ho Chi Minh, Dang lanh dao phai bang:",
       "Menh lenh,doi hoi,yeu cau dan chung.",
       "Day do, chi bao dan chung.",
-      "Giao duc, thuyet phuc, tuyen truyen, giac ngo dan chung.",
-      "Phap luat, ky luat doi voi dan chung. Theo tur turong Ho Chi Minh, Dang"
+      "Giao duc, thuyet phuc, tuyen truyen, giac ngo dan chung."
     ],
-    "correctAnswer": 5,
+    "correctAnswer": 2,
     "page": 153,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      5
+      2
     ],
     "isMulti": false
   },
@@ -14119,19 +13987,17 @@
     "original_num": "Câu Bổ Sung #197",
     "question": "hop durgc voi phong trao cong nhan. Theo Ho Chi Minh,noi dung quy dinh ban chat giai cap cong nhan la:",
     "options": [
-      "S6 lurong dang vien xuat than tur giai cap cong nhan.",
-      "Nen tang ly luan va tu turong cua Dang la chu nghia Mac - Lenin.",
       "Tat ca cac phuong an Theo Ho Chi Minh, La nguroi lanh dao, nhung Dang phai sau sat, gan b6 mat thiét voi nhan dan, lang nghe ykién cua nhan dan,khiem ton hoc hoi nhan dan va:",
       "Phaikhong durpc kiem soat nhan dan.",
       "Phai kiem soat durgc nhan dan.",
       "Phai chju sy kiem soat cua nhan dan."
     ],
-    "correctAnswer": 4,
+    "correctAnswer": 2,
     "page": 157,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      4
+      2
     ],
     "isMulti": false
   },
@@ -14404,7 +14270,7 @@
   {
     "id": 826,
     "original_num": "Câu Bổ Sung #212",
-    "question": "phan dong,curong hao gian ac va nhurng ke chong lai ho?c pha hoai cai cach ruong dat Dau la nguyen tac doan két quoc té trong tur turong Ho Chi Minh",
+    "question": "phan dong,curong hao gian ac va nhurng ke chong lai ho?",
     "options": [
       "Dam bao muc tieu doc lap cua dan toc minh va muc tieu thoi dai.",
       "Dambaomuc tieu doc lap cua dan toc minh va muc tieu cua nhan loai",
@@ -14840,7 +14706,7 @@
     "original_num": "Câu Bổ Sung #235",
     "question": "Luan diem \"Khong co sy dong tinh ung ho cua dai da so nhan dan lao dong doi voi doitien phong cua minh turc la d6ivoi giai capvo san,thi cach mang vo san khong the thyc hien dugc\"la cua ai?",
     "options": [
-      "C.Mac",
+      "Mac",
       "Ph. Angghen",
       "VI Lenin",
       "Ho Chi Minh"
@@ -14881,7 +14747,7 @@
       "19/5/1941",
       "19/5/1930",
       "26/3/1941",
-      "3/9/1945 Theo HoChi Minh cho rang dao durc"
+      "9/1945 Theo HoChi Minh cho rang dao durc"
     ],
     "correctAnswer": 0,
     "page": 187,
@@ -15199,7 +15065,7 @@
   {
     "id": 868,
     "original_num": "Câu Bổ Sung #254",
-    "question": "Lyra chon cum tur dung dien vao cho trong:\"Ho Chi Minh cho rang, d6i voi cac dan toc phurong Dong von... viec tu durong dao durc cua moi ca nhan, m?i con nguroi co vai tro vo cung ....\" [Giao trinh Tu turong H Chi Minh (Danh cho bac dai hoc khong chuyen ly luan chinh tri), Nxb. CTQG Syr that,H, 2021.Tr 136]",
+    "question": "Lyra chon cum tur dung dien vao cho trong:\"Ho Chi Minh cho rang, d6i voi cac dan toc phurong Dong von... viec tu durong dao durc cua moi ca nhan, m?",
     "options": [
       "Giau tinh cam, trong dao ly;quan trong",
       "Giau tinh cam,trong tinh nghia. quantrong",
@@ -15220,21 +15086,17 @@
     "original_num": "Câu Bổ Sung #255",
     "question": "nghia Trong Chanh curong van tat cua Dang nam 1930,H6 Chi Minh cung da xac dinh muc tieu chinh tri cua Dang la?",
     "options": [
-      "\"Danh do de quoc chu nghia Phap\"",
-      "\"Lam cho nuroc Nam duroc hoan toan doc lap\"",
-      "\"Danh d6 dé qu6c chu nghia Phap va bon phong kién\"",
-      "\"Danh do dé quoc chu nghia Phap va bon phong kién. Lam cho nuroc Nam dugc hoan toan doc lap\" Theo Ho Chi Minh,van hoa phai sura ABC doi durgc nhung thoi xau nao?",
       "Tham nhung",
       "Luroi biéng",
       "Phu hoa, xa xi",
       "Tam ly tieu nong"
     ],
-    "correctAnswer": 7,
+    "correctAnswer": 3,
     "page": 196,
     "isSupplementary": true,
     "bank": "supplementary",
     "correctAnswers": [
-      7
+      3
     ],
     "isMulti": false
   },
@@ -15357,7 +15219,7 @@
     "original_num": "Câu Bổ Sung #262",
     "question": "Ho Chi Minhra Loi keu goi toan quoc khang chienvao thoi giannao?",
     "options": [
-      "2/9/1945",
+      "9/1945",
       "19/12/1946",
       "12/9/1946",
       "12/1/1945 Tac pham nao cua Ho Chi Minh durqc"

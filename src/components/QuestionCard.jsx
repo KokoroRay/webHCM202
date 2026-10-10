@@ -144,7 +144,7 @@ export default function QuestionCard({
                     style={{ fontSize: `${fontSize - 1}px` }}
                   >
                     <strong className="mr-1.5 font-bold text-slate-900">{optionLetters[optIdx]}.</strong>
-                    {optText}
+                    {optText.replace(/^\s*([a-dA-D1-4])[\.\,\:\/\s\-\)]\s*/, '')}
                   </span>
 
                   {icon}

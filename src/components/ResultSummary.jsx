@@ -311,7 +311,7 @@ export default function ResultSummary({
                           className={`p-2.5 rounded-lg border flex items-start gap-2.5 ${rowStyle}`}
                         >
                           <span className="font-bold shrink-0">{optionLetters[optIdx]}.</span>
-                          <span className="flex-1">{opt}</span>
+                          <span className="flex-1">{opt.replace(/^\s*([a-dA-D1-4])[\.\,\:\/\s\-\)]\s*/, '')}</span>
                           {isCorrectOpt && isUserOpt && (
                             <span className="text-[11px] font-bold text-emerald-700 bg-white px-2 py-0.5 rounded shrink-0 shadow-xs">
                               ✓ Lựa chọn chính xác

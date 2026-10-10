@@ -89,8 +89,7 @@
       "Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược quyết định thành công của cách mạng.",
       "Chủ thể của khối đại đoàn kết toàn dân tộc là toàn dân.",
       "Nền tảng của khối đại đoàn kết toàn dân tộc là nông dân, công nhân và các tầng lớp nhân dân lao động khác.",
-      "Phải xây dựng trên nền tảng liên minh công nhân-nông dân-trí thức đặt dưới sự lãnh đạo của Đảng.",
-      "Tất cả phương án trên."
+      "Phải xây dựng trên nền tảng liên minh công nhân-nông dân-trí thức đặt dưới sự lãnh đạo của Đảng."
     ],
     "correctAnswer": 0,
     "page": 1,
@@ -306,7 +305,7 @@
   {
     "id": 19,
     "original_num": "Câu 19",
-    "question": "Theo Hồ Chí Minh,đánh giá cán bộ phải tiến hành như thế nào? (câu đúng nhất)",
+    "question": "Theo Hồ Chí Minh,đánh giá cán bộ phải tiến hành như thế nào?",
     "options": [
       "Tiến hành thường xuyên.",
       "Khách quan, trung thực"
@@ -1035,8 +1034,7 @@
       "Khi Bác lên tàu từ bến Nhà Rồng năm 1911.",
       "Khi Bác tham gia sáng lập Đảng cộng sản Pháp tại Đại hội Tua 12/1920.",
       "Tại hội nghị Vécxay (Pháp) ngày 18/6/1919.",
-      "Khi Bác sang Liên Xô làm việc ở Ban phương Đông của Quốc tế Cộng sản tháng",
-      "1923."
+      "Khi Bác sang Liên Xô làm việc ở Ban phương Đông của Quốc tế Cộng sản tháng"
     ],
     "correctAnswer": 2,
     "page": 11,
@@ -3535,7 +3533,7 @@
   {
     "id": 212,
     "original_num": "Câu 212",
-    "question": "Luận điểm: Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp ở mọi nơi. Đảng có vững thì cách mạng mới thành công, cũng như người cầm lái có vững thuyền mới chạy. Được trích từ tác phẩm nào của Hồ Chí Minh?",
+    "question": "Luận điểm: Cách mệnh trước hết phải có cái gì?",
     "options": [
       "Bản án chế độ thực dân Pháp",
       "Đường cách mệnh",
@@ -6597,7 +6595,7 @@
   {
     "id": 397,
     "original_num": "Câu 397",
-    "question": "Theo tư tưởng Hồ Chí Minh, con người Việt Nam trong thời đại mới phải có:",
+    "question": "Theo tư tưởng Hồ Chí Minh, con người Việt Nam trong thời đại mới phải có bao nhiêu phẩm chất cơ bản?",
     "options": [
       "3 phẩm chất cơ bản",
       "4 phẩm chất cơ bản",
@@ -6765,9 +6763,9 @@
     "original_num": "Câu 407",
     "question": "Nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh gồm:",
     "options": [
-      "2 nguyên tắc.",
-      "3 nguyên tắc.",
-      "4 nguyên tắc.",
+      "nguyên tắc.",
+      "nguyên tắc.",
+      "nguyên tắc.",
       "5 nguyên tắc."
     ],
     "correctAnswer": 2,
@@ -7217,7 +7215,7 @@
   {
     "id": 434,
     "original_num": "Câu 434",
-    "question": "Theo Hồ Chí Minh, Nhà nước do dân tạo ra và nhân dân tham gia quản lý là ở chỗ: Toàn bộ công dân bầu ra … cơ quan quyền lực cao nhất của Nhà nước, cơ quan duy nhất có quyền lập pháp. Từ còn thiếu là?",
+    "question": "Theo Hồ Chí Minh:",
     "options": [
       "Đảng",
       "Nhà nước",
@@ -7353,10 +7351,9 @@
   {
     "id": 442,
     "original_num": "Câu 442",
-    "question": "Chọn câu trả lời đúng nhất theo TTHCM: ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam ĐCS Việt Nam là của giai cấp công nhân. ĐCS Việt Nam là của nhân dân lao động. ĐCS Việt Nam là của dân tộc Việt Nam.",
+    "question": "Chọn câu trả lời đúng nhất theo TTHCM:",
     "options": [
-      "ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân",
-      "tộc Việt Nam",
+      "ĐCS Việt Nam là Đảng của giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam",
       "ĐCS Việt Nam là của giai cấp công nhân.",
       "ĐCS Việt Nam là của nhân dân lao động.",
       "ĐCS Việt Nam là của dân tộc Việt Nam."
@@ -7371,7 +7368,7 @@
   {
     "id": 443,
     "original_num": "Câu 443",
-    "question": "Nguyên tắc xây dựng Đảng kiểu mới theo TTHCM là: Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách. Tự phê bình và phê bình. Đoàn kết thống nhất trong Đảng. Các nhận định trên đúng.",
+    "question": "Nguyên tắc xây dựng Đảng kiểu mới theo TTHCM là:",
     "options": [
       "Tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách.",
       "Tự phê bình và phê bình.",
@@ -7388,7 +7385,7 @@
   {
     "id": 444,
     "original_num": "Câu 444",
-    "question": "ĐCS Việt Nam trở thành Đảng cầm quyền năm nào? Năm 1945. Năm 1930. Năm 1975. Năm 1954.",
+    "question": "ĐCS Việt Nam trở thành Đảng cầm quyền năm nào?",
     "options": [
       "Năm 1945.",
       "Năm 1930.",
@@ -7405,9 +7402,8 @@
   {
     "id": 445,
     "original_num": "Câu 445",
-    "question": "Theo TTHCM, ĐCS Việt Nam ra đời là sản phẩm của sự kết hợp CNMLN với phong trào công nhân và phong trào yêu nước là: Xác định nguồn gốc ra đời của đảng. Xác định nhiệm vụ của Đảng. Xác định bản chất của đảng. Xác định năng lực của đảng.",
+    "question": "Theo TTHCM, ĐCS Việt Nam ra đời là sản phẩm của sự kết hợp CNMLN với phong trào công nhân và phong trào yêu nước là:",
     "options": [
-      "với phong trào công nhân và phong trào yêu nước là:",
       "Xác định nguồn gốc ra đời của đảng.",
       "Xác định nhiệm vụ của Đảng.",
       "Xác định bản chất của đảng.",
@@ -7423,7 +7419,7 @@
   {
     "id": 446,
     "original_num": "Câu 446",
-    "question": "Theo TTHCM, ĐCS Việt Nam lấy CNMLN làm cốt có nghĩa là: ĐCS Việt Nam lấy CNMLN làm nền tảng tư tưởng. ĐCS Việt Nam lấy CNMLN làm chủ trương đường lối. ĐCS Việt Nam lấy CNMLN làm học thuyết của đảng. ĐCS Việt Nam lấy CNMLN làm lãnh đạo của đảng.",
+    "question": "Theo TTHCM, ĐCS Việt Nam lấy CNMLN làm cốt có nghĩa là:",
     "options": [
       "ĐCS Việt Nam lấy CNMLN làm nền tảng tư tưởng.",
       "ĐCS Việt Nam lấy CNMLN làm chủ trương đường lối.",
@@ -7457,7 +7453,7 @@
   {
     "id": 448,
     "original_num": "Câu 448",
-    "question": "Theo Hồ Chí Minh Đảng phải thường xuyên đổi mới chỉnh đốn về mặt: Chính trị, tư tưởng và tổ chức Chính trị. Tổ chức. Tư tưởng",
+    "question": "Theo Hồ Chí Minh Đảng phải thường xuyên đổi mới chỉnh đốn về mặt:",
     "options": [
       "Chính trị, tư tưởng và tổ chức",
       "Chính trị.",
@@ -7474,7 +7470,7 @@
   {
     "id": 449,
     "original_num": "Câu 449",
-    "question": "Công dân Việt Nam bao nhiêu tuổi trở lên có quyền bầu cử Quốc hội? 18 tuổi 19 tuổi 20 tuổi 21 tuổi",
+    "question": "Công dân Việt Nam bao nhiêu tuổi trở lên có quyền bầu cử Quốc hội?",
     "options": [
       "18 tuổi",
       "19 tuổi",
@@ -7491,9 +7487,8 @@
   {
     "id": 450,
     "original_num": "Câu 450",
-    "question": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành dựa trên cơ sở nào? Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam Từ quan điểm của chủ nghĩa Mác –Lênin về vai trò của quần chúng nhân dân Từ thực tiễn thành công và thất bại của phong trào cách mạng Việt Nam và thế giới Tất cả các phương án đều đúng.",
+    "question": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành dựa trên cơ sở nào?",
     "options": [
-      "cơ sở nào?",
       "Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam",
       "Từ quan điểm của chủ nghĩa Mác –Lênin về vai trò của quần chúng nhân dân",
       "Từ thực tiễn thành công và thất bại của phong trào cách mạng Việt Nam và thế giới",
@@ -7509,7 +7504,7 @@
   {
     "id": 451,
     "original_num": "Câu 451",
-    "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất là: Tổ chức của các tầng lớp nhân dân. Tổ chức của công nhân và nông dân Tổ chức của giai cấp công nhân. Tổ chức của giai cấp nông dân.",
+    "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất là:",
     "options": [
       "Tổ chức của các tầng lớp nhân dân.",
       "Tổ chức của công nhân và nông dân",
@@ -7526,7 +7521,7 @@
   {
     "id": 452,
     "original_num": "Câu 452",
-    "question": "Trong tư tưởng Hồ Chí Minh đại đoàn kết dân tộc là: Là mục tiêu, nhiệm vụ hàng đầu của cách mạng, của dân tộc. Là mục tiêu của cách mạng Là nhiệm vụ quan trọng nhất của cách mạng. Là nhiệm vụ hàng đầu của cách mạng.",
+    "question": "Trong tư tưởng Hồ Chí Minh đại đoàn kết dân tộc là:",
     "options": [
       "Là mục tiêu, nhiệm vụ hàng đầu của cách mạng, của dân tộc.",
       "Là mục tiêu của cách mạng",
@@ -7543,7 +7538,7 @@
   {
     "id": 453,
     "original_num": "Câu 453",
-    "question": "Hồ Chí Minh đưa ra mấy quan điểm chủ yếu về văn hóa, văn nghệ? 03 quan điểm. 02 quan điểm 04 quan điểm. 05 quan điểm",
+    "question": "Hồ Chí Minh đưa ra mấy quan điểm chủ yếu về văn hóa, văn nghệ?",
     "options": [
       "03 quan điểm.",
       "02 quan điểm",
@@ -7560,7 +7555,7 @@
   {
     "id": 454,
     "original_num": "Câu 454",
-    "question": "Hình thức tổ chức của khối đại đoàn kết dân tộc là: Mặt trận dân tộc thống nhất. Liên minh công nông. Tổ chức của giai cấp nông dân. Tổ chức của giai cấp công nhân.",
+    "question": "Hình thức tổ chức của khối đại đoàn kết dân tộc là:",
     "options": [
       "Mặt trận dân tộc thống nhất.",
       "Liên minh công nông.",
@@ -7577,25 +7572,24 @@
   {
     "id": 455,
     "original_num": "Câu 455",
-    "question": "Hiến pháp nào thể hiện rõ  nhất tư tưởng dân chủ của Hồ Chí Minh, đặt cơ sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân? Hiến pháp năm 1946. Hiến pháp năm 1959 Hiến pháp năm 1980 Hiến pháp năm 1992",
+    "question": "Hiến pháp nào thể hiện rõ nhất tư tưởng dân chủ của Hồ Chí Minh, đặt cơ sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân?",
     "options": [
-      "sở pháp lý đầu tiên cho việc thực hiện quyền lực của nhân dân?",
       "Hiến pháp năm 1946.",
-      "Hiến pháp năm 1959",
-      "Hiến pháp năm 1980",
-      "Hiến pháp năm 1992"
+      "Hiến pháp năm 1959.",
+      "Hiến pháp năm 1980.",
+      "Hiến pháp năm 1992."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 76,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 456,
     "original_num": "Câu 456",
-    "question": "Đảng cộng sản Việt Nam lúc mới thành lập có tên là: Đảng cộng sản Việt Nam. Đảng cộng sản Đông Dương. Đảng lao động Việt Nam. Đông Dương cộng sản liên đoàn.",
+    "question": "Đảng cộng sản Việt Nam lúc mới thành lập có tên là:",
     "options": [
       "Đảng cộng sản Việt Nam.",
       "Đảng cộng sản Đông Dương.",
@@ -7612,13 +7606,12 @@
   {
     "id": 457,
     "original_num": "Câu 457",
-    "question": "Theo tư tưởng Hồ Chí Minh một trong những nguyên tắc đoàn kết quốc tế là: Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình. Có đi, có lại Các bên cùng có lợi. Không dùng vũ lực và đe doạ dùng vũ lực.",
+    "question": "Theo tư tưởng Hồ Chí Minh một trong những nguyên tắc đoàn kết quốc tế:",
     "options": [
       "là:",
       "Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.",
       "Có đi, có lại",
-      "Các bên cùng có lợi.",
-      "Không dùng vũ lực và đe doạ dùng vũ lực."
+      "Các bên cùng có lợi."
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7630,13 +7623,12 @@
   {
     "id": 458,
     "original_num": "Câu 458",
-    "question": "Trong tư tưởng Hồ Chí Minh lực lượng chủ yếu của khối đại đoàn kết dân tộc là: Công nhân, nông dân, lao động trí óc Công nhân, nông dân. Nông dân, lao động trí óc Công nhân.",
+    "question": "Trong tư tưởng Hồ Chí Minh lực lượng chủ yếu của khối đại đoàn kết dân:",
     "options": [
       "tộc là:",
       "Công nhân, nông dân, lao động trí óc",
       "Công nhân, nông dân.",
-      "Nông dân, lao động trí óc",
-      "Công nhân."
+      "Nông dân, lao động trí óc"
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7648,31 +7640,29 @@
   {
     "id": 459,
     "original_num": "Câu 459",
-    "question": "Quyền dân chủ của nhân dân ta lần đầu tiên được thể hiện trong bản Hiến pháp nào? Hiến pháp 1946. Hiến pháp 1959. Hiến pháp 1945. Hiến pháp 1980.",
+    "question": "Quyền dân chủ của nhân dân ta lần đầu tiên được thể hiện trong bản Hiến pháp nào?",
     "options": [
-      "pháp nào?",
       "Hiến pháp 1946.",
       "Hiến pháp 1959.",
-      "Hiến pháp 1945.",
-      "Hiến pháp 1980."
+      "Hiến pháp 1980.",
+      "Hiến pháp 1992."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 77,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 460,
     "original_num": "Câu 460",
-    "question": "Chủ trương trong quan hệ quốc tế của nước ta hiện nay là: Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế. Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế. Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế. Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế.",
+    "question": "Chủ trương trong quan hệ quốc tế của nước ta hiện nay là:",
     "options": [
       "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc",
       "tế.",
       "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế.",
-      "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế.",
-      "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế."
+      "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế."
     ],
     "correctAnswer": 0,
     "page": 77,
@@ -7684,13 +7674,12 @@
   {
     "id": 461,
     "original_num": "Câu 461",
-    "question": "Một trong những quan điểm của Hồ Chí Minh về xây dựng đạo đức mới là: Nói đi đôi với làm, phải nêu gương về đạo đức. Phải biết hành động mọi lúc mọi nơi. Phải biết nhường nhịn. Phải có tính kiên nhẫn hơn người.",
+    "question": "Một trong những quan điểm của Hồ Chí Minh về xây dựng đạo đức mới là:",
     "options": [
       "là:",
       "Nói đi đôi với làm, phải nêu gương về đạo đức.",
       "Phải biết hành động mọi lúc mọi nơi.",
-      "Phải biết nhường nhịn.",
-      "Phải có tính kiên nhẫn hơn người."
+      "Phải biết nhường nhịn."
     ],
     "correctAnswer": 1,
     "page": 77,
@@ -7702,25 +7691,24 @@
   {
     "id": 462,
     "original_num": "Câu 462",
-    "question": "Quyền nào dưới đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị? Quyền tự do báo chí. Quyền lao động. Quyền sáng tác văn học. Quyền khiếu nại, tố cáo.",
+    "question": "Quyền nào dưới đây là một trong những nội dung của dân chủ trong lĩnh vực chính trị?",
     "options": [
-      "vực chính trị?",
+      "Quyền ứng cử, bầu cử.",
       "Quyền tự do báo chí.",
       "Quyền lao động.",
-      "Quyền sáng tác văn học.",
-      "Quyền khiếu nại, tố cáo."
+      "Quyền sáng tác văn học."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 77,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 463,
     "original_num": "Câu 463",
-    "question": "Ai là người sáng lập và rèn luyện Đảng Cộng sản Việt Nam? Nguyễn Ái Quốc. Trường Chinh. Trần Phú. Nguyễn Văn Linh.",
+    "question": "Ai là người sáng lập và rèn luyện Đảng Cộng sản Việt Nam?",
     "options": [
       "Nguyễn Ái Quốc.",
       "Trường Chinh.",
@@ -7737,7 +7725,7 @@
   {
     "id": 464,
     "original_num": "Câu 464",
-    "question": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng của: Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam. Giai cấp công nhân, nhân dân lao động Việt Nam. Giai cấp công nhân Việt Nam Nhân dân lao động và của dân tộc Việt Nam.",
+    "question": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng của:",
     "options": [
       "Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam.",
       "Giai cấp công nhân, nhân dân lao động Việt Nam.",
@@ -7754,7 +7742,7 @@
   {
     "id": 465,
     "original_num": "Câu 465",
-    "question": "Hồ Chí Minh coi sức mạnh của đạo đức là: Đạo đức như gốc của cây như ngọn nguồn của sông suối. Đạo đức là sức mạnh vô song của Đảng. Đạo đức là sức mạnh của thời đại. Đạo đức là sức mạnh của giai cấp công nhân.",
+    "question": "Hồ Chí Minh coi sức mạnh của đạo đức là:",
     "options": [
       "Đạo đức như gốc của cây như ngọn nguồn của sông suối.",
       "Đạo đức là sức mạnh vô song của Đảng.",
@@ -7771,62 +7759,58 @@
   {
     "id": 466,
     "original_num": "Câu 466",
-    "question": "Ở nước ta hiện nay công dân từ bao nhiêu tuổi thì có quyền ứng cử vào Quốc Hội? 21 tuổi. 20 tuổi 19 tuổi. 18 tuổi.",
+    "question": "Ở nước ta hiện nay công dân từ bao nhiêu tuổi thì có quyền ứng cử vào Quốc Hội?",
     "options": [
-      "Quốc Hội?",
       "21 tuổi.",
-      "20 tuổi",
+      "20 tuổi.",
       "19 tuổi.",
       "18 tuổi."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 467,
     "original_num": "Câu467",
-    "question": "Đảng ta lấy chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy xác định? Đại hội VII Đại hội VI. Đại hội V. Đại hội VIII.",
+    "question": "Đảng ta lấy chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy xác định?",
     "options": [
-      "tư tưởng, kim chỉ nam cho hành động của Đảng. Được Đại hội Đảng lần thứ mấy",
-      "xác định?",
       "Đại hội VII",
-      "Đại hội VI.",
-      "Đại hội V.",
-      "Đại hội VIII."
+      "Đại hội VI",
+      "Đại hội V",
+      "Đại hội VIII"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      2
+      0
     ],
     "isMulti": false
   },
   {
     "id": 468,
     "original_num": "CÂu 468",
-    "question": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định? Đại hội XI. Đại hội X. Đại hội XII. Đại hội IX.",
+    "question": "Tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định?",
     "options": [
-      "vấn đề cơ bản của cách mạng Việt Nam, được đại hội Đảng lần thứ mấy khẳng định?",
-      "Đại hội XI.",
-      "Đại hội X.",
-      "Đại hội XII.",
-      "Đại hội IX."
+      "Đại hội IX",
+      "Đại hội X",
+      "Đại hội XI",
+      "Đại hội XII"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 78,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 469,
     "original_num": "CÂu 469",
-    "question": "Tư tưởng là gì? Tư tưởng là sản phẩm của đầu óc con người, do con người sáng tạo ra. Tư tưởng là sản phẩm của con người, do con người sáng tạo ra. Tư tưởng là sản phẩm do con người sáng tạo ra. Tư tưởng là sản phẩm của đầu óc con người.",
+    "question": "Tư tưởng là gì?",
     "options": [
       "Tư tưởng là sản phẩm của đầu óc con người, do con người sáng tạo ra.",
       "Tư tưởng là sản phẩm của con người, do con người sáng tạo ra.",
@@ -7843,13 +7827,12 @@
   {
     "id": 470,
     "original_num": "Câu 470",
-    "question": "Cuối thế kỷ 19, các phong trào yêu nước theo khuynh hướng phong kiến và khuynh hướng dân chủ tư sản là của ai? Phương án đúng nhất Vua Hàm Nghi; Phan Bội Châu và Phan Châu Trinh. Phan Bội Châu và Phan Châu Trinh. Vua Hàm Nghi và Phan Châu Trinh. Hoàng Hoa Thám; Phan Bội Châu và Phan Châu Trinh.",
+    "question": "Cuối thế kỷ 19, các phong trào yêu nước theo khuynh hướng phong kiến và khuynh hướng dân chủ tư sản là của ai?",
     "options": [
       "và khuynh hướng dân chủ tư sản là của ai? Phương án đúng nhất",
       "Vua Hàm Nghi; Phan Bội Châu và Phan Châu Trinh.",
       "Phan Bội Châu và Phan Châu Trinh.",
-      "Vua Hàm Nghi và Phan Châu Trinh.",
-      "Hoàng Hoa Thám; Phan Bội Châu và Phan Châu Trinh."
+      "Vua Hàm Nghi và Phan Châu Trinh."
     ],
     "correctAnswer": 1,
     "page": 78,
@@ -7861,13 +7844,12 @@
   {
     "id": 471,
     "original_num": "Câu 471",
-    "question": "Năm 1911, Hồ Chí Minh quyết định ra đi tìm đường cứu nước, Người khảo sát ở: Phương Tây. Phương Đông. Liên Xô. Nước Mỹ.",
+    "question": "Năm 1911, Hồ Chí Minh quyết định ra đi tìm đường cứu nước, Người:",
     "options": [
       "khảo sát ở:",
       "Phương Tây.",
       "Phương Đông.",
-      "Liên Xô.",
-      "Nước Mỹ."
+      "Liên Xô."
     ],
     "correctAnswer": 1,
     "page": 79,
@@ -7879,7 +7861,7 @@
   {
     "id": 472,
     "original_num": "Câu 472",
-    "question": "Hồ Chí Minh viết Bản án chế độ thực dân Pháp vào năm nào? Năm 1925. Năm 1927. Năm 1920. Năm 1919.",
+    "question": "Hồ Chí Minh viết Bản án chế độ thực dân Pháp vào năm nào?",
     "options": [
       "Năm 1925.",
       "Năm 1927.",
@@ -7930,7 +7912,7 @@
   {
     "id": 475,
     "original_num": "Câu 475",
-    "question": "Nói tới dân tộc thì vấn đề dân tộc được C.Mác và V.I .Lênin bàn nhiều về: Đấu tranh giai cấp ở các nước tư bản. Đấu tranh giai cấp. Đấu tranh giải phóng dân tộc. Đấu tranh đấu tranh chống chủ nghĩa thực dân.",
+    "question": "Nói tới dân tộc thì vấn đề dân tộc được C.Mác và V.I .Lênin bàn nhiều về:",
     "options": [
       "Đấu tranh giai cấp ở các nước tư bản.",
       "Đấu tranh giai cấp.",
@@ -7947,32 +7929,29 @@
   {
     "id": 476,
     "original_num": "Câu 476",
-    "question": "Cương lĩnh chính trị đầu tiên của Đảng, Hồ Chí Minh viết: (Chọn phương án đúng nhất) Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản. Làm tư sản dân quyền cách mạng và thổ địa cách mạng. Làm tư sản dân quyền và thổ địa. Quá độ lên chủ nghĩa xã hội.",
+    "question": "Cương lĩnh chính trị đầu tiên của Đảng, Hồ Chí Minh viết: (Chọn phương án đúng nhất)",
     "options": [
-      "phương án đúng nhất)",
-      "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng",
-      "sản.",
+      "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
       "Làm tư sản dân quyền cách mạng và thổ địa cách mạng.",
       "Làm tư sản dân quyền và thổ địa.",
       "Quá độ lên chủ nghĩa xã hội."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "page": 79,
     "correctAnswers": [
-      1
+      0
     ],
     "isMulti": false
   },
   {
     "id": 477,
     "original_num": "Câu 477",
-    "question": "Tháng 8/1945, câu nói bất hủ của Hồ Chí Minh là: Dù hy sinh tới đâu, dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết giành cho được độc lập. Nước Việt Nam có quyền hưởng tự do và độc lập. Quyền lợi dân tộc giải phóng cao hơn hết thảy. Độc lập cho Tổ quốc tôi, hạnh phúc cho đồng bào tôi.",
+    "question": "Tháng 8/1945, câu nói bất hủ của Hồ Chí Minh là:",
     "options": [
       "Dù hy sinh tới đâu, dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết",
       "giành cho được độc lập.",
       "Nước Việt Nam có quyền hưởng tự do và độc lập.",
-      "Quyền lợi dân tộc giải phóng cao hơn hết thảy.",
-      "Độc lập cho Tổ quốc tôi, hạnh phúc cho đồng bào tôi."
+      "Quyền lợi dân tộc giải phóng cao hơn hết thảy."
     ],
     "correctAnswer": 0,
     "page": 79,
@@ -8188,7 +8167,7 @@
   {
     "id": 490,
     "original_num": "Câu490",
-    "question": "Quan điểm của Hồ Chí Minh về vai trò của con người là như thế nào? (Lựa chọn 2 đáp án đúng)",
+    "question": "Quan điểm của Hồ Chí Minh về vai trò của con người là như thế nào?",
     "options": [
       "Con người là mục tiêu của cách mạng.",
       "Con người là động lực của cách mạng.",
@@ -8291,7 +8270,7 @@
   {
     "id": 496,
     "original_num": "Câu 496",
-    "question": "Xây dựng con người toàn diện thể hiện những khía cạnh nào dưới đây? (Chọn 3 phương án đúng)",
+    "question": "Xây dựng con người toàn diện thể hiện những khía cạnh nào dưới đây?",
     "options": [
       "Có ý thức làm chủ, tinh thần tập thể XHCN và tư tưởng mình vì mọi người.",
       "Có lòng yêu nước nồng nàn, tinh thần quốc tế trong sáng.",
@@ -8327,7 +8306,7 @@
   {
     "id": 498,
     "original_num": "Câu 498",
-    "question": "Hồ Chí Minh đến Liên Xô vào năm nào và tiếp cận chính sách gì? Năm 1923 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1921 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1920 và tiếp cận Chính sách kinh tế mới (NEP). Năm 1924 và tiếp cận Chính sách kinh tế mới (NEP).",
+    "question": "Hồ Chí Minh đến Liên Xô vào năm nào và tiếp cận chính sách gì?",
     "options": [
       "Năm 1923 và tiếp cận Chính sách kinh tế mới (NEP).",
       "Năm 1921 và tiếp cận Chính sách kinh tế mới (NEP).",
@@ -8395,7 +8374,7 @@
   {
     "id": 502,
     "original_num": "Câu 502",
-    "question": "Một trong những truyền thống tốt đẹp của tư tưởng và văn hóa Việt Nam được HCM tiếp thu để hình thành tư tưởng của Người là? (phương án đúng nhất)",
+    "question": "Một trong những truyền thống tốt đẹp của tư tưởng và văn hóa Việt Nam được HCM tiếp thu để hình thành tư tưởng của Người là?",
     "options": [
       "Chủ nghĩa yêu nước Việt Nam.",
       "Học thuyết của Nho giáo.",
@@ -8604,7 +8583,7 @@
       "Bối cảnh xã hội Việt Nam cuối thế kỷ XIX đầu thế kỷ XX và bối cảnh thời đại",
       "Những tiền đề tư tưởng – lý luận",
       "Nhân tố chủ quan",
-      "a và b hợp thành cơ sở quan trọng nhất"
+      "và b hợp thành cơ sở quan trọng nhất"
     ],
     "correctAnswer": 0,
     "page": 86,
@@ -9176,7 +9155,7 @@
   {
     "id": 548,
     "original_num": "Câu 548",
-    "question": "Theo Hồ Chí Minh thì học chủ nghĩa Mác – Lênin như thế nào là đúng đắn nhất?. Hãy tìm đáp án sai trong những cách học dưới đây",
+    "question": "Theo Hồ Chí Minh thì học chủ nghĩa Mác – Lênin như thế nào là đúng đắn nhất?",
     "options": [
       "Học thuộc lòng sách vở Mác – Lênin",
       "Học lập trường, quan điểm và phương pháp của chủ nghĩa Mác – Lênin để giải quyết những vấn đề thực tế của nước ta",
@@ -9193,7 +9172,7 @@
   {
     "id": 549,
     "original_num": "Câu 549",
-    "question": "Khi trả lời câu hỏi:” dạy chủ nghĩa Mác – Lênin như thế nào là đúng?” Hồ Chí Minh đã nêu ý kiến như sau. Hãy tìm ý kiến nhấn mạnh yếu tố nhân văn trong việc giảng dạy chủ nghĩa Mác – Lênin của Hồ Chí Minh",
+    "question": "Khi trả lời câu hỏi:” dạy chủ nghĩa Mác – Lênin như thế nào là đúng?",
     "options": [
       "Hiểu chủ nghĩa Mác – Lênin tức là cách mạng phân công cho việc gì đều phải làm tròn nhiệm vụ",
       "Không nên đào tạo ra những con người thuộc sách làu làu, cụ Mác nói thế này, cụ Lênin nói thế kia, nhưng quét nhà lại để cho nhà đầy rác",
@@ -9430,7 +9409,7 @@
   {
     "id": 563,
     "original_num": "Câu 563",
-    "question": "Luận điểm nào trong những luận điểm dưới đây về nhà nước của Hồ Chí Minh, trực tiếp thể hiện tư tưởng nhà nước của dân ?",
+    "question": "Luận điểm nào trong những luận điểm dưới đây về nhà nước của Hồ Chí Minh, trực tiếp thể hiện tư tưởng nhà nước của dân?",
     "options": [
       "Nước ta là nước dân chủ",
       "Cách mạng rồi thì quyền giao cho dân chúng số nhiều, chớ để trong tay một bọn ít người",
@@ -9532,7 +9511,7 @@
   {
     "id": 569,
     "original_num": "Câu 569",
-    "question": ": Trong những luận điểm về đạo đức của Hồ Chí Minh, luận điểm nào dưới đây được Hồ Chí Minh viết trong Di chúc ?",
+    "question": ": Trong những luận điểm về đạo đức của Hồ Chí Minh, luận điểm nào dưới đây được Hồ Chí Minh viết trong Di chúc?",
     "options": [
       "Đảng ta là một Đảng câm quyền, mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần, kiệm, liêm, chính,chí công vô tư",
       "Cần , kiệm, liêm, chính là 4 đức của một con người, thiếu một đức thì không thành người",

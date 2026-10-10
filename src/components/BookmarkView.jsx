@@ -88,7 +88,7 @@ export default function BookmarkView({
                       <span className="shrink-0 font-bold text-xs w-6 h-6 rounded bg-white border border-slate-200 flex items-center justify-center">
                         {optionLetters[optIdx]}
                       </span>
-                      <span className="flex-1 pt-0.5">{opt}</span>
+                      <span className="flex-1 pt-0.5">{opt.replace(/^\s*([a-dA-D1-4])[\.\,\:\/\s\-\)]\s*/, '')}</span>
                       {isCorrect && (
                         <CheckCircle2 className="w-5 h-5 text-emerald-600 shrink-0" />
                       )}
